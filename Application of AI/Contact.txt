@@ -1,0 +1,3 @@
+Application of AI/Task/Week 1/week_03_2023-02-01_GMT20230202-004434_Recording_1920x1080.mp4
+
+git rm --cached Application of AI/Task/Week 1/week_03_2023-02-01_GMT20230202-004434_Recording_1920x1080.mp4
