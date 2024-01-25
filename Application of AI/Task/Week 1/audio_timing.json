@@ -1,20 +1,134 @@
+
+
+// __________________________________________________________
+
+
+
 [
     {
-		"segment_start": "00:14:38", 
-		"segment_end": "00:14:45", 
-		"week": 1,
-		"page": 1
-	},
-	{
-		"segment_start": "00:14:45", 
-		"segment_end": "00:15:46", 
-		"week": 1,
+		"segment_start": "00:05:49", 
+		"segment_end": "00:07:19", 
+		"week": 3,
 		"page": 2
 	},
 	{
-		"segment_start": "00:15:46", 
-		"segment_end": "00:17:41", 
-		"week": 1,
+		"segment_start": "00:07:20", 
+		"segment_end": "00:09:06", 
+		"week": 3,
 		"page": 3
-	}
+	},
+	{
+		"segment_start": "00:09:07", 
+		"segment_end": "00:10:50", 
+		"week": 3,
+		"page": 4
+	},
+	{
+		"segment_start": "00:10:51", 
+		"segment_end": "00:12:00", 
+		"week": 3,
+		"page": 5
+	},
+	{
+		"segment_start": "00:12:01", 
+		"segment_end": "00:13:00", 
+		"week": 3,
+		"page": 6
+	},
+	{
+		"segment_start": "00:13:00", 
+		"segment_end": "00:14:06", 
+		"week": 3,
+		"page": 7
+	},
+	{
+		"segment_start": "00:14:08", 
+		"segment_end": "00:15:30", 
+		"week": 3,
+		"page": 8
+	},
+	{
+		"segment_start": "00:15:31", 
+		"segment_end": "00:16:49", 
+		"week": 3,
+		"page": 9
+	},
+	{
+		"segment_start": "00:16:50", 
+		"segment_end": "00:17:59", 
+		"week": 3,
+		"page": 10
+	},
+	{
+		"segment_start": "00:18:06", 
+		"segment_end": "00:19:32", 
+		"week": 3,
+		"page": 11
+	},
+	{
+		"segment_start": "", 
+		"segment_end": "", 
+		"week": 3,
+		"page": 12
+	},
+	{
+		"segment_start": "00:20:47", 
+		"segment_end": "00:21:17", 
+		"week": 3,
+		"page": 13
+	},
+	{
+		"segment_start": "00:21:18", 
+		"segment_end": "00:22:44", 
+		"week": 3,
+		"page": 14
+	},
+	{
+		"segment_start": "00:22:45", 
+		"segment_end": "00:24:03", 
+		"week": 3,
+		"page": 15
+	},
+	{
+		"segment_start": "00:24:04", 
+		"segment_end": "00:25:19", 
+		"week": 3,
+		"page": 16
+	},
+	{
+		"segment_start": "00:25:21", 
+		"segment_end": "00:27:08", 
+		"week": 3,
+		"page": 17
+	},
+	{
+		"segment_start": "00:27:09", 
+		"segment_end": "00:28:04", 
+		"week": 3,
+		"page": 18
+	},
+	{
+		"segment_start": "00:28:05", 
+		"segment_end": "00:29:22", 
+		"week": 3,
+		"page": 19
+	},
+	{
+		"segment_start": "00:29:24", 
+		"segment_end": "00:30:20", 
+		"week": 3,
+		"page": 20
+	},
+	{
+		"segment_start": "00:30:22", 
+		"segment_end": "00:30:47", 
+		"week": 3,
+		"page": 21
+	},
+	{
+		"segment_start": "00:30:22", 
+		"segment_end": "00:30:48", 
+		"week": 3,
+		"page": 22
+	},
 ]

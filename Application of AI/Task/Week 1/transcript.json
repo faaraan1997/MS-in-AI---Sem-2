@@ -9,7 +9,114 @@
         "week": 1,
         "page": 2
     }
-
-
-
 ]
+// -------------------------------------------------------------------------------------------------------
+
+[
+    {
+        "transcript": "So you have a process, and several outcomes are possible. When the process is repeated a large number of times, each outcome occurs with a relative frequency, or so-called probability.    If a particular outcome occurs more often, we say it is more probable. So, the probability arises through a contest.First of all, in an actual repeated experiment (for example, recalling the color of 1,000 cars driving by), if 57 out of 1,000 are green, then you estimate the probability of a car being green as 57 divided by 1,000. Eventually, you get a small number, and this is the so-called probability here.In the idealized conceptions of a repeated process, for example, considering the behavior of an unbiased 6-sided die, the probability of rolling a 5 is 1 over 6.That should be the same. Another example is when you need a model for how people's heights are distributed. You choose a normal distribution to represent the expected radio probabilities",
+        "week": 2,
+        "page": 2
+    },
+    {
+        "transcript": "So next, when trying to solve machine learning problems, you may need to deal with some uncertainty and qualities, as well as the stochastic problem in non-deterministic parties.       In probability theory, it provides a mathematical framework for representing and quantifying uncertain quantities, and there are several different sources of uncertainties.For example, the first one can be the inherent stochasticity in the system being modeled. Another concrete example is that most interpretations of quantum mechanisms describe the dynamics of some atom particles as being probabilistic.Another reason causing uncertainty can be the incompleteness of observability. Even deterministic systems can appear stochastic when we cannot observe all the variables that affect the behavior of the system. Another reason can be incomplete modeling. When we use models, we may not capture all the information we observe, leading to uncertainty in the model's predictions. For example, the discretization of real number values, dimension reduction, etc. Because we always discard unnecessary information. So, while it may seem unnecessary, in terms of data itself, it can be useful.",
+        "week": 3,
+        "page": 3
+    },
+    {
+        "transcript": "That was another reason for the uncertainty of the model. Now, let's quickly review random variables. A random variable, denoted as x, is a variable that can take different values.For example, x can represent drawing time. The possible values of x comprise a sample space. For instance, consider the outcome space, denoted as S, which is equal to 1 to 6 because it represents a six-sided die with six different values.So, we denote the event of rolling a 5 as x equal to 5 or x being equal to 5 with this equation.The probability is denoted as P, and it is used to express the likelihood of events. Additionally, the notation P(x) can be used to denote the probability distribution of the random variable x. It signifies that x has a probability of P(x). For a random variable, there can be both discrete and continuous types. Discrete random variables have a finite number of possible values. For example, the sides of a die represent a finite number of states. On the other hand, continuous random variables can have an infinite number of possible states. For instance, the height of a person can vary infinitely",
+        "week": 3,
+        "page": 4
+    },
+    {
+        "transcript": "Here are some, like, kind of rules of the probability. For example, the probability of an event A. Yeah. Given sample space test, the net as the P(A) master satisfies the following properties. Like, that is a non negativity, so which means that probability of all event, it should be bigger than 0. And all possible outcomes is, For example, if we sum all the, probability, then it should be equal to 1. And, yeah, another property is about Identity of the this joint event, which means that, for example,  A1  and the A2 used to be equal to 0. So which means that there is no, common unit between this A1 and A2. And also the Probability of A1, the unit was the h two should be equal to the probability of A1 then cross all probability of A2. And next, the probability of a random variable k x must obey the exons of the probability over the possible values in the sample space S",
+        "week": 3,
+        "page": 5
+    },
+    {
+        "transcript": "And here's another example of our discretes of variables.A probability distribution of discrete variables may be, described as a probability mass function. So also named the PMF. So let me you might need to remember what is PMF. That is just probability mass function as you can see here. And our probability distribution over continuous variable may be described as an PDI, because of probability density function. For example, waiting time between the, eruption of all the, best film and the PDI gives the probability. And even, if not just keep small region with the random of the that acts here to find a probability of the interval a and b where you already have of the integration between of a and b of the probability p(x) and with p(x). Because this is how we, find this probability over kind of certain interval there.",
+        "week": 3,
+        "page": 6
+    },
+    {
+        "transcript": "For the market variable of random variables, so we may need to consider several random variables at one time and then if several random process that occurred in parallel or in sequence, for example, to model that relationship is several diseases and the symptoms. And, another example is if you process images with millions of pixels,  then each pixel is a one random variable you can see, in this way. That's the way we are studying the probability distribution defined over the multiple random variables, And those include the joint, the condition, and marginal distribution. The individual random variables can be grouped together into a random vector because they represent different properties of an individual's, status to go unit. Our market variant of random variable is a vector of multiple random variables. So for example, I the capital x can, be represented by  X1, X2 to Xn with its transpose state.",
+        "week": 3,
+        "page": 7
+    },
+    {
+        "transcript": "So now let's talk about 1st about the joint, probability distribution. So the probability distribution that acts many variables at that time is known as a joint probability distribution to arrive, but you're able to see about all That is capital x is equal to s, small s, and, capital y is equal to small y simultaneously. So that is Probability of x equal to smart x and the capital y would equal to small y, the less is a joint probability. And, women Also, right, it is a p(x) for the initial to represent this probability. And from this Figure, you have found that as I join the probability, p one x is equal to mini event. So the mini event is here. Right? This is a mini event. And why why is European? So you will get us a joint of probability. If tax is equal to a minimum Why is equal European? Then we cannot get it on probability of 0.1481. So this is a we need to consider about the post case.",
+        "week": 3,
+        "page": 8
+    },
+    {
+        "transcript": "And our distribution is called the marginal probability distribution. So for the marginal probability distribution is a problem in a probability distribution of a single variable. So previous, but jointly, consider 2. Right? But here, we only consider about Europe and just consider about 1. It'll calculate the best time that joined them probability distribution to just push P (X,Y). For example, we may need to use, some rule. For example, the probability of the capital x is equal to small x. So there should be a we need to sum all the probability across other kind of variable than the y. So as you can see here, either some or or other probabilities across the y here. Right? And for continuous random variable, some measure is replaced by indication. So here, just the indication up here. And this process is called, marginalization. So as you can see, this figure So now let's say, what's the probability of the, marginal probability of the p x equal to minivan. So That basically we need to calculate as our probability of the by x is equal to million, then try to sum All these 3 brought together. So eventually, we can get a 0. 3333 as it's minor distribution of x equal to any vector.",
+        "week": 3,
+        "page": 9
+    },
+    {
+        "transcript": "The last, distribution we want to mention is about the conditional probability distribution. As you can see from the name, so the conditional probability distribution is a probability distribution of 1 variable provides that another variable has a taken, certain value, for example, it can be donated in this query and solve probability of x is dependent on given the small y here. And, also, it can be right in this equation. And, also, similarly, in this figure, if we want, you can calculate the conditionally probability of y is equal to Europeans and x is equal to a minivan, so we can Calculators, probability. First of all, we need to find his joint view. Probability that is about this one. Right? Then divide by the all other case. So eventually, we can get this this kind of probability of y is equal to, European giving x is equal to many events. Now can I get a 0. 4 or so 3 as is contingent conditional probability.",
+        "week": 3,
+        "page": 10
+    },
+    {
+        "transcript": "Okay. I think this is a nice device. The for, you know, is that is Bayesian equation. Right? So our calculated that conditional probability for one variable, but additional probability support another variable unknown. For example, this is a probability of x given y that is And we take ready in this secret. It's called a base rule. And, again, it's the multiplication rule of that for the joint distribution is used. As you can see it's just I cannot move a little bit to the last side. Bayes symmetry, we have another, p y of x that is equal problem. Can you show probability of a x given y that times the probability of p y? And there's a term I'll refer as the p(x) here, just, we can also name it as a prior probability or the initial degree of of x. And he has, p x y is a posterior probability. That degree of We we live after the incorporation of knowledge of y and the p y x is so called the likelihood of the y given x, and the p y here is just the evidence. And, eventually, the is just, can be understand in this way. So later, once we Try to estimate something we were trying to reuse this likelihood. It was kind of prior",
+        "week": 3,
+        "page": 11
+    },
+    {
+        "transcript": "And, that will talk about the independence. So the 2 random variable x And the y are independent if it was a occurrence of y does not reveal any information about the occurrence of x. For example, true success, true success of the rules of the die, independent. Right? So therefore, we have y, the p (x | y) that is just equal to p(x) because they are independent. And as you guys have notation here, as notated from Independent random variables that p(x,y), that is just equal to the times up to p(x) times with p(y). In other cases, the random variables are dependent. For example, getting a king, our successive draws from our deck, the draw card is not a replacement. And the 2 random variables, x, y, are conditionally independent to give another random variable z if and only if them p x y given z, that is equal to p(x) given z times of is, the probability of y given z here and also people make it clear.",
+        "week": 3,
+        "page": 12
+    },
+    {
+        "transcript": "Among the, continuous multivariate just means that for some concept of joint, marginal, and the conditional probabilities apply for continuous random variables. So the probability distributions use the indication of continuous random variables instead of us. Summation of a dissipated random variables. Here is an example about the 3 component of gaussian mixture from the distribution in 3 d dimension.",
+        "week": 3,
+        "page": 13
+    },
+    {
+        "transcript": "The expected value. So the expected value or the expectation of a function f(x), Yeah. With respect to to probability distribution p x as, average or the means of the mean, y x is drawn from p(x). For example, for our discrete random variable x, it is can be calculated using pretty best way. We And the estimation of all the p(x) probability of x that time is a bunch of x that had a sum of it. However, usually, it is our continuous random variable facts that we are being calculated using some hidden indication here. Right? So when the identity of the distribution is clear around the context, we can write, you know, as this kind of explanation here. So if it is clear with random variable, it's used, and we can write just write it as the expectation of. So b is the most common matter of central tendency of a distribution for a random variable f(x) So I is equal to f(x). That means that mu is equal to the expectation of x I. Then can be plus or rewrite at this point. As this signal, I just missed that you get well, categorize the average of all the samples xi. Right? Other measures of central tendency, Like, for example, like a medium or a techno mode of the data.",
+        "week": 3,
+        "page": 14
+    },
+    {
+        "transcript": "What about the various? Varies gives the measure of how much the values of function f x, divide from Give it from the expected values as we sample values of x from p(x). And then here is the clear on how we calculate the variance here. Once the virus is low, the value of f(x) faster near the expected value. And, the you already the variance is the commonly the nature they use is sigma squared here, and then the above, we create a similar to a bunch of x. F(x) is equal to xi minus mu here. Expand. Mu is Just the main line here. That is a cosmine line, this one. And we have, like, sigma square can be rewriting this equation, and this is similar to the formula of calculating the variance of sample of observation. So as you guys might be familiar with this So I write out particular various, you know, parts of the data. And here is how we define the the standard deviation. That's just a single here. The the best theorem as per root of the various x here.",
+        "week": 3,
+        "page": 15
+    },
+    {
+        "transcript": "The covariance gives the merit of how much 2 random variables are linear related to each other.And then here is the is the gradient. And, let's say, if the f xi is equal to f xi minus mu x, and the g at yi is equal to yi minus the mu y here. And then the covariance of x y can be donated in this way and then compared to where covariance of actual samples, so you can calculate it in this way. We needed to man notice that the covariance measures, the tenders of x y to divide from the, miss in the same or opposite direction at the same time. For example, Is this one kind of observe some covariance between x y? No. Right? But go to Is that right? How about this one? You probably can find a high correlation between x and y. And this should best miss a positive one. And if you like, this way should be on that relationship with an x and y. Any questions? No.",
+        "week": 3,
+        "page": 16
+    },
+    {
+        "transcript": "Sure. The correlation So correlation coefficient is a covariance, normalization by the standard deviation of the 2 variables that is just And the k rate device, covariance of x y is then divided by the Sigma of x times the Sigma of y. And I also named the Pearson's correlation or or efficient at the end as, row x y here. And there's a value This one is what? I'm running the relation, but some but you can read something that I want variable is decreased. So, your rate was negative. Yeah. And the y adjustment is positive. And then it only reflects the linear dependency between variables, and it does not measure the nonlinear dependencies between the variable. So for example, in this case so So here, it's about linear dependency with noise.       From one tip place, very the higher positive than 0. 8, 0. 4, The 0, we are assuming there's no there's no kind of, correlation and, -0.4, 0. 4 and -0.8, then to -1 was means a strong negative. And, also, here is the linear dependence without noise. It basically means that you can find a very clear relationship between each other. So what about nonlinear? That's about nonlinear.",
+        "week": 3,
+        "page": 17
+    },
+    {
+        "transcript": "A covariance matrix consists of multi variant of band random variable x with states of x that is, n dimensional real values has a m by m metric, such as the covariance xij that is equal to the covariance of xi and the yi. It's about it's the overall metrics. And there's a diagonal element of the covariant metrics, the various of the elements of the vector, so the the covariance of xi and, xi should be just equal to the variance of xi. So, also, we as noted that the program metrics is the metric since the program is of x I, xj that is equal to the rest of xj and, xi here.",
+        "week": 3,
+        "page": 18
+    },
+    {
+        "transcript": "Was a different, probability distributions. So for example, about Bernollie distribution, it is like a binary random variable x instead of 0 and 1.  So the random variable can encoders, co inflate with the common comes up 1 with a probability of b and, 0 place probability of 1 minus p. Right? Notation should be x that is, should be should be compiled with the of p here, like your. That's what a uniform distribution, the probability of each value. For example, 'i', in the one to the n is, the is equal to the pi is equal to 1 over n. So this is notation. It should be x. It should be  I could tell you it's you and here. So what about in the figure here is equal to 5, and the probability is just 0.2. Right? Why? Why the point is is 0.2? Yeah. I'm gonna do this more like this system. And it's 8 with the files. Each property is just 0.5. Yeah. 0.2. ",
+        "week": 3,
+        "page": 19
+    },
+    {
+        "transcript": "We also have other distributions. For example, Binomial distribution to perform a sequence of an independent experiments, each of which has a probability of P of succeeding. For example, we are the p should be between 0 and 1. So the property of getting case successful in the end trials should be like Donate as is the and this notation should be x, the, binomial, and p here. And we also have poison distribution, which means that a number of event, operate independently in a fixed interval of time with a known random lambda here. Just create a random variable x with a state of care that is it 1 to to n as a probability of this So he has a red, the down times the average number of occurrence of event, and then you can relate as this.",
+        "week": 3,
+        "page": 20
+    },
+    {
+        "transcript": "And this should be most of the famous distribution that is Gaussian distribution. So the most well known noise distribution, you refer to the normal distribution or the informally of the pair shape distribution, and the pair is the mean and its variance and its notation. This is this is the full equation I've got, And then you guys should have familiar with our different and I often current distribution here.",
+        "week": 3,
+        "page": 21
+    },
+    {
+        "transcript": "",
+        "week": 3,
+        "page": 22
+    },
+]
+
