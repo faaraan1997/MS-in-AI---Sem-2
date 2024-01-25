@@ -126,9 +126,113 @@
 		"page": 21
 	},
 	{
-		"segment_start": "00:30:22", 
-		"segment_end": "00:30:48", 
+		"segment_start": "00:30:48", 
+		"segment_end": "00:32:50", 
 		"week": 3,
 		"page": 22
 	},
+	
+	{
+		"segment_start": "00:32:52", 
+		"segment_end": "00:33:52", 
+		"week": 3,
+		"page": 26
+	},
+	{
+		"segment_start": "00:33:53", 
+		"segment_end": "00:37:09", 
+		"week": 3,
+		"page": 23
+	},
+	{
+		"segment_start": "00:37:10", 
+		"segment_end": "00:38:44", 
+		"week": 3,
+		"page": 24
+	},
+	{
+		"segment_start": "00:38:45", 
+		"segment_end": "00:39:42", 
+		"week": 3,
+		"page": 25
+	},
+	{
+		"segment_start": "00:40:04", 
+		"segment_end": "00:41:04", 
+		"week": 3,
+		"page": 27
+	},
+	{
+		"segment_start": "00:41:05", 
+		"segment_end": "00:43:55", 
+		"week": 3,
+		"page": 28
+	},
+	{
+		"segment_start": "00:43:56", 
+		"segment_end": "00:45:20", 
+		"week": 3,
+		"page": 29
+	},
+	{
+		"segment_start": "00:45:21", 
+		"segment_end": "00:47:12", 
+		"week": 3,
+		"page": 30
+	},
+	{
+		"segment_start": "00:47:14", 
+		"segment_end": "00:49:51", 
+		"week": 3,
+		"page": 31
+	},
+	{
+		"segment_start": "00:50:00", 
+		"segment_end": "00:50:04", 
+		"week": 3,
+		"page": 32
+	},
+	{
+		"segment_start": "00:50:04", 
+		"segment_end": "00:51:30", 
+		"week": 3,
+		"page": 33
+	},
+	{
+		"segment_start": "00:51:31", 
+		"segment_end": "00:52:44", 
+		"week": 3,
+		"page": 34
+	},
+	{
+		"segment_start": "00:52:45", 
+		"segment_end": "00:54:06", 
+		"week": 3,
+		"page": 37
+	},
+	{
+		"segment_start": "00:54:10", 
+		"segment_end": "00:54:48", 
+		"week": 3,
+		"page": 38
+	},
+	{
+		"segment_start": "00:54:50", 
+		"segment_end": "00:55:53", 
+		"week": 3,
+		"page": 39
+	},
+	{
+		"segment_start": "00:55:55", 
+		"segment_end": "00:56:29", 
+		"week": 3,
+		"page": 40
+	},
+	{
+		"segment_start": "00:56:31", 
+		"segment_end": "00:57:06", 
+		"week": 3,
+		"page": 41
+	},
 ]
+
