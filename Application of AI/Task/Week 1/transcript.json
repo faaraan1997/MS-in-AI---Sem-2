@@ -178,6 +178,75 @@
         "week": 3,
         "page": 34
     },
-
+    {
+        "transcript": "So that's there are several reasons that we needed to do that. Example, some data has incomplete, so lack of attribute values, lacking some certain attributes, of the interest or contain only some aggregate data. For example, some occupations that is equal to nothing. Right? So it's missing missing data there. And noisy is that it contains some noise, some errors on outliers. For example, a salary is able to negative trend and it's a wrong data. Right? And a inconsistent so it contains some discrepancies in the codes or names, for example, age equal to 42. Birthday is equal in this number. Right? For the people you have given from the age, you have given the first day. Right? The previous is a rating like a wide history is now someone really as of ABC. Right? It's different. And there are some other discrepancy duplicate the records. And even sometimes there are some intentional, some mistakes. For example, like, general one as, as everyone's birthday It is wrong. Right? And there are several reasons why we needed to do our data cleaning here.",
+        "week": 3,
+        "page": 37
+    },
+    {
+        "transcript": "For incomplete, missing data. So data is not always available. For example, magnitude, I have no record of errors for several attributes, So there's a customer in common in some several data, missing data made due to equipment, infection, and function and the ecosystem was auto recorded data and the data are not due to the misunderstanding and the sudden data may not be considered important at a time of entering and a not register history of change of data. Missing data may need to be inferred.",
+        "week": 3,
+        "page": 38
+    },
+    {
+        "transcript": "How can we handle the missing data? So we were trying to engross on them in. It should be very easy to understand. We're just engross them.Right? If we have not That's how so here it's on when cost level is missing. I went through the classification in this case. So you cannot affect the percentage of missing various per attribute of various considerable. And, another way maybe we try to fill in the missing various manually. Maybe some kind of or invisible, but, typically, we may need a drill, like, a feeling like the mean of some missing values. Right? So if we are in our with like, a global consider, for example, any a new class as a attribute the mean like that, I said, the attribute mean of all samples belong to the same class as model by where The most probable values, so the inference is best, as the patient formula or the decision tree. There are several ways you can do Autonomy, like, filling some missing values there.",
+        "week": 3,
+        "page": 39
+    },
+    {
+        "transcript": "What about noise? So the in my the noisy, you just missed the miss that. Random error or variance in a matter of the variable. So incorrect, attributes values may be due to the federal data collection instruments. So data entry problems, some data transmission problems, some technology limitation and inconsistency, namely information. So other data problems with required data cleaning, for example, that duplicated requires incomplete data, inconsistent data, And, has more lessons that we can handle on missing data for, like, billing, like, a first to start the data and partitioning into, equal frequency based.",
+        "week": 3,
+        "page": 40
+    },
+    {
+        "transcript": "And, has more lessons that we can handle on missing data for, like, billing, like, a first to start the data and partitioning into, equal frequency based.  The by clearance was most by frequent of data is on regression punches, clustering is to detect and remove our layers to combine some human inspection. So, for example, detect some suspicious values and the check by human And the journey with some possible out of here.",
+        "week": 3,
+        "page": 41
+    },
+    {
+        "transcript": "In data, this purpose and detection, so So a user will try to use some metadata, like the domain branch, you just dependency distribution. So check the failure overloading. So Check the UNIX rules, a conservative rule, and a non rule, so use commercial tools. So for the data, Sprablin uses some simple domain knowledge. For example, postcode, spell, check, detect errors and make corrections. So in the data, auditing analysis by analysis that there's how to discover rules and relationship to detect some violators, for example, the correlation and cluster to find some outliers, in the data migration on the integration. So by using some tools, it will allow some transformations to be so the sync file. And subsequent ETF, the transformations of the loading tools allow user to, satisfies, transformations through, graphic user interface. Then integration of 2 different processes. For example, IT or interactive, different ways how to, interact with strategic process.",
+        "week": 3,
+        "page": 42
+    },
+    {
+        "transcript": "",
+        "week": 3,
+        "page": 43
+    },
+    {
+        "transcript": "So next, we wanna talk about the data integration and data integration, so it is best to me that we try to combine data from multiple sources I need to go hand the store. So the schema indication mean, for example, you were trying to match as A.customer_ID that equal is B.customer_ID, which means that, indicate the metadata from different sources. And the entity identified problems, identify from the real entities From multiple data sources, for example, that is Bill Clinton equal to the William Clinton. Is that correct? So detecting some result in some data, value complex for the same value of all the entity. Attribute values from different sources are different.Possible reasons about different representations, different skills, that, for example, the metri combined with some British units.",
+        "week": 3,
+        "page": 44
+    },
+    {
+        "transcript": "Right. Let's try to say how do we handle some redundancy data. So redundancy data occur occur open, but in location of multiple database. For example, in the object, identification, the same attributes or the object may have different names in another table, for example, about annual revenue there. And, with redundant to integration may be able to detect it by correlation analysis and all about the covariance analysis that we just, mentioned before.So cap careful integration of the data from multiple sources may help reduce, avoid the redundancy And the inconsistency here and the improve the money and speed and the quality.",
+        "week": 3,
+        "page": 45
+    },
+    {
+        "transcript": "So next, what we will talk about is, correlation analysis, normal data. So here is a chi square test. That is something you guys familiar with. Right? So like a cost scale value, the more likely is available, I would like it. So the sale Sales that contribute to, to the most of the customer base. Those who actually companies very different from the expected accounts. That's the you know, city is up correlating both of the purchase linked to the certain variable that is about the population. And later, I have another example about it.",
+        "week": 3,
+        "page": 46
+    },
+    {
+        "transcript": "What is a reluctant? What I'm in a place, and there was, like, sign science fiction that correlated. So that is is really missing out. Issues that, I'd like to find inspection and the pictures are correlated in the growth because in using this as you have really have a That's a number here. Good. So let's continue. So now from this my experiment, example, you guys should know how to pick square. Right? And in the future, maybe we're interested in how can that relationship, but you can also try to take, like, the. Just choose a relation between, design some functions there. Another way is about the correlation analysis So that's just a month you need to calculate the correlation coefficient is that we mentioned earlier.",
+        "week": 3,
+        "page": 47
+    },
+    {
+        "transcript": "Right? It's also named the Pearson product, the moment of television is like connected in this ways and that has just a it's a meaning of a total number 2. And, a_hat and b_hat are the representative is a and b, and the Sigma just the standard division of a and b. The Sigma just across product. If the r(a,b) is bigger than 0, which means the a and b are positive or correlated, and And, when a and r(a,b) is equal to 0, you use the independent you will see less than 0 with negative or later. The several ways that you can analyze the relationship and be here.",
+        "week": 3,
+        "page": 48
+    },
+    {
+        "transcript": "So in this case, it's just true. We have a different relationship. For example, it is from the negative as kind of parts are showing similarity from negative one to positive one.So really this now negative one is strong neck, Next two points and the positive one is the strong qualitative relationship between the, x-axis and y-axis there.",
+        "week": 3,
+        "page": 49
+    },
+    {
+        "transcript": "The correlation also can be viewed as a linear relationship. The correlation matters a linear relationship between objects that, as I reviewed earlier, right, to compute correlation, we we standardise that and then be understand.",
+        "week": 3,
+        "page": 50
+    },
 ]
 
