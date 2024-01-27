@@ -248,5 +248,256 @@
         "week": 3,
         "page": 50
     },
+    {
+        "transcript": "Well, here is the details of a while. You can take that for various again And the positive covariance and negative covariance and the independent dependency, the others you guys should be familiar with that. Right? So that so we can really, skip about this part.",
+        "week": 3,
+        "page": 51
+    },
+    {
+        "transcript": "Covariance. So this is a example that can be simplified in a, you know, computational as this covariance that is equal to expectation of expectation of and be the minus this ahead and be here. Detailed time, I wanna let you guys this come out with example. If you're ready, want to challenge yourself or test yourself whether you understand this coherence, you can do this example by yourself later.",
+        "week": 3,
+        "page": 52
+    },
+    {
+        "transcript": "Then we wanna talk about the data reduction and the data processing part.",
+        "week": 3,
+        "page": 53
+    },
+    {
+        "transcript": "So data reduction, the is are reduced. The representation of the dataset that is much smaller in one volume yet produces the same or almost the same And I think our results. So why data reduction? So why we want to do that? So the database or data warehouse remains stored in, terabytes of data. So complex data analysis may take a very long time to be run or complete the data set. That's the reason why we want to, reduction of data. Yeah. So, that dimension narrative reduction measures, for example, the, the PCA, and there's, feature corrections, feature subset actions, numerous key reflections or regression and the log linear models, the histogram, clustering, Then the cube aggregation, so data compression, I will first try to quickly give you a overview of those different measures. And then in the last side, we already talk about the regression a little bit You're finally there.",
+        "week": 3,
+        "page": 54
+    },
+    {
+        "transcript": "So let's continue. So first of all, the dimensionality reduction, I think you guys noticed about the cross of dimensionality. So when the dynamic net increase, the data becomes increasingly sparse. And the density and distance between points, which is Critical to clustering or offline analysis become less meaningful, the positive combination of sub service will go, exponentially, dimension energy reductions avoids the cross of dimension energy have eliminated the Irrelevant features and reduce noise, reduce time, and the space required at data mining allow easier visualization by machine learning detection techniques, Now, for example, relate to some PCA to start up.",
+        "week": 3,
+        "page": 55
+    },
+    {
+        "transcript": "And this is about PCA, so that means we want to find, projections that capture the largest amount of variation in data. So in our orginally, data are projected on a smaller space resulting in dimensionality reduction. We find the eigenvectors and of the covariant metrics, and there's also eigenvectors defined on the new space. So, actually, you can see it's okay as a wrong, like, a major access of the test sets there.",
+        "week": 3,
+        "page": 56
+    },
+    {
+        "transcript": "For the PCA, so I would like to skip this part a little bit because, And then we have another specific cost that we will review it again. So let's try to use some skip that.",
+        "week": 3,
+        "page": 57
+    },
+    {
+        "transcript": "So another way to reduce the dimensionality of data also So it is like, for example, you redundant attributes so duplicate much of all of the information contained in one or more other attributes. For example, purchase price of, product and the amount of sale tax paid. You let you variant attributes, which means that Content. No information that is used for the data. I mean, mining task. I had for example, student ID is often irrelevant to the task predicting a student in GPA. Right? I agree with that.",
+        "week": 3,
+        "page": 58
+    },
+    {
+        "transcript": "Heuristic search in the attribute selection.And, the there are 2 of, how of the possible attributes combination of the attributes, Typically, a characteristic attribute selection method, for example, best single attribute on the attribute independent assumption chooses by significant tests. So by stepwise feature selection, those are best of in a single attribute is in the pick the first and next best, attribute of condition and effects.And the stepwise attribute elimination, so repeated the animated, animated, worst attributes and the best combined with the attribute selection and the elimination. So optimal branch and the bond. So use some attribute elimination and, backtracking some structure to do that. And, even for the attribute of creation.",
+        "week": 3,
+        "page": 59
+    },
+    {
+        "transcript": "And, even for the attribute of creation, for specific way, use a feature generation. So general and correct new attributes features that are coming captured, that important information in your data set, more effectively is that original ones. There are 3 generated methodologies, for example, attribute the attraction to domestic recipient and maintain that into use case, seem like a data reduction problem by those kind of measures. Attributed to cons construction combined features, Discriminated frequent embarrass in in some kind of chapter 7 there, and then this particularization there. There are several methods that we can do that.",
+        "week": 3,
+        "page": 60
+    },
+    {
+        "transcript": "The second, data dimensional type, numerosity reduction. So we just data 1 by choosing the other negative, or some smaller forms of data representations, parametric measures, for example, is this regression and non parametric measures, not assume models. And your family's for, like, a histogram, clustering, some many stuff.",
+        "week": 3,
+        "page": 61
+    },
+    {
+        "transcript": "As the first about, first of all, our primary models is different and revised model, margin type, regression about linear regression there",
+        "week": 3,
+        "page": 62
+    },
+    {
+        "transcript": "let's also skip this regression a little bit because, we will",
+        "week": 3,
+        "page": 63
+    },
+    {
+        "transcript": "cover to the details later about Linear regression should be is easy one.Marketing up equations, the money variable equations should be have money variables, you know, log linear models there.",
+        "week": 3,
+        "page": 64
+    },
+    {
+        "transcript": "And, here's about the histogram analysis. So you buy the you buy data and you track it and install the averages somehow each bucket, which means that this is like Market that we see is like you're like, each of being different beings. Right? Each of being, for example, one thing can be represent, like, 1 to 10 like, 10 to 20 is, like, equal each of them. Right? Because that even calculates the frequencies of each of them. That's it. The partition rules like the equal y was the means the equal bucket range. I mean, for example, this which that means that each of the whites of it should be equal. Another way is like, equal frequency or equal this, which means, like, this cannot should be equal. This frequency should be equal for all different events.",
+        "week": 3,
+        "page": 65
+    },
+    {
+        "transcript": "So there's 2 different rules for Participation. Right? So now we're talking about the clustering of parties partition data into clusters based on similarity and start a class faster representations. For example, central and, diameter only can be very effective if data is clustered. Why not? So data is Smart there. Can have, hierarchical, clustering and the be story in market dimension index structures.There are many choices on cluster is definitions and clusters algorithms across the And lastly, so we have we study the in the depths studied in chapter 10 there.",
+        "week": 3,
+        "page": 66
+    },
+    {
+        "transcript": "And in the sampling, sampling should be obtain a small number of paths to represent the plot at the end and allow finding algorithm to run the complexity that is potentially sublinear to the size of the dataset. The key principle here, try to choose our representaive are subset. I mean, they said simple random something may have very poor performance in the As I was through that, adaptable assembly message that is struck by assembly noted the separate may not reduce the data set. So you're in for the sampling. The end is trying to give you a call that's at, during that if you find some parties with that.",
+        "week": 3,
+        "page": 67
+    },
+    {
+        "transcript": "And there are different, types of sampling, like, the simple random sampling And the sample without replacement and the sample with replacement and the strap by the sampling of the dataset The 2 are samples from each partition.It is proportionally or approximately the 7% of that on the user conjunction with the skewed data there.",
+        "week": 3,
+        "page": 68
+    },
+    {
+        "transcript": "Has some, quality about the ways of resolving. For example, this is our data. I can use simple random, sample without replacement on that. For example, case this case, and then there's some other.",
+        "week": 3,
+        "page": 69
+    },
+    {
+        "transcript": "Yeah. And, for the sampling of clustering or straight file sampling. So this is a raw data again for clustering and basically 1 trigger classified into your small samples there.",
+        "week": 3,
+        "page": 70
+    },
+    {
+        "transcript": "For the data cube, aggregation, so the lower level of the data based on, base cuboid and, the aggregated data of for an individual entity of interest. For example, a class customer, you know, phone calling data warehouse. There are not particle levels of aggregation in data tubes Further, reduce the size of data engineering risk. And we further reference, our provide and they also use the smart most, recommendation, which is not to solve the task. Parts regarding the aggregated information should be answered. They use some data for when and this first drop.",
+        "week": 3,
+        "page": 71
+    },
+    {
+        "transcript": "And there's a string, compression. So they are extensive, theorists, and we are doing the algorithms to control loss by Only limited manipulation is possible without explanation. For example, you know, audio or video compression. So, typically, we're more likely, have a lossy, come compression with a progressive refinement. Sometimes, small fragments of a signal can be reconstructed or resolved or constructed the whole. Right? So for the time sequences, as not audio of such rigorous shock, I'm very So it was time. So time measurement and, you must be a production man. Also, you can see that as a form of, compression here.",
+        "week": 3,
+        "page": 72
+    },
+    {
+        "transcript": "Has not a graph about data compression. This is like a original data. After compression, it's gonna move some some wanted to know some information about the process. Just know of the scale. Just know of the scale. Just know of the scale. Just know of the scale. So, actually, yeah, the way that I said it is correct. I suppose, basically, if we have some kind of or do you get that once we use some lossless or all results? We get some compressed data. Right? If it is above most of the messes, we can also recover the Confess data back to the original data arrived. Like, sometimes in your computer, you Zip a file. Not a file. Eventually, the ends of it, so you get some kind of similar information. But for the last thing, this means that if you Compressed, your data, for example, your compress, your big big, you just model it. So you measure who will have lost the revolution of your visual video. Right? So this is a causal.",
+        "week": 3,
+        "page": 73
+    },
+    {
+        "transcript": "So lastly, we were we're gonna mention about the data transformation and data discretization.",
+        "week": 3,
+        "page": 74
+    },
+    {
+        "transcript": "A function that maps the entire set of values of a given attribute to a new set of replacement values that is the agent's own value can be Identify with the new pairs. There's a message, for example, smooth that this is the pre check constructions, aggregations on normalization, minmax, normalization, z-score normalization, normalization by the, decimal models for scaling, and, discretization is the concept, how does it, can be?",
+        "week": 3,
+        "page": 75
+    },
+    {
+        "transcript": "Also, stop. And he has more details about the mimics normalization And, z-score for normalization and normalization by tech remote and security by so all different ways. And, for the first one, second one, those two messages should be some frequently used normalizing methods.",
+        "week": 3,
+        "page": 76
+    },
+    {
+        "transcript": "Yeah. But this parallelization is yeah. That's the 3 different time attributes for a nominal, ordinal, or numerical. For example, A number of set based from the I started, like, color, some profession. As I'm a ordinary set based from the all the The theory of the academic rank and numerical, just real numbers should be very easy to understand, like, integer or real numbers, in the discussion or divide the value of a continual attributes in the intervals. But interval level can be used to replace replace the act database, reduce the data size by. And surprise, we have comparison. Place the top down to merge and the dispartation can be performed because of attributes are prepared for a quasi analysis, for example, like Just kinda know your audio that had to some kind of numerical presentation. But, eventually, you cannot, like, input our text or it's through some remote. Right? There should be definitely some numbers.",
+        "week": 3,
+        "page": 77
+    },
+    {
+        "transcript": "And, yeah, just some measures, like, typical, like, bining, some histogram, clustering analysis, chi-square and the synthesis, like, and that we test we've used before.",
+        "week": 3,
+        "page": 78
+    },
+    {
+        "transcript": "And then we have equal-width or equal-depth of the partition of the histogram and the echo that's a pretty specific partition in the histogram.",
+        "week": 3,
+        "page": 79
+    },
+    {
+        "transcript": "And, has been a message according to the most, and he has just some kind of detail to to play the with that. For example, bin 1 should be like, this number. This is really and you focus most by being missed or be like a lot of different 3 piece. If we try this most by bin boundaries and, like, in this way. So right. There are different ways that we can 3 of the data there.",
+        "week": 3,
+        "page": 80
+    },
+    {
+        "transcript": "And, yeah, just about the realization about different bins, in terms of, like, this has bin miss you're gonna miss the equal of the frequency. And this is the k means clustering leads to the better results eventually like that. Yes.",
+        "week": 3,
+        "page": 81
+    },
+    {
+        "transcript": "About some of our classification, for example od discretization analysis, this is, like, you know, supervised The entropy determines split of points, top down, reverse split, and the correlation analysis that we already mentioned this class where this is related to the start.",
+        "week": 3,
+        "page": 82
+    },
+    {
+        "transcript": "Hierarchy, and, is usually associated with each dimension. Yeah. Data or warehouse, concept of hierarchy. Facilitators actually, a ruling in your data warehouse to make the data in multiple generative and reality. Concept, hierarchy of formations recursively reduce the data by collecting or replacing our low concepts such as this numerical values for and the high level concepts such as ROS, and the concept of can be So inspired by domain experts are and the data warehouse designer, the concepts of error can be automatically Form the well, both numerical and, nominal data for new numerical data. So we were just using discretizing methods shown before.",
+        "week": 3,
+        "page": 83
+    },
+    {
+        "transcript": "And the specification of, partition of, attributes, explicitly at the schema level by user. For example, like, street is always smaller cities. The, country and the The, country and the specification of our of our set of various by explicitly that are growing. I use this kind of different cities in the in the state. I know it's a specification, but only a part of a set of Attribute for example, only a street should be near a city, the others, then the automatic or generation of errors, attribute that was, by the analysis on number of just picking various, for example, for a set of attributes, a straight set of, cities, state, and the country.",
+        "week": 3,
+        "page": 84
+    },
+    {
+        "transcript": "An example of our all one is different. The case is when a country, like, how many progress, or how many states do you have, many cities, how many streets there.",
+        "week": 3,
+        "page": 85
+    },
+    {
+        "transcript": "",
+        "week": 3,
+        "page": 86
+    },
+    {
+        "transcript": "So let's just, quickly review about the you know data processing. It's really embarrassing that we mentioned today like the data qualities and data cleanings and data integration and data reduction and data transformation and data discretization. I would like to say, Up to now, we already cover some very basic concepts. Aaround like 2 courses, we cover about this mass background. And also we couldn't imagine about those data preprocessing. And those some things that you guys should already know. Right? You shouldn't have any difficulties from now. And, from, I really from next week we are ready to learn some machine learning algorithms in details. So, today, maybe we have a little bit of time. Let's try to start with, little bit about the regression stuff. Let me try to share my. So now let's see all about the regression.",
+        "week": 3,
+        "page": 87
+    },
+    {
+        "transcript": "",
+        "week": 3,
+        "page": 88
+    },
+    {
+        "transcript": "So we are very we could talk about some difficult difference between regression and the classification, then we are mentioned about the simple linear regression, partial linear regression, some polynomial regression, some regression metrics, some classification metrics that you guys should know about that.",
+        "week": 3,
+        "page": 89
+    },
+    {
+        "transcript": "So now What is, what are the difference between regression and the classification? Regression returns, was Some increase on ticket value for and most vacations.It's, that's a good situation to find our Sample to Sound Plus. If you could define classification or most classification, but task is to define all the data to Sound Plus. Yeah. That's good. We'll answer. What about other thoughts? What are the difference between regression and the classification? They don't know what is classification?Yeah. Okay. We catch a big surprise here. What about and as a and as a also, so how about that given speaking regression and classification? I think for regression is that your predict predicted target is the numerical data. And for the classification is the, Like, your predicted target is, is not the numerical data. It is the ordinary or the or the classification data. Is that correct? Yeah. It's kinda so I will answer this question later. So now let's first talk about this classification. We want to classify things classification. So now let's talk about what are the differences between regression and classification. And for regression, the output is very continuous number. There can be any continuous number. Right? But for the classification, it can be just a nominal, which means that it can be 1,2,3. You get the difference here? Okay. Good. For the regression, so the, typically, the easy one is just a normal linear regression, which means just So why then could you could you add x plus bit? What about the market pattern, regression? That means that just that we have a different, regression in mice, different variables in the regression. But about binomial, binomial is missing We have different degrees of the regression. Right? As you can see, you know, the logic is in this review, polynomial. And about the classification, some measures like, classification, It's like k k nearest neighbor or some decision tree classification, some random cross classification. So during the classification, we're really more likely to find this boundary if you give it a class. Right? But, of course, our regression, we really want to figure out data. Right. Do you see the difference from the chat? Any questions so far? Hello? Okay. Good. Let's continue.",
+        "week": 3,
+        "page": 90
+    },
+    {
+        "transcript": "",
+        "week": 3,
+        "page": 91
+    },
+    {
+        "transcript": "",
+        "week": 3,
+        "page": 92
+    },
+    {
+        "transcript": "",
+        "week": 3,
+        "page": 93
+    },
+    {
+        "transcript": "",
+        "week": 3,
+        "page": 94
+    },
+    {
+        "transcript": "",
+        "week": 3,
+        "page": 95
+    },
+    {
+        "transcript": "",
+        "week": 3,
+        "page": 96
+    },
+    {
+        "transcript": "",
+        "week": 3,
+        "page": 97
+    },
+    {
+        "transcript": "",
+        "week": 3,
+        "page": 98
+    },
+    {
+        "transcript": "",
+        "week": 3,
+        "page": 99
+    },
+    {
+        "transcript": "",
+        "week": 3,
+        "page": 100
+    },
 ]
+
 
