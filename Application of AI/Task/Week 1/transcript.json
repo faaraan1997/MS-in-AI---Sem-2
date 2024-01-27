@@ -449,47 +449,47 @@
         "page": 90
     },
     {
-        "transcript": "",
+        "transcript": "Our linear equation is the linear model. For example, our model is that assumes linear relation between the input variable x and the single output variable y. So more specifically, that is y can be calculated from a linear combination of the input of variable x. So what is the a single input of variable x? The method is to refer to a simple linear equation. Simple linear equation is we only have single input of variable x. Once there are multiple input variables that often refer to multiple linear regression.",
         "week": 3,
         "page": 91
     },
     {
-        "transcript": "",
+        "transcript": "Yeah. So now this is the so called the single linear regression problem, I see what x, a single y. The form should be y equal to b zero plus b one times with x one. So here, x one, just so called an independent variable or IV here. The dependent variable called DV here, it should be y. So b zero is constant, and the b one is the coefficient. So it doesn't work. What about the b zero? For sure.",
         "week": 3,
         "page": 92
     },
     {
-        "transcript": "",
+        "transcript": "So, again, one kind of model about to predict your salary with your different experience of years. For example, here they couldn't the salary is able to b 0 plus b 1 times with a variance, and then you can try to predict How much, salary we are we increased during the years. Right? I think it's typically it should be just a simple My name is right. So let them that was a good with the different years. We have a lot of that. We'll have made a goal increase above the setup.",
         "week": 3,
         "page": 93
     },
     {
-        "transcript": "",
+        "transcript": "And then here's another example. You can just Try that. Are you interested to, calculate as a number of years experience with the salary. So have salary again. Just, give me give me is what? I'm very good. I'm very good. I'm very independent variable.",
         "week": 3,
         "page": 94
     },
     {
-        "transcript": "",
+        "transcript": "And I guess just the case is that you can't perform the same for linear regression. For example, I didn't call the data. For example, you you were trying to import this kind of data, and there's there is no missing data. You can try to spread the if you're chatting on the test, Then you will feature scaling by a list of preferred here, and then you will try to correlate it to the scenario with the variance. You try to You have predictions, then you will try to verify your predictions, then try to evaluate how good it will be on test. Let's say it's about the sustainable linear regression. What about a multi linear regression?",
         "week": 3,
         "page": 95
     },
     {
-        "transcript": "",
+        "transcript": "What about multi variable input variables. Right? So here, for x1, x2 to x, and all of those are called so called the, independent variables. Again, we have whether you have s, independent variables, r v s here and the for the b1, b2 to bn is so called the coefficient, and the for the b0, it's still actually been constant. And, the y is a signal that dependent on variable here. Right? So this is about called multilinear regression.",
         "week": 3,
         "page": 96
     },
     {
-        "transcript": "",
+        "transcript": "Yeah. Multiple linear regression applies at least 2 variables, which can be nonlinear, ordinal, or integral or rational level variables. And I rule out some of the same sizes that the regression analysis require at least 2 independent variable cases of variable from that analysis. So first, the multiple linear regression price, an issue if it's a independent, and the dependent of variables to be Linear. The the linear assumption, can best be tested at the scatter plot.",
         "week": 3,
         "page": 97
     },
     {
-        "transcript": "",
+        "transcript": "So for example, in this case, what are the inputs? Variables and but it's all I was it's a problem. This year left before. Yes. That's correct. And the y From the the y just Okay. It's right.",
         "week": 3,
         "page": 98
     },
     {
-        "transcript": "",
+        "transcript": "So now you can see that for the first three, it should be easy. Right? Because they're just the numbers. But what about this this states? Probably one way is to try you needed to donate to this different number. For example, you have say it can be 0, and it can be 4, it can be 1. Whatever, it can be 2. So you can, table. So then, over here, the UI is just specific. It can be represented about dumb variables.",
         "week": 3,
         "page": 99
     },

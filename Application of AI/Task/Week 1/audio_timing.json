@@ -528,5 +528,59 @@
 		"week": 3,
 		"page": 90
 	},
+	{
+		"segment_start": "01:39:35", 
+		"segment_end": "01:40:10", 
+		"week": 3,
+		"page": 91
+	},
+	{
+		"segment_start": "01:40:10", 
+		"segment_end": "01:40:51", 
+		"week": 3,
+		"page": 92
+	},
+	{
+		"segment_start": "01:40:52", 
+		"segment_end": "01:40:37", 
+		"week": 3,
+		"page": 93
+	},
+	{
+		"segment_start": "01:40:37", 
+		"segment_end": "01:41:56", 
+		"week": 3,
+		"page": 94
+	},
+	{
+		"segment_start": "01:41:56", 
+		"segment_end": "01:42:28", 
+		"week": 3,
+		"page": 95
+	},
+	{
+		"segment_start": "01:42:28", 
+		"segment_end": "01:43:02", 
+		"week": 3,
+		"page": 96
+	},
+	{
+		"segment_start": "01:43:02", 
+		"segment_end": "01:43:41", 
+		"week": 3,
+		"page": 97
+	},
+	{
+		"segment_start": "01:43:41", 
+		"segment_end": "01:44:10", 
+		"week": 3,
+		"page": 98
+	},
+	{
+		"segment_start": "01:44:10", 
+		"segment_end": "01:44:45", 
+		"week": 3,
+		"page": 99
+	},
 ]
 
