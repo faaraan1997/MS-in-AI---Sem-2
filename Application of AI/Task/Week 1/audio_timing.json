@@ -582,5 +582,101 @@
 		"week": 3,
 		"page": 99
 	},
+	{
+		"segment_start": "01:44:45", 
+		"segment_end": "01:45:13", 
+		"week": 3,
+		"page": 100
+	},
+	{
+		"segment_start": "01:45:13", 
+		"segment_end": "01:45:49", 
+		"week": 3,
+		"page": 101
+	},
+	{
+		"segment_start": "01:45:13", 
+		"segment_end": "01:46:21", 
+		"week": 3,
+		"page": 102
+	},
+	{
+		"segment_start": "01:46:21", 
+		"segment_end": "01:46:56", 
+		"week": 3,
+		"page": 103
+	},
+	{
+		"segment_start": "01:46:56", 
+		"segment_end": "01:47:18", 
+		"week": 3,
+		"page": 104
+	},
+	{
+		"segment_start": "01:47:18", 
+		"segment_end": "01:47:20", 
+		"week": 3,
+		"page": 105
+	},
+	{
+		"segment_start": "01:47:20", 
+		"segment_end": "01:51:37", 
+		"week": 3,
+		"page": 106
+	},
+	{
+		"segment_start": "01:51:37", 
+		"segment_end": "01:51:54", 
+		"week": 3,
+		"page": 107
+	},
+	{
+		"segment_start": "01:51:55", 
+		"segment_end": "01:52:22", 
+		"week": 3,
+		"page": 108
+	},
+	{
+		"segment_start": "01:52:22", 
+		"segment_end": "01:53:17", 
+		"week": 3,
+		"page": 109
+	},
+	{
+		"segment_start": "01:53:17", 
+		"segment_end": "01:54:21", 
+		"week": 3,
+		"page": 110
+	},
+	{
+		"segment_start": "01:54:21", 
+		"segment_end": "01:54:56", 
+		"week": 3,
+		"page": 111
+	},
+	{
+		"segment_start": "01:54:56", 
+		"segment_end": "01:55:04", 
+		"week": 3,
+		"page": 112
+	},
+	{
+		"segment_start": "01:55:04", 
+		"segment_end": "01:55:13", 
+		"week": 3,
+		"page": 113
+	},
+	{
+		"segment_start": "01:55:13", 
+		"segment_end": "01:56:52", 
+		"week": 3,
+		"page": 114
+	},
+	{
+		"segment_start": "01:56:52", 
+		"segment_end": "01:59:52", 
+		"week": 3,
+		"page": 116
+	}
 ]
 

@@ -494,10 +494,95 @@
         "page": 99
     },
     {
-        "transcript": "",
+        "transcript": "Right? So this is about multilinear regression. And, again, it's another case of a polynomial regression. Regression equation is a polynomial regression. You could if it's a power of independent of variable is more than 1. And as I you create it below, you present as a binomial. That is y equal to a classically times with as a x over of 2. Right? I'd spare. Right? So this is about, y case, the the polynomial regression.",
         "week": 3,
         "page": 100
     },
+    {
+        "transcript": "Once there might be a a temptation to fit a high degree of polynomial to correct at, lower errors, so this can be resolved in overfitting. lways a process of eventually, but you see the fit and and the focus on, make Sure that the curves face the nature of the problem. So here, example about underfitting, just right on overfitting.I think you guys should have familiar with this kind of concepts. And always, we probably want to achieve in the middle and on stage. Like, just the right. Right? And these are not on the video or not over video.",
+        "week": 3,
+        "page": 101
+    },
+    {
+        "transcript": "So here, it's about some metrics, about the regression problems. So for example, MAE, MSE, you need to get a small, like, of this different metrics.",
+        "week": 3,
+        "page": 102
+    },
+    {
+        "transcript": "And, what about classification metrics? So a classification task can be really replicated in many different ways to achieve the specific objects. Of course, the most important metric should be the accuracy. Right? Which is, like, donating in this way. The number of misclassified sample as by divided by total number of samples that use a month one minus to this dash. Right? In another way, which means that The number of tracking the samples divided by the total number of samples. Right? That's it. It's called accuracy. Right? I mean, there's no problem on this one.",
+        "week": 3,
+        "page": 103
+    },
+    {
+        "transcript": "So in a cycle that can be accessed by using some building accuracy score 1, you call 1 function. So then this is the function, and this is the y test, and this is the branches you have. And here is the prediction values. For example, we can get the video 0.9 quality is pretty high, but good accuracy.",
+        "week": 3,
+        "page": 104
+    },
+    {
+        "transcript": "So so last thing again. So for the first positive and the first negative, this is as the why I think about me In the many, radical prediction now why our first pass positive can be easily discovered by the protest. Our full activity is all the negative because, the we for communications, following the consequence of this action. For this reason, it is useful to introduce the concept of computer metrics. But typically, you can't just every it is a binary classification. Here is the computer metrics. So here, just a poor kind of numbers there. For example, in fact, you can also try call 1 line code up from this, second, the metrics, and you call it the computer metrics. So here is how we call it, take it as a configure metrics.",
+        "week": 3,
+        "page": 105
+    },
+    {
+        "transcript": "Anyhow, how do you take the address if that's not your PureMetrics? We can, put this Yeah. This is like because it's not I don't know. It's something you want to be measured. I know. And guess from you? So you're getting the the sum of the diagonals or this is called? Yes. That's correct. So, Actually, it's just a 50 plus 68 then divide the sum of all that. You take the the diagonal elements then divide the all that together as an accurate. That's it. Good. So, another use for directions is trying to measure some other metrics such as the precision. That means that true positive divide by the, true positive plus or false positive. And, also, you can calculate another one that says, recall recall has just equal to the true Positive divide by the true positive plus the flase positive.",
+        "week": 3,
+        "page": 106
+    },
+    {
+        "transcript": "And, this is also some useful up there. And here is also one another line. A one line code, you can call this kind of function from scikit learn part of the precision score. And This ability to detect true positive examples among all the potential quality can be accessed using another mirror.",
+        "week": 3,
+        "page": 107
+    },
+    {
+        "transcript": "What about the ROC curve? So the ROC curve means all this receiver operating characteristics is available to to compare different classifier that assign a score to their predictions. So in general, this score can be interpreted as a probability. So as a bond bounded between 0 and 1",
+        "week": 3,
+        "page": 108
+    },
+    {
+        "transcript": "following figure in this case. In the x axis means the false positive rate or specificity, and the true the y-axis means the here. Right? All called the sensitivity. And, here, if you have a random guess So, yes, so have a random performance. It's just like this. Performance lines are results of random guess, you have 0.5 let's say if we go live, it's very close to this part, you will get a very good performance. Okay. Good. I think, most of you guys should know about ROC Curve.",
+        "week": 3,
+        "page": 109
+    },
+    {
+        "transcript": "This something that I already mentioned. What about the dash line, represents, perfectly random class bias is out of the curves below this. The study called the form was the random choice, and the y is up 1 above it performs better across the best class by has the odds that's paid as a segment to [0,0] between [0,1] and [0,1] - [1,1] and the algorithm should have been as close as a positive to this limit. So, actually, we want to find a line that is very close to this one. Very close to this one. [0,1] and [1,1]. Yeah. Get it. You got it right. To show how we create our secret with cycle learning, we are going to have a lot. That's kind of several lines. You will know how to get the ROC curve by going to try a model to detect the score for the predictions, and it can be achieved using some function or predict the method.",
+        "week": 3,
+        "page": 110
+    },
+    {
+        "transcript": "For example, in this case, just a few line of codes. No matter this is the first line just about how you separate the data to 0.725 as a test of 0.75 as the training. And then, so in this case, we use a yellow logistic regression model LRM, and we're trying to fix the x-train and the y-train. So that way, we'll gather some predictions from another model so that we can compare the ROC curves for them. Also, one line of code. Okay? We call this RC curve so that you will try to process everything for you.",
+        "week": 3,
+        "page": 111
+    },
+    {
+        "transcript": "And then it is also useful to compute those stuff, and this is also another way. So let's say Let's see what's the curves that we just calculate about in the previous example of here.",
+        "week": 3,
+        "page": 112
+    },
+    {
+        "transcript": "And then it is also useful to compute those stuff, and this is also another way. So let's say Let's see what's the curves that we just calculate about in the previous example of here.",
+        "week": 3,
+        "page": 113
+    },
+    {
+        "transcript": "So by details of on the figure. So now is that is the figure that we really want to get again. The x as this is just a positive positive rate, and the y axis presents for the true positive and then here this blue line again is about random guess and this red line is the results from the Not just a regression. What does this mean? This means what? You have. Right? I want to get some answer from you. What does this mean? Yes. That's correct. So And, also, I think for those our online students usually get it because it is very good because, it is in this area, and also the l series voice achieves 0.97, which is pretty much, right, in many classification model. I think this actually be too much for today. I think you guys, have a very brief understanding about the regression and This, classification metrics. And the start from, next week, we'll be ready to do some.",
+        "week": 3,
+        "page": 114
+    },
+    {
+        "transcript": "",
+        "week": 3,
+        "page": 115
+    },
+    {
+        "transcript": "",
+        "week": 3,
+        "page": 116
+    },
+    {
+        "transcript": "we'll have another homework 3 for this week. This case, it should be another very easy homework for you guys. Question is about how to change our classification problem to your best problem and how we change our request problem to our classification problem. Yes. More than 300 words there. Because, You know, first of all, Mark, somehow you're very clear, like, why are the answers to me? There's none in that. Okay? There's 2 short. It's not a sort of idea. Right. So now I really want to think about your idea about how to change, for example, in classification problem, how can you change your original Problem give us they'll give me an example how you can do that.And You guys have some kind of problem regarding this question as initially preparing me.",
+        "week": 3,
+        "page": 116
+    }
 ]
 
 
