@@ -1,16 +1,3 @@
-[
-    {
-        "transcript": "As you guys have probably already noticed that I'm currently an assistant professor at our AI program.",
-        "week": 1,
-        "page": 1
-    },
-    {
-        "transcript": "And let me quickly talk about my research. So, here is my email address, if you have any questions regarding to your course or regarding to your future, you know, or any other minor stuff you can feel free send me an email. My research and regular focus are on these 4 directions. So first of all, I'll majority of my papers, I focus on transfer learning. So specifically, I focused on as more domain for the domain adaptation. So later I will explain what the domain adaptation meaning here. Next, I am interested in manifold learning, which is kind of an expansion of space is different from our training space. And next, I am interested in the shape analysis, and this is really, relatively related to the medical field. And lastly, recently, I'm more focused on the audio denoising problem.",
-        "week": 1,
-        "page": 2
-    }
-]
-// -------------------------------------------------------------------------------------------------------
 
 [
     {
