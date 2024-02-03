@@ -200,6 +200,56 @@
         "week": 4,
         "page": 40
     },
+    {
+        "transcript": "What about the difference between the binary classification and the Muliclass classification? So from the prob box, it's just very intuitive.Right? So because in a multi class classification, we have more than 2, let's say, applied.",
+        "week": 4,
+        "page": 41
+    },
+    {
+        "transcript": "So how about the logistic regression in the multiclass Classification. So this is about the So we cast that as the right so in this case, for the logistic regression, we're usually Performing as assuming as a one classification problem, what we do here is For for example, for one class, we will try to pass this class, this is the class y, y, and this is blue, the real class. All the rest x2 here, this is class 2, and this is all the rest. Right? What about the additive 3 here? You should be just care about these are real numbers, and others would talk all or the rest. Right? And this is so called web versus all here, and then this is the Equating that we try to pay attention to this multiclass problem that instead of xi xi1. Yes. And this is best about the probability of the y equal to I that given x and the parent, you can see that here. Right? So this is the x. We'll try to pair attention and see that I x here.",
+        "week": 4,
+        "page": 42
+    },
+    {
+        "transcript": "",
+        "week": 4,
+        "page": 43
+    },
+    {
+        "transcript": "",
+        "week": 4,
+        "page": 44
+    },
+    {
+        "transcript": "",
+        "week": 4,
+        "page": 45
+    },
+    {
+        "transcript": "",
+        "week": 4,
+        "page": 46
+    },
+    {
+        "transcript": "",
+        "week": 4,
+        "page": 47
+    },
+    {
+        "transcript": "",
+        "week": 4,
+        "page": 48
+    },
+    {
+        "transcript": "",
+        "week": 4,
+        "page": 49
+    },
+    {
+        "transcript": "",
+        "week": 4,
+        "page": 50
+    },
 ]
 
 
