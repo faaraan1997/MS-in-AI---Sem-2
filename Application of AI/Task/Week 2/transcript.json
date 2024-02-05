@@ -211,32 +211,32 @@
         "page": 42
     },
     {
-        "transcript": "",
+        "transcript": "To check, logistic regression class y, x c I x for each class I to predict the probability that the y is equal to I. So let's say given a new input x, we will try to pick up the class I, then try to maximum I in the I can see the I x. This is investment maximum. It's probability by this part. It's really about the probability of value. That's right. You guys need to remember what about the cost of the money class that's very target maximum.",
         "week": 4,
         "page": 43
     },
     {
-        "transcript": "",
+        "transcript": "What about some methods of comparison? The directive method and the discriminative approach that might be best. So that I tried to estimate the probability of y and the probability of x given y, and this is about prediction.So that we will really study about SPM. That but you guys need to remember for the logistic regression, we really try to predict this probability. Y over x. Right? And, yeah, some more than release. Guys, I'm just trying to do the details of it. And then next time, we want to Try to let you guys remember what we learned from this call so far.",
         "week": 4,
         "page": 44
     },
     {
-        "transcript": "",
+        "transcript": "Read link for this reference.",
         "week": 4,
         "page": 45
     },
     {
-        "transcript": "",
+        "transcript": "So we have learned About the top, hypothesis representation, it's really about, sigmoid model function, and we learn about a cost function regression. So this is really about this. Right? But y if y is equal to y, they should be negative log. As you see the x and y is equal to 0, they should be negative. But one minus, you see the x here. And over about, pretty decent, we Guys, we need to remember that we use m as in after alpha should be y over m. This is the sum. As as you see the x, a minus y then times x I, xgi here, that's about regularisation. Remember, we put the, additional addition was. For the addition was, we can't get it. Really about the massive penalty here. So lastly, we learned about the multi class classification, for using the just a risk That is tracking maximum is probability in the corresponding task. And this is the key point from this lecture about Logistic regression.",
         "week": 4,
         "page": 46
     },
     {
-        "transcript": "",
+        "transcript": "Next, let's try to extract about the details, how you guys did implement In this case, you guys may need to implement by yourself. And the yeah.And the details that you guys can I'm looking for so first of all, it's about, standardisation. This means about what? This is the first step. About what? The sentence is about the in your in your normalization of your pandas. So you will have the feature vectors that is m size m by m plus 1. M plus 1 x 1. Why is m plus 1? This is m means number of points, And I think he has number of features in each. But right? So why is and pass 1? Yes. So that is it's a box. So, like, you guys need to remember once you try to implement it, You should measure the dimension edge. I'll send you have n plus 1 every month. And then next, you needed to, implement the signal functions. Very easy. Right?",
         "week": 4,
         "page": 47
     },
     {
-        "transcript": "",
+        "transcript": "That's need to remember. There is about both part of this feature vector and this weight here. Next step, you guys need to define a function of the cost function. So this is the cost function that you guys need to define. Outside, you can calculate lots and lots. Y hat I and the outputs here. Right? So next, you're ready. You need to use this how you should move the to us. A maximum loss. This is the how it updates. Just let me wait. Another time you guys need to find previously. Right? And the event is the part of, great designing. That's what you guys need to use. Yeah.",
         "week": 4,
         "page": 48
     },
@@ -246,10 +246,65 @@
         "page": 49
     },
     {
-        "transcript": "",
+        "transcript": "6 step about the prediction. How can you make a prediction? So for previously, the way you decide you guys already So what you get is the way that I'm biased from the grid design because when they commit prediction, you know, adding new points. Right? So that I get the y hat. So that after after that, the some steps should be captured as accurate. This is just about what does this mean? 1st part means what? Yes. This is the total number of So then I will try to review it again about the logistic regression. So now after now, I think we finish about logistic regression part. To be honest with you, it's not always this. It's not not always this. You can it's better to use this, Sometimes, the diverse trend does that. But they're set. I Not necessary for for this part. This is something that I want you guys to keep in mind. Maybe in the future, you guys need to do this kind of So then we will talk about, I'll quickly talk about the cycle and then data about the multiclass. From 2 reports about just the regression.",
         "week": 4,
         "page": 50
     },
+    {
+        "transcript": "Then we try to use dataset as dynamic prediction. So this is just a few lines, guys. Starting in the future, it could be that's so we do have the future would be a lot asking to implement your look for just the regression from scratch. But this can be one to build match with you guys. So which means  you guys have homework. You guys need to pay attention to this. Not try to Google it. But useless for you. You Right. It's not visible for you guys. So, anyway, if you guys have any questions, let me know about your of it.",
+        "week": 4,
+        "page": 51
+    },
+    {
+        "transcript": "Let's try to put our another section about this lecture.",
+        "week": 4,
+        "page": 52
+    },
+    {
+        "transcript": "Let's quickly talk about Least Squares Regression. So giving, dataset that x1 y1, xn yn and to x and y and where x It should be x y, x and the y, not random. The yi is equal to alpha pluse beat xi  where I variable as random where random variables U1, U2, Un have zero expectation there were in the variance of sigma scale square here. So the method of these squares, let's try to choose value if alpha and beta tries to satisfy the equation. This is what? There's a very bad error. Right? But this part is called what? Yi minus alpha This is called what? I don't know how. So later, we may have last slides to discuss with the details of it.",
+        "week": 4,
+        "page": 53
+    },
+    {
+        "transcript": "So next, the algorithm, observe the value yi correspond to xi and the value alpha plus beta Beta multiply x side on the regression line that is y is equal to alpha plus beta x here. So, typically, this is just a fitting line. Right? And this is just one point and this is what another point. And then this is the point from the regression line here. Right? And then here is the object function that wants to achieve, but, this is the least square estimation. Is that clear about this function?",
+        "week": 4,
+        "page": 54
+    },
+    {
+        "transcript": "",
+        "week": 4,
+        "page": 55
+    },
+    {
+        "transcript": "",
+        "week": 4,
+        "page": 56
+    },
+    {
+        "transcript": "",
+        "week": 4,
+        "page": 57
+    },
+    {
+        "transcript": "",
+        "week": 4,
+        "page": 58
+    },
+    {
+        "transcript": "",
+        "week": 4,
+        "page": 59
+    },
+    {
+        "transcript": "",
+        "week": 4,
+        "page": 60
+    },
+    {
+        "transcript": "",
+        "week": 4,
+        "page": 61
+    }
 ]
 
 
