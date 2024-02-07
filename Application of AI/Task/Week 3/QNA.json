@@ -1,0 +1,110 @@
+[
+    {
+        "instruction": "Is it possible to have multiple outcomes in a process?",
+        "context": "So you have a process, and several outcomes are possible. When the process is repeated a large number of times, each outcome occurs with a relative frequency, or so-called probability.    If a particular outcome occurs more often, we say it is more probable. So, the probability arises through a contest.First of all, in an actual repeated experiment (for example, recalling the color of 1,000 cars driving by), if 57 out of 1,000 are green, then you estimate the probability of a car being green as 57 divided by 1,000. Eventually, you get a small number, and this is the so-called probability here.In the idealized conceptions of a repeated process, for example, considering the behavior of an unbiased 6-sided die, the probability of rolling a 5 is 1 over 6.That should be the same. Another example is when you need a model for how people's heights are distributed. You choose a normal distribution to represent the expected radio probabilities",
+        "category": "boolean_question",
+        "week": 2
+    },
+    {
+        "instruction": "Is it possible to have multiple outcomes in the same process?",
+        "context": "So you have a process, and several outcomes are possible. When the process is repeated a large number of times, each outcome occurs with a relative frequency, or so-called probability.    If a particular outcome occurs more often, we say it is more probable. So, the probability arises through a contest.First of all, in an actual repeated experiment (for example, recalling the color of 1,000 cars driving by), if 57 out of 1,000 are green, then you estimate the probability of a car being green as 57 divided by 1,000. Eventually, you get a small number, and this is the so-called probability here.In the idealized conceptions of a repeated process, for example, considering the behavior of an unbiased 6-sided die, the probability of rolling a 5 is 1 over 6.That should be the same. Another example is when you need a model for how people's heights are distributed. You choose a normal distribution to represent the expected radio probabilities",
+        "category": "boolean_question",
+        "week": 2
+    },
+    {
+        "instruction": "Is it possible for a process to have multiple outcomes?",
+        "context": "So you have a process, and several outcomes are possible. When the process is repeated a large number of times, each outcome occurs with a relative frequency, or so-called probability.    If a particular outcome occurs more often, we say it is more probable. So, the probability arises through a contest.First of all, in an actual repeated experiment (for example, recalling the color of 1,000 cars driving by), if 57 out of 1,000 are green, then you estimate the probability of a car being green as 57 divided by 1,000. Eventually, you get a small number, and this is the so-called probability here.In the idealized conceptions of a repeated process, for example, considering the behavior of an unbiased 6-sided die, the probability of rolling a 5 is 1 over 6.That should be the same. Another example is when you need a model for how people's heights are distributed. You choose a normal distribution to represent the expected radio probabilities",
+        "category": "boolean_question",
+        "week": 2
+    },
+    {
+        "instruction": "Is there such thing as a stochastic problem?",
+        "context": "So next, when trying to solve machine learning problems, you may need to deal with some uncertainty and qualities, as well as the stochastic problem in non-deterministic parties.       In probability theory, it provides a mathematical framework for representing and quantifying uncertain quantities, and there are several different sources of uncertainties.For example, the first one can be the inherent stochasticity in the system being modeled. Another concrete example is that most interpretations of quantum mechanisms describe the dynamics of some atom particles as being probabilistic.Another reason causing uncertainty can be the incompleteness of observability. Even deterministic systems can appear stochastic when we cannot observe all the variables that affect the behavior of the system. Another reason can be incomplete modeling. When we use models, we may not capture all the information we observe, leading to uncertainty in the model's predictions. For example, the discretization of real number values, dimension reduction, etc. Because we always discard unnecessary information. So, while it may seem unnecessary, in terms of data itself, it can be useful.",
+        "category": "boolean_question",
+        "week": 3
+    },
+    {
+        "instruction": "Is there such a thing as stochastic uncertainty?",
+        "context": "So next, when trying to solve machine learning problems, you may need to deal with some uncertainty and qualities, as well as the stochastic problem in non-deterministic parties.       In probability theory, it provides a mathematical framework for representing and quantifying uncertain quantities, and there are several different sources of uncertainties.For example, the first one can be the inherent stochasticity in the system being modeled. Another concrete example is that most interpretations of quantum mechanisms describe the dynamics of some atom particles as being probabilistic.Another reason causing uncertainty can be the incompleteness of observability. Even deterministic systems can appear stochastic when we cannot observe all the variables that affect the behavior of the system. Another reason can be incomplete modeling. When we use models, we may not capture all the information we observe, leading to uncertainty in the model's predictions. For example, the discretization of real number values, dimension reduction, etc. Because we always discard unnecessary information. So, while it may seem unnecessary, in terms of data itself, it can be useful.",
+        "category": "boolean_question",
+        "week": 3
+    },
+    {
+        "instruction": "Can a non deterministic system be stochastic?",
+        "context": "So next, when trying to solve machine learning problems, you may need to deal with some uncertainty and qualities, as well as the stochastic problem in non-deterministic parties.       In probability theory, it provides a mathematical framework for representing and quantifying uncertain quantities, and there are several different sources of uncertainties.For example, the first one can be the inherent stochasticity in the system being modeled. Another concrete example is that most interpretations of quantum mechanisms describe the dynamics of some atom particles as being probabilistic.Another reason causing uncertainty can be the incompleteness of observability. Even deterministic systems can appear stochastic when we cannot observe all the variables that affect the behavior of the system. Another reason can be incomplete modeling. When we use models, we may not capture all the information we observe, leading to uncertainty in the model's predictions. For example, the discretization of real number values, dimension reduction, etc. Because we always discard unnecessary information. So, while it may seem unnecessary, in terms of data itself, it can be useful.",
+        "category": "boolean_question",
+        "week": 3
+    },
+    {
+        "instruction": "Can a random variable have more than one possible value?",
+        "context": "That was another reason for the uncertainty of the model. Now, let's quickly review random variables. A random variable, denoted as x, is a variable that can take different values.For example, x can represent drawing time. The possible values of x comprise a sample space. For instance, consider the outcome space, denoted as S, which is equal to 1 to 6 because it represents a six-sided die with six different values.So, we denote the event of rolling a 5 as x equal to 5 or x being equal to 5 with this equation.The probability is denoted as P, and it is used to express the likelihood of events. Additionally, the notation P(x) can be used to denote the probability distribution of the random variable x. It signifies that x has a probability of P(x). For a random variable, there can be both discrete and continuous types. Discrete random variables have a finite number of possible values. For example, the sides of a die represent a finite number of states. On the other hand, continuous random variables can have an infinite number of possible states. For instance, the height of a person can vary infinitely",
+        "category": "boolean_question",
+        "week": 3
+    },
+    {
+        "instruction": "Can a discrete variable have more than one possible value?",
+        "context": "That was another reason for the uncertainty of the model. Now, let's quickly review random variables. A random variable, denoted as x, is a variable that can take different values.For example, x can represent drawing time. The possible values of x comprise a sample space. For instance, consider the outcome space, denoted as S, which is equal to 1 to 6 because it represents a six-sided die with six different values.So, we denote the event of rolling a 5 as x equal to 5 or x being equal to 5 with this equation.The probability is denoted as P, and it is used to express the likelihood of events. Additionally, the notation P(x) can be used to denote the probability distribution of the random variable x. It signifies that x has a probability of P(x). For a random variable, there can be both discrete and continuous types. Discrete random variables have a finite number of possible values. For example, the sides of a die represent a finite number of states. On the other hand, continuous random variables can have an infinite number of possible states. For instance, the height of a person can vary infinitely",
+        "category": "boolean_question",
+        "week": 3
+    },
+    {
+        "instruction": "Is there a discrete type of random variable?",
+        "context": "That was another reason for the uncertainty of the model. Now, let's quickly review random variables. A random variable, denoted as x, is a variable that can take different values.For example, x can represent drawing time. The possible values of x comprise a sample space. For instance, consider the outcome space, denoted as S, which is equal to 1 to 6 because it represents a six-sided die with six different values.So, we denote the event of rolling a 5 as x equal to 5 or x being equal to 5 with this equation.The probability is denoted as P, and it is used to express the likelihood of events. Additionally, the notation P(x) can be used to denote the probability distribution of the random variable x. It signifies that x has a probability of P(x). For a random variable, there can be both discrete and continuous types. Discrete random variables have a finite number of possible values. For example, the sides of a die represent a finite number of states. On the other hand, continuous random variables can have an infinite number of possible states. For instance, the height of a person can vary infinitely",
+        "category": "boolean_question",
+        "week": 3
+    },
+    {
+        "instruction": "Does the net as the p(a) master satisfy the following properties?",
+        "context": "Here are some, like, kind of rules of the probability. For example, the probability of an event A. Yeah. Given sample space test, the net as the P(A) master satisfies the following properties. Like, that is a non negativity, so which means that probability of all event, it should be bigger than 0. And all possible outcomes is, For example, if we sum all the, probability, then it should be equal to 1. And, yeah, another property is about Identity of the this joint event, which means that, for example,  A1  and the A2 used to be equal to 0. So which means that there is no, common unit between this A1 and A2. And also the Probability of A1, the unit was the h two should be equal to the probability of A1 then cross all probability of A2. And next, the probability of a random variable k x must obey the exons of the probability over the possible values in the sample space S",
+        "category": "boolean_question",
+        "week": 3
+    },
+    {
+        "instruction": "Is the net as the probability of an event true or false?",
+        "context": "Here are some, like, kind of rules of the probability. For example, the probability of an event A. Yeah. Given sample space test, the net as the P(A) master satisfies the following properties. Like, that is a non negativity, so which means that probability of all event, it should be bigger than 0. And all possible outcomes is, For example, if we sum all the, probability, then it should be equal to 1. And, yeah, another property is about Identity of the this joint event, which means that, for example,  A1  and the A2 used to be equal to 0. So which means that there is no, common unit between this A1 and A2. And also the Probability of A1, the unit was the h two should be equal to the probability of A1 then cross all probability of A2. And next, the probability of a random variable k x must obey the exons of the probability over the possible values in the sample space S",
+        "category": "boolean_question",
+        "week": 3
+    },
+    {
+        "instruction": "Is the net as the p(a) master true or false?",
+        "context": "Here are some, like, kind of rules of the probability. For example, the probability of an event A. Yeah. Given sample space test, the net as the P(A) master satisfies the following properties. Like, that is a non negativity, so which means that probability of all event, it should be bigger than 0. And all possible outcomes is, For example, if we sum all the, probability, then it should be equal to 1. And, yeah, another property is about Identity of the this joint event, which means that, for example,  A1  and the A2 used to be equal to 0. So which means that there is no, common unit between this A1 and A2. And also the Probability of A1, the unit was the h two should be equal to the probability of A1 then cross all probability of A2. And next, the probability of a random variable k x must obey the exons of the probability over the possible values in the sample space S",
+        "category": "boolean_question",
+        "week": 3
+    },
+    {
+        "instruction": "Is the probability distribution of discrete variables a mass function?",
+        "context": "And here's another example of our discretes of variables.A probability distribution of discrete variables may be, described as a probability mass function. So also named the PMF. So let me you might need to remember what is PMF. That is just probability mass function as you can see here. And our probability distribution over continuous variable may be described as an PDI, because of probability density function. For example, waiting time between the, eruption of all the, best film and the PDI gives the probability. And even, if not just keep small region with the random of the that acts here to find a probability of the interval a and b where you already have of the integration between of a and b of the probability p(x) and with p(x). Because this is how we, find this probability over kind of certain interval there.",
+        "category": "boolean_question",
+        "week": 3
+    },
+    {
+        "instruction": "Is the probability distribution of discrete variables true or false?",
+        "context": "And here's another example of our discretes of variables.A probability distribution of discrete variables may be, described as a probability mass function. So also named the PMF. So let me you might need to remember what is PMF. That is just probability mass function as you can see here. And our probability distribution over continuous variable may be described as an PDI, because of probability density function. For example, waiting time between the, eruption of all the, best film and the PDI gives the probability. And even, if not just keep small region with the random of the that acts here to find a probability of the interval a and b where you already have of the integration between of a and b of the probability p(x) and with p(x). Because this is how we, find this probability over kind of certain interval there.",
+        "category": "boolean_question",
+        "week": 3
+    },
+    {
+        "instruction": "Is the probability distribution of discrete variables the same as the pmf?",
+        "context": "And here's another example of our discretes of variables.A probability distribution of discrete variables may be, described as a probability mass function. So also named the PMF. So let me you might need to remember what is PMF. That is just probability mass function as you can see here. And our probability distribution over continuous variable may be described as an PDI, because of probability density function. For example, waiting time between the, eruption of all the, best film and the PDI gives the probability. And even, if not just keep small region with the random of the that acts here to find a probability of the interval a and b where you already have of the integration between of a and b of the probability p(x) and with p(x). Because this is how we, find this probability over kind of certain interval there.",
+        "category": "boolean_question",
+        "week": 3
+    },
+    {
+        "instruction": "Is the market variable a vector of multiple random variables?",
+        "context": "For the market variable of random variables, so we may need to consider several random variables at one time and then if several random process that occurred in parallel or in sequence, for example, to model that relationship is several diseases and the symptoms. And, another example is if you process images with millions of pixels,  then each pixel is a one random variable you can see, in this way. That's the way we are studying the probability distribution defined over the multiple random variables, And those include the joint, the condition, and marginal distribution. The individual random variables can be grouped together into a random vector because they represent different properties of an individual's, status to go unit. Our market variant of random variable is a vector of multiple random variables. So for example, I the capital x can, be represented by  X1, X2 to Xn with its transpose state.",
+        "category": "boolean_question",
+        "week": 3
+    },
+    {
+        "instruction": "Is market variable a vector of multiple random variables?",
+        "context": "For the market variable of random variables, so we may need to consider several random variables at one time and then if several random process that occurred in parallel or in sequence, for example, to model that relationship is several diseases and the symptoms. And, another example is if you process images with millions of pixels,  then each pixel is a one random variable you can see, in this way. That's the way we are studying the probability distribution defined over the multiple random variables, And those include the joint, the condition, and marginal distribution. The individual random variables can be grouped together into a random vector because they represent different properties of an individual's, status to go unit. Our market variant of random variable is a vector of multiple random variables. So for example, I the capital x can, be represented by  X1, X2 to Xn with its transpose state.",
+        "category": "boolean_question",
+        "week": 3
+    },
+    {
+        "instruction": "Is each pixel a one random variable?",
+        "context": "For the market variable of random variables, so we may need to consider several random variables at one time and then if several random process that occurred in parallel or in sequence, for example, to model that relationship is several diseases and the symptoms. And, another example is if you process images with millions of pixels,  then each pixel is a one random variable you can see, in this way. That's the way we are studying the probability distribution defined over the multiple random variables, And those include the joint, the condition, and marginal distribution. The individual random variables can be grouped together into a random vector because they represent different properties of an individual's, status to go unit. Our market variant of random variable is a vector of multiple random variables. So for example, I the capital x can, be represented by  X1, X2 to Xn with its transpose state.",
+        "category": "boolean_question",
+        "week": 3
+    }
+]
