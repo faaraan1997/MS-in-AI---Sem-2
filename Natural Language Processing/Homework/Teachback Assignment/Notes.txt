@@ -46,3 +46,31 @@ Flight Information Assistance:
 NLP-powered flight information assistance systems provide passengers with up-to-date information on flight schedules, gate changes, and boarding procedures.
 Passengers can interact with these systems through voice or text-based interfaces, receiving immediate responses to their inquiries.
 By streamlining communication and providing timely updates, these systems enhance the overall travel experience and reduce the workload on airline staff.
+
+
+Page7 TimeLine:
+
+Early Models (Pre-2010):
+
+Rule-based systems dominated early Q&A systems.
+Limited by predefined rules and lacked scalability.
+Deep Learning Era (2010 - 2015):
+
+Introduction of neural network-based models improved performance.
+Models like IBM Watson showcased advancements but were resource-intensive.
+Rise of Transformer Models (2017 - 2019):
+
+Introduction of Transformer architecture revolutionized NLP.
+Models like BERT, GPT-2 emerged, enabling better understanding of context and semantics.
+Large-scale Language Models (2020 - Present):
+
+Continued scaling of models like GPT-3.
+Langchain OpenAI Model introduces innovations in generative capabilities and fine-tuning for specific tasks like Q&A.
+Future Directions:
+
+Anticipated advancements include improved efficiency, better understanding of context, and broader application domains.
+Integration of multimodal inputs for richer understanding.
+Conclusion:
+
+The timeline showcases the remarkable progress in NLP-based Q&A models, from rule-based systems to large-scale language models.
+Ongoing research and innovation promise further enhancements, expanding the capabilities and applicability of Q&A systems.
