@@ -1,0 +1,10 @@
+Propositional logic, also known as sentential logic or statement logic, is a formal system in mathematical logic that studies the relationships and properties of propositions, which are statements that can be either true or false. In propositional logic, propositions are typically represented by symbols, and logical operators such as AND, OR, NOT, IMPLIES, and IF AND ONLY IF are used to manipulate these propositions and analyze their logical connections. This branch of logic is fundamental in many areas of mathematics, computer science, philosophy, and linguistics, providing a foundational framework for reasoning and inference.
+
+
+Propositions are statements that can be evaluated as either true or false, and logical connectives are symbols used to combine these propositions to form compound statements. The logical connectives include AND (∧), OR (∨), and NOT (¬), which respectively represent conjunction (true only if both propositions are true), disjunction (true if at least one proposition is true), and negation (flipping the truth value of a proposition). These connectives play a crucial role in constructing logical expressions and analyzing their truth values.
+
+
+
+
+
+
