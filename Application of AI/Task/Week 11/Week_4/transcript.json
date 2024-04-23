@@ -250,7 +250,6 @@
         "week": 4,
         "page": 50
     },
-
     {
         "transcript": "and this is how it looks like if it is bigger than some variable, it should be like any point and here are the results of different variables about magnitude for example, this is the threshold of 50 here are a lot of edges and you can see many parts in between so once you try to increase the threshold values you will see less and less about edges this is about 100 this is about 150 this is about 200 edges and this is about 250, 300, 350, 400, and 450 you see all the changes here so this is getting messed up it is getting longer and longer it becomes like pure and pure or smaller and smaller because you have very high threshold but I think which one is best? Your mind? you want to use this one? the third one? the third one? so sometimes it is kind of tricky you need to pick out a good number of thresholds so that you can not only detect enough details of your figures but also you need to knowledge shoot too many details for example in the first case there are too many details, probably you do not get it",
         "week": 4,
