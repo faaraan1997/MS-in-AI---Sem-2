@@ -4815,6 +4815,927 @@
         "page": 26,
         "context": "In the provided transcript, the speaker describes a general equation involving specific conditions, such as '1r equal to 0' and 'r i equal to 0, r equal to 2,' corresponding to a specific scenario."
     },
-        
+    {
+        "instruction": "Summarize the speaker's concern regarding the assignment of weights to each point.",
+        "response": "The speaker expresses concern about the potential impact of assigning different weights to each point and discusses its implications.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 26,
+        "context": "The speaker expresses concern about the assignment of different weights to each point and its potential consequences."
+    },
+    {
+        "instruction": "Explain why the speaker mentions that the number of weights is usually open.",
+        "response": "The speaker suggests that the number of weights is typically flexible and adaptable to different scenarios.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 26,
+        "context": "The speaker mentions that the number of weights is usually open, indicating flexibility and adaptability."
+    },
+    {
+        "instruction": "What examples does the speaker provide regarding the number of weights taken?",
+        "response": "The speaker provides examples of taking five or three weights as common practices.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 26,
+        "context": "The speaker gives examples of commonly taking either five or three weights."
+    },
+    {
+        "instruction": "What does the speaker suggest about balancing left and right?",
+        "response": "The speaker suggests that balancing left and right makes it easier to manage the weights effectively.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 26,
+        "context": "The speaker implies that balancing left and right facilitates effective management of weights."
+    },
+    {
+        "instruction": "Why does the speaker mention reviewing the topic later?",
+        "response": "The speaker mentions reviewing the topic later to provide further explanation.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 26,
+        "context": "The speaker mentions revisiting the topic later in the discussion for additional explanation."
+    },
+    {
+        "instruction": "What key point does the speaker emphasize regarding the significance of the details discussed?",
+        "response": "The speaker suggests that the details discussed are significant and require further consideration or review.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 26,
+        "context": "The speaker emphasizes that the details discussed are significant and warrant further consideration or review."
+    },
+    {
+        "instruction": "What does the speaker imply by stating 'The number of right and left is equal'?",
+        "response": "The speaker implies an equal distribution of weights on both sides, emphasizing balance.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 26,
+        "context": "The speaker implies an equal distribution of weights on both sides, highlighting the importance of balance."
+    },
+    {
+        "instruction": "What aspect does the speaker promise to review later?",
+        "response": "The speaker promises to review the topic of balancing left and right later in the discussion.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 26,
+        "context": "The speaker mentions reviewing the topic of balancing left and right later in the discussion."
+    },
+    {
+        "instruction": "How does the speaker characterize the general equation provided?",
+        "response": "The speaker describes a general equation involving specific conditions and corresponding scenarios.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 26,
+        "context": "The speaker characterizes the general equation provided as involving specific conditions and corresponding scenarios."
+    },
+    {
+        "instruction": "What does the speaker suggest about assigning different kinds of weights?",
+        "response": "The speaker suggests that assigning different kinds of weights may result in varied outcomes or narratives.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 26,
+        "context": "The speaker suggests that assigning different kinds of weights may lead to varied outcomes or narratives."
+    },
+    {
+        "instruction": "Summarize the speaker's comparison between uniform weights and varying weights for nearby pixels.",
+        "response": "The speaker compares the use of uniform weights to assigning varying weights for nearby pixels, highlighting the importance of considering proximity in weight assignment.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker contrasts the use of uniform weights with the proposal of assigning varying weights to nearby pixels, emphasizing the significance of proximity in weight assignment."
+    },
+    {
+        "instruction": "What rationale does the speaker provide for assigning different weights to different points?",
+        "response": "The speaker suggests assigning different weights to points based on their proximity to the center, emphasizing the importance of weighting closer pixels more heavily.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker rationalizes assigning different weights to points by proposing heavier weights for pixels closer to the center and lighter weights for pixels farther away."
+    },
+    {
+        "instruction": "Explain the speaker's suggestion regarding assigning more weights to certain pixels.",
+        "response": "The speaker suggests assigning more weight to pixels closer to the center and less weight to pixels farther away to reflect their proximity.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker recommends assigning greater weight to pixels near the center and lower weight to those farther away to reflect their relative proximity."
+    },
+    {
+        "instruction": "What example does the speaker use to illustrate the concept of assigning more weight to certain pixels?",
+        "response": "The speaker uses the example of focusing on the center pixel and assigning more weight to nearby pixels while reducing weight for farther pixels.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker illustrates the concept of assigning more weight to certain pixels by focusing on the center pixel and adjusting weights accordingly."
+    },
+    {
+        "instruction": "What question does the speaker ask to prompt audience engagement?",
+        "response": "The speaker asks if the audience has any questions or concerns, inviting active participation.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker prompts audience engagement by asking if there are any questions or concerns."
+    },
+    {
+        "instruction": "Why does the speaker suggest assigning more weights to pixels closer to the center?",
+        "response": "The speaker suggests assigning more weight to pixels closer to the center to reflect their greater relevance or significance.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker proposes assigning more weight to pixels closer to the center due to their increased relevance or importance."
+    },
+    {
+        "instruction": "What does the speaker imply by stating 'You probably want to assign more weights to this to right'?",
+        "response": "The speaker implies the necessity of assigning more weight to pixels closer to the center or focal point.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker implies the need to assign greater weight to pixels near the center or focal point for effective image processing."
+    },
+    {
+        "instruction": "Explain the speaker's suggestion regarding assigning less weight to certain pixels.",
+        "response": "The speaker suggests assigning less weight to pixels farther from the center to reflect their decreased relevance or significance.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker recommends assigning less weight to pixels farther from the center to reflect their diminished relevance or importance."
+    },
+    {
+        "instruction": "What does the speaker emphasize about the center pixel in the discussion?",
+        "response": "The speaker emphasizes the importance of the center pixel as a focal point for determining weight assignment in image processing.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker underscores the significance of the center pixel as a focal point for determining weight assignment in image processing."
+    },
+    {
+        "instruction": "Why does the speaker mention 'that's the bottom of the center'?",
+        "response": "The speaker mentions 'that's the bottom of the center' to highlight the relative positioning of pixels in relation to the center.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker mentions 'that's the bottom of the center' to elucidate the relative positioning of pixels with respect to the center."
+    },
+    {
+        "instruction": "Summarize the speaker's explanation for assigning different weights to nearby pixels.",
+        "response": "The speaker suggests assigning different weights to nearby pixels based on their proximity to reflect their varying importance in image processing.",
+        "category": "summarisation",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker explains the rationale behind assigning different weights to nearby pixels, highlighting the importance of proximity in determining weight distribution."
+    },
+    {
+        "instruction": "What is the speaker's rationale for proposing different weights for closer pixels?",
+        "response": "The speaker proposes assigning more weight to closer pixels to prioritize their influence in image processing due to their proximity to the center.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker suggests assigning greater weight to pixels closer to the center to emphasize their significance in image processing."
+    },
+    {
+        "instruction": "How does the speaker justify assigning more weight to pixels closer to the center?",
+        "response": "The speaker justifies assigning more weight to pixels closer to the center by emphasizing their greater relevance in image processing.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker rationalizes assigning heavier weight to pixels near the center by highlighting their increased relevance."
+    },
+    {
+        "instruction": "What example does the speaker use to illustrate the concept of assigning more weight to certain pixels?",
+        "response": "The speaker uses the example of focusing on the center pixel and assigning more weight to nearby pixels to demonstrate the concept of prioritizing closer pixels.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker illustrates the concept of assigning more weight to certain pixels by focusing on the center pixel and adjusting weights accordingly."
+    },
+    {
+        "instruction": "Why does the speaker emphasize the need for assigning more weight to certain pixels?",
+        "response": "The speaker emphasizes the importance of assigning more weight to pixels closer to the center to ensure their greater influence in image processing.",
+        "category": "summarisation",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker stresses the significance of allocating heavier weight to pixels near the center to enhance their impact on image processing outcomes."
+    },
+    {
+        "instruction": "Explain how the speaker suggests balancing weight distribution for pixels.",
+        "response": "The speaker suggests balancing weight distribution by assigning heavier weights to pixels closer to the center and lighter weights to those farther away to maintain equilibrium.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker proposes achieving balance in weight distribution by assigning more weight to pixels near the center and less weight to those farther away."
+    },
+    {
+        "instruction": "What example does the speaker use to explain the concept of 'the bottom of the center'?",
+        "response": "The speaker uses the term 'the bottom of the center' to illustrate the relative positioning of pixels in relation to the center.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker employs the phrase 'the bottom of the center' to elucidate the relative arrangement of pixels with respect to the center."
+    },
+    {
+        "instruction": "Why does the speaker mention 'this should be middle'?",
+        "response": "The speaker mentions 'this should be middle' to emphasize the importance of the central pixel in determining weight assignment in image processing.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker refers to 'this should be middle' to underscore the central pixel's significance in weight allocation for image processing."
+    },
+    {
+        "instruction": "What does the speaker imply by stating 'that's never right'?",
+        "response": "The speaker implies that assigning uniform weight distribution to pixels regardless of their proximity to the center is not ideal for effective image processing.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker suggests that uniformly distributing weight to pixels irrespective of their proximity to the center is not conducive to optimal image processing."
+    },
+    {
+        "instruction": "Explain the speaker's suggestion regarding assigning less weight to certain pixels.",
+        "response": "The speaker suggests assigning less weight to pixels farther from the center to reduce their influence in image processing.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker recommends allocating lighter weight to pixels farther from the center to diminish their impact on image processing outcomes."
+    },
+    {
+        "instruction": "What concept is the speaker explaining regarding the uniform weights used previously?",
+        "response": "The speaker is explaining the concept of uniform weights and their application in image processing.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker discusses the use of uniform weights in image processing and their implications."
+    },
+    {
+        "instruction": "How does the speaker suggest treating pixels in the given example?",
+        "response": "The speaker suggests assigning more weight to closer pixels in the example provided.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker proposes assigning different weights to pixels based on their proximity in the given example."
+    },
+    {
+        "instruction": "What does the speaker highlight as a reason for assigning different weights to pixels?",
+        "response": "The speaker highlights the varying distances of pixels as a reason for assigning different weights.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker emphasizes the importance of considering the proximity of pixels in weight assignment."
+    },
+    {
+        "instruction": "How does the speaker explain the concept of 'the bottom of the center'?",
+        "response": "The speaker uses 'the bottom of the center' to illustrate the relative positioning of pixels with respect to the center.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker elucidates the concept of 'the bottom of the center' to explain pixel positioning relative to the center."
+    },
+    {
+        "instruction": "What does the speaker suggest about the allocation of weights in the example?",
+        "response": "The speaker suggests allocating more weight to pixels closer to the center in the example discussed.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker recommends assigning heavier weights to pixels nearer to the center in the example scenario."
+    },
+    {
+        "instruction": "How does the speaker propose to balance the weights of nearby pixels?",
+        "response": "The speaker suggests balancing the weights of nearby pixels by assigning more weight to those closer to the center.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker proposes achieving weight balance by giving greater weight to pixels nearer to the center."
+    },
+    {
+        "instruction": "What does the speaker imply by mentioning 'the middle'?",
+        "response": "The speaker implies the central position of pixels when referring to 'the middle'.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker refers to 'the middle' to denote the central position of pixels in the discussion."
+    },
+    {
+        "instruction": "How does the speaker suggest handling weights in relation to the center?",
+        "response": "The speaker suggests assigning more weight to pixels nearer to the center and less weight to those farther away.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker recommends adjusting weights based on proximity to the center, with closer pixels receiving more weight."
+    },
+    {
+        "instruction": "What does the speaker indicate regarding the weights assigned to pixels?",
+        "response": "The speaker suggests assigning weights based on the proximity of pixels to the center.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker indicates that weights should be determined by how close pixels are to the center."
+    },
+    {
+        "instruction": "How does the speaker justify the need for different weights for different points?",
+        "response": "The speaker justifies different weights based on the varying distances of pixels from the center.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker argues that different weights are necessary due to the differing distances of pixels from the center."
+    },
+    {
+        "instruction": "What does the speaker suggest about assigning weights to pixels?",
+        "response": "The speaker suggests assigning weights to pixels based on their distance from the center.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker recommends assigning weights to pixels according to their proximity to the center."
+    },
+    {
+        "instruction": "What does the speaker imply by mentioning 'the center'?",
+        "response": "The speaker refers to 'the center' to denote the central location of pixels in the image processing context.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker uses 'the center' to indicate the central position of pixels in relation to image processing."
+    },
+    {
+        "instruction": "What does the speaker suggest about assigning weights to pixels?",
+        "response": "The speaker suggests assigning weights to pixels based on their proximity to the center pixel.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker proposes assigning weights to pixels relative to their distance from the center pixel."
+    },
+    {
+        "instruction": "How does the speaker illustrate the concept of assigning weights to pixels?",
+        "response": "The speaker illustrates weight assignment by suggesting allocating more weight to pixels closer to the center.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker demonstrates weight assignment by recommending higher weights for pixels nearer to the center."
+    },
+    {
+        "instruction": "What does the speaker suggest regarding the distribution of weights to pixels?",
+        "response": "The speaker suggests distributing weights to pixels based on their proximity to the central pixel.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker proposes distributing weights to pixels according to their distance from the central pixel."
+    },
+    {
+        "instruction": "How does the speaker propose handling the allocation of weights to pixels?",
+        "response": "The speaker proposes allocating weights to pixels based on their proximity to the center of the image.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker suggests determining weight allocation for pixels relative to their distance from the center of the image."
+    },
+    {
+        "instruction": "What does the speaker suggest about adjusting weights for pixels?",
+        "response": "The speaker suggests adjusting weights for pixels based on their proximity to the center.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker recommends modifying weights for pixels relative to their distance from the center."
+    },
+    {
+        "instruction": "How does the speaker recommend handling weights for pixels in relation to the center?",
+        "response": "The speaker recommends adjusting weights for pixels based on their proximity to the center of the image.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker advises adapting weights for pixels according to their distance from the center of the image."
+    },
+    {
+        "instruction": "What does the speaker propose regarding the weighting of pixels?",
+        "response": "The speaker proposes weighting pixels based on their distance from the center of the image.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker suggests assigning weights to pixels relative to their proximity to the center of the image."
+    },
+    {
+        "instruction": "How does the speaker suggest adjusting weights for pixels?",
+        "response": "The speaker suggests adjusting weights for pixels based on their distance from the central pixel.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker recommends modifying weights for pixels relative to their proximity to the central pixel."
+    },
+    {
+        "instruction": "What is the speaker's opinion on assigning weights to pixels based on their proximity?",
+        "response": "The speaker suggests assigning more weight to pixels that are closer to the center, indicating a preference for proximity-based weight assignment.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker discusses the idea of giving more weight to pixels closer to the center, suggesting a preference for proximity-based weight assignment."
+    },
+    {
+        "instruction": "What concept does the speaker illustrate with the term 'the bottom of the center'?",
+        "response": "The speaker uses the term 'the bottom of the center' to explain the relative positioning of pixels with respect to the center.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker employs the phrase 'the bottom of the center' to elucidate the relative arrangement of pixels with respect to the center."
+    },
+    {
+        "instruction": "What approach does the speaker propose for assigning weights to nearby pixels?",
+        "response": "The speaker suggests assigning varying weights to nearby pixels based on their proximity to the center.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker proposes assigning different weights to nearby pixels, favoring those closer to the center."
+    },
+    {
+        "instruction": "How does the speaker explain the rationale for assigning different weights to pixels?",
+        "response": "The speaker explains that assigning different weights to pixels is justified by the variation in their proximity to the center.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker justifies the need for different weights by highlighting the varying proximity of pixels to the center."
+    },
+    {
+        "instruction": "What does the speaker imply about the uniform distribution of weights among pixels?",
+        "response": "The speaker suggests that a uniform distribution of weights among pixels may not accurately represent their relative importance based on proximity.",
+        "category": "brainstorming",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker implies that assigning uniform weights may not capture the nuanced importance of pixels based on their proximity."
+    },
+    {
+        "instruction": "How does the speaker describe the relationship between the true value of a pixel and its proximity to neighboring pixels?",
+        "response": "The speaker suggests that the true value of a pixel is akin to that of its neighboring pixels, implying a relationship between proximity and pixel value.",
+        "category": "summarisation",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker describes the true value of a pixel as similar to that of its neighboring pixels, indicating a relationship between proximity and pixel value."
+    },
+    {
+        "instruction": "What does the speaker propose as a solution to address the variation in proximity among pixels?",
+        "response": "The speaker proposes assigning more weight to pixels closer to the center to address the variation in proximity among pixels.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker suggests assigning greater weight to pixels closer to the center as a solution to the variation in proximity among pixels."
+    },
+    {
+        "instruction": "How does the speaker suggest addressing the unequal proximity of pixels in the context of weight assignment?",
+        "response": "The speaker suggests assigning weights to pixels based on their proximity to the center, aiming to address the unequal proximity of pixels.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker recommends assigning weights based on pixel proximity to mitigate the unequal distribution of proximity among pixels."
+    },
+    {
+        "instruction": "What does the speaker imply about the importance of considering proximity in weight assignment?",
+        "response": "The speaker implies that considering proximity in weight assignment is crucial for accurately representing the importance of pixels.",
+        "category": "summarisation",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker suggests that accounting for proximity in weight assignment is essential for accurately reflecting the importance of pixels."
+    },
+    {
+        "instruction": "How does the speaker propose addressing the issue of varying distances between pixels?",
+        "response": "The speaker suggests assigning different weights to pixels based on their distance from the center to address the issue of varying distances between pixels.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker proposes assigning varying weights based on pixel distance from the center as a solution to the issue of differing distances between pixels."
+    },
+    {
+        "instruction": "What does the speaker suggest regarding the assignment of weights to pixels?",
+        "response": "The speaker suggests assigning weights to pixels based on their proximity to the center to better represent their importance.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker recommends assigning weights to pixels according to their proximity to the center for a more accurate representation of their importance."
+    },
+    {
+        "instruction": "How does the speaker explain the need for assigning different weights to pixels?",
+        "response": "The speaker explains that assigning different weights to pixels accounts for the variation in their proximity to the center.",
+        "category": "brainstorming",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker elucidates that assigning different weights accommodates the diversity in proximity of pixels to the center."
+    },
+    {
+        "instruction": "What does the speaker suggest about the uniform distribution of weights among pixels?",
+        "response": "The speaker suggests that a uniform distribution of weights may not accurately capture the significance of pixels based on their proximity to the center.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker implies that uniformly distributing weights may not adequately reflect the importance of pixels relative to their proximity to the center."
+    },
+    {
+        "instruction": "How does the speaker describe the relationship between a pixel's true value and its proximity to neighboring pixels?",
+        "response": "The speaker describes the true value of a pixel as analogous to that of its neighboring pixels, suggesting a connection between proximity and pixel value.",
+        "category": "summarisation",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker compares the true value of a pixel to its neighboring pixels, indicating an association between proximity and pixel value."
+    },
+    {
+        "instruction": "What solution does the speaker propose for addressing the variation in proximity among pixels?",
+        "response": "The speaker proposes assigning more weight to pixels closer to the center as a solution to the variation in proximity among pixels.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker suggests allocating greater weight to pixels nearer to the center to mitigate the variation in proximity among pixels."
+    },
+    {
+        "instruction": "How does the speaker suggest dealing with the unequal proximity of pixels in weight assignment?",
+        "response": "The speaker suggests assigning weights to pixels based on their proximity to the center to address the unequal distribution of proximity among pixels.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker recommends assigning weights according to pixel proximity to rectify the unequal distribution of proximity among pixels."
+    },
+    {
+        "instruction": "What does the speaker imply about the significance of considering proximity in weight assignment?",
+        "response": "The speaker implies that considering proximity in weight assignment is crucial for accurately reflecting the importance of pixels.",
+        "category": "summarisation",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker suggests that taking proximity into account in weight assignment is essential for accurately representing the significance of pixels."
+    },
+    {
+        "instruction": "How does the speaker propose addressing the issue of varying distances between pixels?",
+        "response": "The speaker suggests assigning different weights to pixels based on their distance from the center to tackle the issue of varying distances between pixels.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker proposes assigning varied weights based on pixel distance from the center as a solution to the challenge posed by differing distances between pixels."
+    },
+    {
+        "instruction": "What does the speaker suggest regarding the assignment of weights to pixels?",
+        "response": "The speaker suggests assigning weights to pixels based on their proximity to the center to better reflect their importance.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker recommends assigning weights to pixels according to their proximity to the center for a more accurate reflection of their importance."
+    },
+    {
+        "instruction": "How does the speaker explain the need for assigning different weights to pixels?",
+        "response": "The speaker explains that assigning different weights to pixels accounts for the variation in their proximity to the center.",
+        "category": "brainstorming",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker elucidates that assigning different weights accommodates the diversity in proximity of pixels to the center."
+    },
+    {
+        "instruction": "What does the speaker suggest about the uniform distribution of weights among pixels?",
+        "response": "The speaker suggests that a uniform distribution of weights may not accurately capture the significance of pixels based on their proximity to the center.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker implies that uniformly distributing weights may not adequately reflect the importance of pixels relative to their proximity to the center."
+    },
+    {
+        "instruction": "How does the speaker describe the relationship between a pixel's true value and its proximity to neighboring pixels?",
+        "response": "The speaker describes the true value of a pixel as analogous to that of its neighboring pixels, suggesting a connection between proximity and pixel value.",
+        "category": "summarisation",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker compares the true value of a pixel to its neighboring pixels, indicating an association between proximity and pixel value."
+    },
+    {
+        "instruction": "What approach does the speaker propose for assigning weights to nearby pixels?",
+        "response": "The speaker suggests assigning varying weights to nearby pixels based on their proximity to the center.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker proposes assigning different weights to nearby pixels, favoring those closer to the center."
+    },
+    {
+        "instruction": "What solution does the speaker propose for addressing the variation in proximity among pixels?",
+        "response": "The speaker proposes assigning more weight to pixels closer to the center as a solution to the variation in proximity among pixels.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker suggests allocating greater weight to pixels nearer to the center to mitigate the variation in proximity among pixels."
+    },
+    {
+        "instruction": "What does the speaker suggest regarding the assignment of weights to pixels?",
+        "response": "The speaker suggests assigning weights to pixels based on their proximity to the center to better represent their importance.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker recommends assigning weights to pixels according to their proximity to the center for a more accurate representation of their importance."
+    },
+    {
+        "instruction": "How does the speaker propose addressing the unequal proximity of pixels in weight assignment?",
+        "response": "The speaker suggests assigning weights to pixels based on their proximity to the center to address the unequal distribution of proximity among pixels.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker recommends assigning weights according to pixel proximity to rectify the unequal distribution of proximity among pixels."
+    },
+    {
+        "instruction": "What does the speaker imply about the significance of considering proximity in weight assignment?",
+        "response": "The speaker implies that considering proximity in weight assignment is crucial for accurately reflecting the importance of pixels.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker suggests that taking proximity into account in weight assignment is essential for accurately representing the significance of pixels."
+    },
+    {
+        "instruction": "What does the speaker suggest regarding the assignment of weights to pixels?",
+        "response": "The speaker suggests assigning weights to pixels based on their proximity to the center to better reflect their importance.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker recommends assigning weights to pixels according to their proximity to the center for a more accurate reflection of their importance."
+    },
+    {
+        "instruction": "How does the speaker explain the need for assigning different weights to pixels?",
+        "response": "The speaker explains that assigning different weights to pixels accounts for the variation in their proximity to the center.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker elucidates that assigning different weights accommodates the diversity in proximity of pixels to the center."
+    },
+    {
+        "instruction": "What does the speaker suggest about the uniform distribution of weights among pixels?",
+        "response": "The speaker suggests that a uniform distribution of weights may not accurately capture the significance of pixels based on their proximity to the center.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker implies that uniformly distributing weights may not adequately reflect the importance of pixels relative to their proximity to the center."
+    },
+    {
+        "instruction": "How does the speaker describe the relationship between a pixel's true value and its proximity to neighboring pixels?",
+        "response": "The speaker describes the true value of a pixel as analogous to that of its neighboring pixels, suggesting a connection between proximity and pixel value.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker compares the true value of a pixel to its neighboring pixels, indicating an association between proximity and pixel value."
+    },
+    {
+        "instruction": "What solution does the speaker propose for addressing the issue of varying distances between pixels?",
+        "response": "The speaker suggests assigning different weights to pixels based on their distance from the center to tackle the issue of varying distances between pixels.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker proposes assigning varied weights based on pixel distance from the center as a solution to the challenge posed by differing distances between pixels."
+    },
+    {
+        "instruction": "What does the speaker suggest regarding the assignment of weights to pixels?",
+        "response": "The speaker suggests assigning weights to pixels based on their proximity to the center to better reflect their importance.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker recommends assigning weights to pixels according to their proximity to the center for a more accurate reflection of their importance."
+    },
+    {
+        "instruction": "How does the speaker explain the need for assigning different weights to pixels?",
+        "response": "The speaker explains that assigning different weights to pixels accounts for the variation in their proximity to the center.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker elucidates that assigning different weights accommodates the diversity in proximity of pixels to the center."
+    },
+    {
+        "instruction": "What does the speaker suggest about the uniform distribution of weights among pixels?",
+        "response": "The speaker suggests that a uniform distribution of weights may not accurately capture the significance of pixels based on their proximity to the center.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker implies that uniformly distributing weights may not adequately reflect the importance of pixels relative to their proximity to the center."
+    },
+    {
+        "instruction": "How does the speaker describe the relationship between a pixel's true value and its proximity to neighboring pixels?",
+        "response": "The speaker describes the true value of a pixel as analogous to that of its neighboring pixels, suggesting a connection between proximity and pixel value.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker compares the true value of a pixel to its neighboring pixels, indicating an association between proximity and pixel value."
+    },
+    {
+        "instruction": "What solution does the speaker propose for addressing the issue of varying distances between pixels?",
+        "response": "The speaker suggests assigning different weights to pixels based on their distance from the center to tackle the issue of varying distances between pixels.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker proposes assigning varied weights based on pixel distance from the center as a solution to the challenge posed by differing distances between pixels."
+    },
+    {
+        "instruction": "What does the speaker suggest regarding the assignment of weights to pixels?",
+        "response": "The speaker suggests assigning weights to pixels based on their proximity to the center to better reflect their importance.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker recommends assigning weights to pixels according to their proximity to the center for a more accurate reflection of their importance."
+    },
+    {
+        "instruction": "How does the speaker explain the need for assigning different weights to pixels?",
+        "response": "The speaker explains that assigning different weights to pixels accounts for the variation in their proximity to the center.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker elucidates that assigning different weights accommodates the diversity in proximity of pixels to the center."
+    },
+    {
+        "instruction": "What does the speaker suggest about the uniform distribution of weights among pixels?",
+        "response": "The speaker suggests that a uniform distribution of weights may not accurately capture the significance of pixels based on their proximity to the center.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker implies that uniformly distributing weights may not adequately reflect the importance of pixels relative to their proximity to the center."
+    },
+    {
+        "instruction": "How does the speaker describe the relationship between a pixel's true value and its proximity to neighboring pixels?",
+        "response": "The speaker describes the true value of a pixel as analogous to that of its neighboring pixels, suggesting a connection between proximity and pixel value.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker compares the true value of a pixel to its neighboring pixels, indicating an association between proximity and pixel value."
+    },
+    {
+        "instruction": "What solution does the speaker propose for addressing the issue of varying distances between pixels?",
+        "response": "The speaker suggests assigning different weights to pixels based on their distance from the center to tackle the issue of varying distances between pixels.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker proposes assigning varied weights based on pixel distance from the center as a solution to the challenge posed by differing distances between pixels."
+    },
+    {
+        "instruction": "What does the speaker suggest regarding the assignment of weights to pixels?",
+        "response": "The speaker suggests assigning weights to pixels based on their proximity to the center to better reflect their importance.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker recommends assigning weights to pixels according to their proximity to the center for a more accurate reflection of their importance."
+    },
+    {
+        "instruction": "Is it recommended to assign uniform weights to all nearby pixels?",
+        "response": "No, the speaker suggests that assigning uniform weights may not accurately represent the importance of pixels based on their proximity to the center.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker implies that uniformly distributing weights may not adequately reflect the importance of pixels relative to their proximity to the center."
+    },
+    {
+        "instruction": "Does the speaker propose assigning more weight to pixels closer to the center?",
+        "response": "Yes, the speaker suggests assigning more weight to pixels nearer to the center to address the variation in proximity among pixels.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker recommends allocating greater weight to pixels closer to the center to mitigate the variation in proximity among pixels."
+    },
+    {
+        "instruction": "According to the speaker, should different weights be assigned to pixels based on their proximity to the center?",
+        "response": "Yes, the speaker suggests assigning different weights to pixels based on their proximity to the center to better represent their importance.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker recommends assigning weights to pixels according to their proximity to the center for a more accurate reflection of their importance."
+    },
+    {
+        "instruction": "Does the speaker propose assigning more weight to pixels that are closer to the center?",
+        "response": "Yes, the speaker suggests assigning more weight to pixels closer to the center as a solution to the variation in proximity among pixels.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker proposes assigning greater weight to pixels nearer to the center to mitigate the variation in proximity among pixels."
+    },
+    {
+        "instruction": "Is it recommended to assign a uniform weight to all pixels in the neighborhood?",
+        "response": "No, the speaker suggests that a uniform weight may not accurately reflect the significance of pixels based on their proximity to the center.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker implies that uniformly distributing weights may not adequately reflect the importance of pixels relative to their proximity to the center."
+    },
+    {
+        "instruction": "Does the speaker propose assigning varied weights based on pixel distance from the center?",
+        "response": "Yes, the speaker suggests assigning different weights to pixels based on their distance from the center to tackle the issue of varying distances between pixels.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker proposes assigning varied weights based on pixel distance from the center as a solution to the challenge posed by differing distances between pixels."
+    },
+    {
+        "instruction": "According to the speaker, should weights be assigned to pixels solely based on their distance from the center?",
+        "response": "Yes, the speaker suggests assigning weights to pixels based on their proximity to the center to better reflect their importance.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker recommends assigning weights to pixels according to their proximity to the center for a more accurate reflection of their importance."
+    },
+    {
+        "instruction": "Is it recommended to uniformly distribute weights among pixels?",
+        "response": "No, the speaker suggests that uniformly distributing weights may not accurately capture the significance of pixels based on their proximity to the center.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker implies that uniformly distributing weights may not adequately reflect the importance of pixels relative to their proximity to the center."
+    },
+    {
+        "instruction": "Does the speaker propose assigning more weight to pixels nearer to the center?",
+        "response": "Yes, the speaker suggests assigning more weight to pixels closer to the center to address the variation in proximity among pixels.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker recommends allocating greater weight to pixels closer to the center to mitigate the variation in proximity among pixels."
+    },
+    {
+        "instruction": "According to the speaker, should different weights be assigned to pixels based on their proximity to the center?",
+        "response": "Yes, the speaker suggests assigning different weights to pixels based on their proximity to the center to better represent their importance.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker recommends assigning weights to pixels according to their proximity to the center for a more accurate reflection of their importance."
+    },
+    {
+        "instruction": "Does the speaker propose assigning more weight to pixels that are closer to the center?",
+        "response": "Yes, the speaker suggests assigning more weight to pixels closer to the center as a solution to the variation in proximity among pixels.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker proposes assigning greater weight to pixels nearer to the center to mitigate the variation in proximity among pixels."
+    },
+    {
+        "instruction": "Is it recommended to assign a uniform weight to all pixels in the neighborhood?",
+        "response": "No, the speaker suggests that a uniform weight may not accurately reflect the significance of pixels based on their proximity to the center.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker implies that uniformly distributing weights may not adequately reflect the importance of pixels relative to their proximity to the center."
+    },
+    {
+        "instruction": "Does the speaker propose assigning varied weights based on pixel distance from the center?",
+        "response": "Yes, the speaker suggests assigning different weights to pixels based on their distance from the center to tackle the issue of varying distances between pixels.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker proposes assigning varied weights based on pixel distance from the center as a solution to the challenge posed by differing distances between pixels."
+    },
+    {
+        "instruction": "According to the speaker, should weights be assigned to pixels solely based on their distance from the center?",
+        "response": "Yes, the speaker suggests assigning weights to pixels based on their proximity to the center to better reflect their importance.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker recommends assigning weights to pixels according to their proximity to the center for a more accurate reflection of their importance."
+    },
+    {
+        "instruction": "Is it recommended to uniformly distribute weights among pixels?",
+        "response": "No, the speaker suggests that uniformly distributing weights may not accurately capture the significance of pixels based on their proximity to the center.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker implies that uniformly distributing weights may not adequately reflect the importance of pixels relative to their proximity to the center."
+    },
+    {
+        "instruction": "Does the speaker propose assigning more weight to pixels nearer to the center?",
+        "response": "Yes, the speaker suggests assigning more weight to pixels closer to the center to address the variation in proximity among pixels.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker recommends allocating greater weight to pixels closer to the center to mitigate the variation in proximity among pixels."
+    },
+    {
+        "instruction": "According to the speaker, should different weights be assigned to pixels based on their proximity to the center?",
+        "response": "Yes, the speaker suggests assigning different weights to pixels based on their proximity to the center to better represent their importance.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker recommends assigning weights to pixels according to their proximity to the center for a more accurate reflection of their importance."
+    },
+    {
+        "instruction": "Does the speaker propose assigning more weight to pixels that are closer to the center?",
+        "response": "Yes, the speaker suggests assigning more weight to pixels closer to the center as a solution to the variation in proximity among pixels.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker proposes assigning greater weight to pixels nearer to the center to mitigate the variation in proximity among pixels."
+    },
+    {
+        "instruction": "Is it recommended to assign a uniform weight to all pixels in the neighborhood?",
+        "response": "No, the speaker suggests that a uniform weight may not accurately reflect the significance of pixels based on their proximity to the center.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker implies that uniformly distributing weights may not adequately reflect the importance of pixels relative to their proximity to the center."
+    },
+    {
+        "instruction": "Does the speaker propose assigning varied weights based on pixel distance from the center?",
+        "response": "Yes, the speaker suggests assigning different weights to pixels based on their distance from the center to tackle the issue of varying distances between pixels.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker proposes assigning varied weights based on pixel distance from the center as a solution to the challenge posed by differing distances between pixels."
+    },
+    {
+        "instruction": "According to the speaker, should weights be assigned to pixels solely based on their distance from the center?",
+        "response": "Yes, the speaker suggests assigning weights to pixels based on their proximity to the center to better reflect their importance.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker recommends assigning weights to pixels according to their proximity to the center for a more accurate reflection of their importance."
+    },
+    {
+        "instruction": "Is it recommended to uniformly distribute weights among pixels?",
+        "response": "No, the speaker suggests that uniformly distributing weights may not accurately capture the significance of pixels based on their proximity to the center.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 27,
+        "context": "The speaker implies that uniformly distributing weights may not adequately reflect the importance of pixels relative to their proximity to the center."
+    }
+
+
 
 ]
