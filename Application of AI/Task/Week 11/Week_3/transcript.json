@@ -205,7 +205,6 @@
         "week": 3,
         "page":40 
     },
-
     {
         "transcript": "So now really we are needed to talk about a mass of moving average. That is more like a correlated filtering with uniform weights. So the mathematics method that we discussed previously is so-called correlation or the correlation filtering with the uniform weights. And there's an average window size like is about 2K plus 1 times 2K plus 1. If K should be, this two should be here. If K is equal to 1, it should be 3 plus 3 matrix. If K is equal to 3, so then it should be 7 by 7 matrix.",
         "week": 3,
