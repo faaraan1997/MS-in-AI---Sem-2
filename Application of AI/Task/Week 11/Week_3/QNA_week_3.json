@@ -15391,5 +15391,893 @@
         "page": 104,
         "context": "The speaker discusses the implications of preserving signal characteristics in signal processing."
     },
+    {
+        "instruction": "What types of noise removal techniques were discussed in the model?",
+        "response": "The model discussed noise removal techniques such as Gaussian filtering, uniform weight average, and non-linear filtering to address noises that do not follow Gaussian distribution.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 108,
+        "context": "The speaker highlights various noise removal techniques discussed in the model."
+    },
+    {
+        "instruction": "How does Gaussian filtering differ from non-linear filtering in noise removal?",
+        "response": "Gaussian filtering may not effectively remove noises that do not follow Gaussian distribution, necessitating the use of non-linear filtering for such cases.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 108,
+        "context": "The speaker explains the distinction between Gaussian filtering and non-linear filtering in noise removal."
+    },
+    {
+        "instruction": "What challenges arise when using Gaussian filtering for noise removal?",
+        "response": "Gaussian filtering may not be suitable for removing noises that do not conform to Gaussian distribution, posing a challenge in effectively addressing certain types of noise.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 108,
+        "context": "The speaker discusses challenges associated with using Gaussian filtering for noise removal."
+    },
+    {
+        "instruction": "How is non-linear filtering used in noise removal?",
+        "response": "Non-linear filtering is employed in noise removal to address noises that do not follow Gaussian distribution, providing an alternative approach to effectively filter out such noise.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 108,
+        "context": "The speaker explains the application of non-linear filtering in noise removal."
+    },
+    {
+        "instruction": "What are the limitations of Gaussian filtering in noise removal?",
+        "response": "Gaussian filtering may not effectively remove noises that deviate from Gaussian distribution, limiting its applicability in noise removal tasks.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 108,
+        "context": "The speaker discusses the limitations of Gaussian filtering in addressing certain types of noise."
+    },
+    {
+        "instruction": "How does non-linear filtering address noise removal challenges?",
+        "response": "Non-linear filtering addresses noise removal challenges by offering a method to effectively filter out noises that do not conform to Gaussian distribution, providing a versatile alternative to Gaussian filtering.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 108,
+        "context": "The speaker explains how non-linear filtering helps overcome noise removal challenges posed by non-Gaussian noises."
+    },
+    {
+        "instruction": "What role does Gaussian filtering play in noise removal?",
+        "response": "Gaussian filtering is used in noise removal tasks but may be limited in its effectiveness against noises that do not follow Gaussian distribution.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 108,
+        "context": "The speaker discusses the role of Gaussian filtering in noise removal and its limitations."
+    },
+    {
+        "instruction": "How does non-linear filtering address noise removal limitations?",
+        "response": "Non-linear filtering addresses noise removal limitations by providing a flexible approach to filter out noises that do not conform to Gaussian distribution, enhancing overall noise reduction capabilities.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 108,
+        "context": "The speaker explains how non-linear filtering helps mitigate limitations associated with noise removal techniques."
+    },
+    {
+        "instruction": "What are the implications of noise types on filtering techniques?",
+        "response": "Different noise types may necessitate specific filtering techniques such as non-linear filtering when Gaussian filtering is inadequate for noise removal.",
+        "category": "brainstorming",
+        "week": 3,
+        "page": 108,
+        "context": "The speaker discusses the impact of noise characteristics on the selection of appropriate filtering techniques."
+    },
+    {
+        "instruction": "How does non-linear filtering enhance noise removal effectiveness?",
+        "response": "Non-linear filtering enhances noise removal effectiveness by addressing noises that do not adhere to Gaussian distribution, providing a more robust approach to noise reduction.",
+        "category": "brainstorming",
+        "week": 3,
+        "page": 108,
+        "context": "The speaker explores how non-linear filtering improves the effectiveness of noise removal in image processing."
+    },
+    {
+        "instruction": "What types of noise removal techniques were discussed in the model?",
+        "response": "The model discussed noise removal techniques such as Gaussian filtering, uniform weight average, and non-linear filtering to address noises that do not follow Gaussian distribution.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 108,
+        "context": "The speaker highlights various noise removal techniques discussed in the model."
+    },
+    {
+        "instruction": "How does Gaussian filtering differ from non-linear filtering in noise removal?",
+        "response": "Gaussian filtering may not effectively remove noises that do not follow Gaussian distribution, necessitating the use of non-linear filtering for such cases.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 108,
+        "context": "The speaker explains the distinction between Gaussian filtering and non-linear filtering in noise removal."
+    },
+    {
+        "instruction": "What challenges arise when using Gaussian filtering for noise removal?",
+        "response": "Gaussian filtering may not be suitable for removing noises that do not conform to Gaussian distribution, posing a challenge in effectively addressing certain types of noise.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 108,
+        "context": "The speaker discusses challenges associated with using Gaussian filtering for noise removal."
+    },
+    {
+        "instruction": "How is non-linear filtering used in noise removal?",
+        "response": "Non-linear filtering is employed in noise removal to address noises that do not follow Gaussian distribution, providing an alternative approach to effectively filter out such noise.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 108,
+        "context": "The speaker explains the application of non-linear filtering in noise removal."
+    },
+    {
+        "instruction": "What are the limitations of Gaussian filtering in noise removal?",
+        "response": "Gaussian filtering may not effectively remove noises that deviate from Gaussian distribution, limiting its applicability in noise removal tasks.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 108,
+        "context": "The speaker discusses the limitations of Gaussian filtering in addressing certain types of noise."
+    },
+    {
+        "instruction": "What noise removal techniques were mentioned in the discussion?",
+        "response": "The discussion mentioned Gaussian filtering, uniform weight average, and non-linear filtering as noise removal techniques.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 108,
+        "context": "The speaker outlined various techniques for noise removal in the model."
+    },
+    {
+        "instruction": "Why might Gaussian filtering be ineffective for certain types of noise?",
+        "response": "Gaussian filtering may not work well on noises that do not follow a Gaussian distribution.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 108,
+        "context": "The speaker explained the limitation of Gaussian filtering for certain noise distributions."
+    },
+    {
+        "instruction": "What is one alternative to Gaussian filtering for handling non-Gaussian noise?",
+        "response": "One alternative to Gaussian filtering for non-Gaussian noise is non-linear filtering.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 108,
+        "context": "The speaker discussed non-linear filtering as a solution for non-Gaussian noise."
+    },
+    {
+        "instruction": "How does the uniform weight average contribute to noise removal?",
+        "response": "The uniform weight average is another method discussed for noise removal, offering a different approach compared to Gaussian and non-linear filtering techniques.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 108,
+        "context": "The speaker explained the role of uniform weight average in noise removal."
+    },
+    {
+        "instruction": "What type of noise poses a challenge to Gaussian filtering?",
+        "response": "Noises that do not conform to Gaussian distribution pose challenges for Gaussian filtering.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 108,
+        "context": "The speaker identified non-Gaussian noise as problematic for Gaussian filtering."
+    },
+    {
+        "instruction": "What noise removal techniques were discussed in the model?",
+        "response": "The model discussed noise removal techniques such as Gaussian filtering, uniform weight average, and non-linear filtering to address noises that do not follow Gaussian distribution.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 108,
+        "context": "The speaker outlined various techniques for noise removal in the model."
+    },
+    {
+        "instruction": "Why might Gaussian filtering be ineffective for certain types of noise?",
+        "response": "Gaussian filtering may not work well on noises that do not follow a Gaussian distribution.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 108,
+        "context": "The speaker explained the limitation of Gaussian filtering for certain noise distributions."
+    },
+    {
+        "instruction": "What is one alternative to Gaussian filtering for handling non-Gaussian noise?",
+        "response": "One alternative to Gaussian filtering for non-Gaussian noise is non-linear filtering.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 108,
+        "context": "The speaker discussed non-linear filtering as a solution for non-Gaussian noise."
+    },
+    {
+        "instruction": "How does the uniform weight average contribute to noise removal?",
+        "response": "The uniform weight average is another method discussed for noise removal, offering a different approach compared to Gaussian and non-linear filtering techniques.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 108,
+        "context": "The speaker explained the role of uniform weight average in noise removal."
+    },
+    {
+        "instruction": "What type of noise poses a challenge to Gaussian filtering?",
+        "response": "Noises that do not conform to Gaussian distribution pose challenges for Gaussian filtering.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 108,
+        "context": "The speaker identified non-Gaussian noise as problematic for Gaussian filtering."
+    },
+    {
+        "instruction": "What image processing technique was described involving a Gaussian mask and kernels?",
+        "response": "The speaker described an image processing technique involving Gaussian filtering with a Gaussian mask using three by three kernels with a sigma value of one.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 109,
+        "context": "The speaker discussed specific details of an image processing technique involving Gaussian filtering."
+    },
+    {
+        "instruction": "How does a Gaussian mask contribute to image processing?",
+        "response": "A Gaussian mask is used in image processing to apply Gaussian filtering, which helps in noise reduction and smoothing of images.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 109,
+        "context": "The speaker explained the role of a Gaussian mask in image processing."
+    },
+    {
+        "instruction": "What are the characteristics of the kernels used in the described image processing technique?",
+        "response": "The described image processing technique used three by three kernels with a sigma value of one for Gaussian filtering.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 109,
+        "context": "The speaker provided details about the kernels used in the image processing technique."
+    },
+    {
+        "instruction": "How does Gaussian filtering contribute to noise reduction in images?",
+        "response": "Gaussian filtering contributes to noise reduction in images by applying a smoothing effect through the use of Gaussian masks and kernels.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 109,
+        "context": "The speaker discussed the role of Gaussian filtering in reducing noise in images."
+    },
+    {
+        "instruction": "What is the significance of a sigma value of one in Gaussian filtering?",
+        "response": "A sigma value of one in Gaussian filtering influences the size and intensity of the Gaussian mask, affecting the degree of smoothing and noise reduction in images.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 109,
+        "context": "The speaker explained the impact of a sigma value of one on Gaussian filtering."
+    },
+    {
+        "instruction": "How does the size of the kernel impact the effectiveness of Gaussian filtering?",
+        "response": "The size of the kernel, such as three by three kernels, influences the scope and precision of Gaussian filtering, affecting its effectiveness in image processing.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 109,
+        "context": "The speaker discussed how the kernel size influences Gaussian filtering outcomes."
+    },
+    {
+        "instruction": "What is the purpose of applying Gaussian filtering to noisy images?",
+        "response": "The purpose of applying Gaussian filtering to noisy images is to reduce noise and smooth out the image using Gaussian masks and specific kernel configurations.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 109,
+        "context": "The speaker explained the rationale behind applying Gaussian filtering to noisy images."
+    },
+    {
+        "instruction": "How does the use of a Gaussian mask contribute to image smoothing?",
+        "response": "The use of a Gaussian mask in image processing contributes to image smoothing by applying a controlled blur effect that reduces noise and enhances image quality.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 109,
+        "context": "The speaker discussed the role of a Gaussian mask in smoothing images."
+    },
+    {
+        "instruction": "What effect does a sigma value of one have on Gaussian filtering outcomes?",
+        "response": "A sigma value of one influences the intensity and scope of Gaussian filtering, affecting the degree of noise reduction and image smoothing.",
+        "category": "brainstorming",
+        "week": 3,
+        "page": 109,
+        "context": "The speaker explored the impact of sigma values on Gaussian filtering outcomes."
+    },
+    {
+        "instruction": "How does Gaussian filtering contribute to improving image quality?",
+        "response": "Gaussian filtering improves image quality by reducing noise and smoothing out images using Gaussian masks and specific kernel configurations.",
+        "category": "brainstorming",
+        "week": 3,
+        "page": 109,
+        "context": "The speaker discussed the role of Gaussian filtering in enhancing image quality."
+    },
+    {
+        "instruction": "What concept is described involving surrounding pixels and center pixel values?",
+        "response": "The speaker described a concept involving taking the energy of surrounding pixels relative to the center pixel values.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 112,
+        "context": "The speaker discussed a concept related to pixel values and their surrounding energies."
+    },
+    {
+        "instruction": "How do high values in surrounding pixel affect the center pixel?",
+        "response": "High values in surrounding pixels may influence the center pixel, impacting its overall value or characteristics.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 112,
+        "context": "The speaker discussed the relationship between high values in surrounding pixels and the center pixel."
+    },
+    {
+        "instruction": "What is the purpose of considering the energy of surrounding pixels relative to the center pixel?",
+        "response": "Considering the energy of surrounding pixels relative to the center pixel helps in understanding the influence and interactions between neighboring pixel values.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 112,
+        "context": "The speaker explained the significance of analyzing pixel energies in relation to neighboring values."
+    },
+    {
+        "instruction": "How does the concept of surrounding pixel energy contribute to image processing?",
+        "response": "Analyzing surrounding pixel energy relative to the center pixel contributes to image processing by providing insights into pixel interactions and potential effects on image quality.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 112,
+        "context": "The speaker discussed the role of surrounding pixel energy in image processing."
+    },
+    {
+        "instruction": "What does the term 'energy of surrounding pixels' imply in image analysis?",
+        "response": "The term 'energy of surrounding pixels' refers to the collective influence or impact of neighboring pixel values on the central pixel.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 112,
+        "context": "The speaker explained the concept of 'energy of surrounding pixels' in the context of image analysis."
+    },
+    {
+        "instruction": "How might surrounding pixel values affect the processing of the center pixel?",
+        "response": "Surrounding pixel values can influence the processing of the center pixel, potentially altering its characteristics or contributing to noise reduction techniques.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 112,
+        "context": "The speaker discussed the impact of surrounding pixel values on central pixel processing."
+    },
+    {
+        "instruction": "What insights can be gained by considering the energy of surrounding pixels in image analysis?",
+        "response": "Considering the energy of surrounding pixels provides insights into the spatial relationships and interactions between neighboring pixel values, aiding in various image analysis tasks.",
+        "category": "brainstorming",
+        "week": 3,
+        "page": 112,
+        "context": "The speaker explored the potential insights derived from analyzing surrounding pixel energies in image analysis."
+    },
+    {
+        "instruction": "How does the energy of surrounding pixels contribute to image enhancement?",
+        "response": "Analyzing the energy of surrounding pixels can contribute to image enhancement by informing techniques that optimize pixel interactions and improve overall image quality.",
+        "category": "brainstorming",
+        "week": 3,
+        "page": 112,
+        "context": "The speaker discussed the role of surrounding pixel energies in enhancing images."
+    },
+    {
+        "instruction": "What role does surrounding pixel energy play in noise reduction?",
+        "response": "Surrounding pixel energy analysis can aid in noise reduction strategies by identifying and mitigating the impact of neighboring pixel values on image quality.",
+        "category": "summarisation",
+        "week": 3,
+        "page": 112,
+        "context": "The speaker highlighted the role of surrounding pixel energy in noise reduction techniques."
+    },
+    {
+        "instruction": "How might the energy of surrounding pixels be utilized in image restoration?",
+        "response": "The energy of surrounding pixels can be leveraged in image restoration processes to optimize pixel relationships and restore image fidelity.",
+        "category": "summarisation",
+        "week": 3,
+        "page": 112,
+        "context": "The speaker discussed the potential applications of surrounding pixel energy in image restoration."
+    },
+    {
+        "instruction": "What method was suggested as a good option to remove peaks in noisy images?",
+        "response": "Using the average of surrounding pixel values was suggested as a good method to remove peaks in noisy images.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 113,
+        "context": "The speaker discussed noise reduction techniques involving averaging of surrounding pixel values."
+    },
+    {
+        "instruction": "Why is averaging surrounding pixel values effective for noise removal?",
+        "response": "Averaging surrounding pixel values is effective for noise removal because it smooths out extreme values and reduces the impact of noise peaks.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 113,
+        "context": "The speaker explained the effectiveness of averaging in reducing noise peaks."
+    },
+    {
+        "instruction": "What was the outcome when replacing the center pixel with a value of 48?",
+        "response": "Replacing the center pixel with a value of 48 resulted in an improvement in image quality.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 113,
+        "context": "The speaker discussed the impact of replacing the center pixel with a specific value."
+    },
+    {
+        "instruction": "How did the replacement of the center pixel with 48 affect the image?",
+        "response": "Replacing the center pixel with 48 was perceived as improving the image quality, indicating a favorable outcome.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 113,
+        "context": "The speaker discussed the effect of replacing the center pixel with a specific value on image quality."
+    },
+    {
+        "instruction": "What role does averaging of pixel values play in image enhancement?",
+        "response": "Averaging of pixel values contributes to image enhancement by reducing noise and smoothing out pixel variations.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 113,
+        "context": "The speaker discussed the role of averaging in improving image quality and reducing noise."
+    },
+    {
+        "instruction": "How does replacing the center pixel with a specific value contribute to image processing?",
+        "response": "Replacing the center pixel with a specific value can contribute to image processing by enhancing image clarity and reducing noise artifacts.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 113,
+        "context": "The speaker explained the impact of replacing the center pixel with a predefined value on image processing."
+    },
+    {
+        "instruction": "What does using the average of surrounding pixel values help achieve in image processing?",
+        "response": "Using the average of surrounding pixel values helps achieve noise reduction and smoother image output in image processing tasks.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 113,
+        "context": "The speaker discussed the benefits of using pixel averaging for noise reduction in image processing."
+    },
+    {
+        "instruction": "How does replacing the center pixel with a specific value aid in noise reduction?",
+        "response": "Replacing the center pixel with a specific value aids in noise reduction by mitigating extreme pixel values and improving overall image quality.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 113,
+        "context": "The speaker explained the role of center pixel replacement in noise reduction techniques."
+    },
+    {
+        "instruction": "What advantages does averaging surrounding pixel values offer in image restoration?",
+        "response": "Averaging surrounding pixel values offers advantages in image restoration by smoothing out pixel variations and reducing noise, resulting in improved image fidelity.",
+        "category": "brainstorming",
+        "week": 3,
+        "page": 113,
+        "context": "The speaker discussed the potential benefits of pixel averaging in image restoration."
+    },
+    {
+        "instruction": "How does the method of replacing the center pixel contribute to noise reduction strategies?",
+        "response": "Replacing the center pixel with a specific value contributes to noise reduction strategies by stabilizing pixel variations and improving image quality.",
+        "category": "brainstorming",
+        "week": 3,
+        "page": 113,
+        "context": "The speaker explored the role of center pixel replacement in noise reduction strategies."
+    },
+    {
+        "instruction": "What method was suggested as an alternative to using the average of surrounding pixel values?",
+        "response": "Using the median value of surrounding pixel values was suggested as an alternative to using the average.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker discussed an alternative method involving the median value of surrounding pixels."
+    },
+    {
+        "instruction": "How does using the median value differ from using the average in image processing?",
+        "response": "Using the median value in image processing differs from using the average by considering the central value of pixel neighborhoods, which can be more effective for preserving edges.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker explained the difference between using median and average values in image processing."
+    },
+    {
+        "instruction": "What impact does the median value have on pixel values in the neighborhood?",
+        "response": "The median value helps ensure that pixel values in the neighborhood change smoothly, particularly preserving edges in the image.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker discussed the impact of using median values on pixel neighborhood characteristics."
+    },
+    {
+        "instruction": "How is the median value calculated for pixel neighborhoods?",
+        "response": "The median value for pixel neighborhoods is calculated by sorting the pixel values and selecting the middle value as the median.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker explained the process of calculating the median value for pixel neighborhoods."
+    },
+    {
+        "instruction": "What advantages does using the median value offer over averaging in image enhancement?",
+        "response": "Using the median value offers advantages over averaging by preserving image edges and preventing abrupt changes in pixel values.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker discussed the benefits of using median values for image enhancement."
+    },
+    {
+        "instruction": "How does using the median value contribute to preserving image details?",
+        "response": "Using the median value contributes to preserving image details by ensuring that pixel values change smoothly, which is especially important for edge preservation.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker explained the role of median values in preserving image details."
+    },
+    {
+        "instruction": "What is the significance of using median values in noise reduction techniques?",
+        "response": "Using median values in noise reduction techniques helps in smoothing out pixel variations while preserving important image features like edges.",
+        "category": "brainstorming",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker explored the significance of median values in noise reduction strategies."
+    },
+    {
+        "instruction": "How does the use of median values contribute to improving image quality?",
+        "response": "The use of median values improves image quality by preventing abrupt changes in pixel values, particularly around edges, resulting in smoother images.",
+        "category": "brainstorming",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker discussed how median values contribute to enhancing image quality."
+    },
+    {
+        "instruction": "What benefits does selecting median values offer for edge preservation?",
+        "response": "Selecting median values benefits edge preservation by maintaining smooth transitions between pixel values, which is crucial for preserving image edges.",
+        "category": "summarisation",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker highlighted the advantages of using median values for edge preservation."
+    },
+    {
+        "instruction": "How does the use of median values affect image restoration techniques?",
+        "response": "The use of median values in image restoration techniques helps in minimizing pixel noise and preserving image features, resulting in improved restoration outcomes.",
+        "category": "summarisation",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker discussed the role of median values in image restoration."
+    },
+    {
+        "instruction": "What method was suggested as an alternative to using the average of surrounding pixel values?",
+        "response": "Using the median value of surrounding pixel values was suggested as an alternative to using the average.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker discussed an alternative method involving the median value of surrounding pixels."
+    },
+    {
+        "instruction": "How does using the median value differ from using the average in image processing?",
+        "response": "Using the median value in image processing differs from using the average by considering the central value of pixel neighborhoods, which can be more effective for preserving edges.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker explained the difference between using median and average values in image processing."
+    },
+    {
+        "instruction": "What impact does the median value have on pixel values in the neighborhood?",
+        "response": "The median value helps ensure that pixel values in the neighborhood change smoothly, particularly preserving edges in the image.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker discussed the impact of using median values on pixel neighborhood characteristics."
+    },
+    {
+        "instruction": "How is the median value calculated for pixel neighborhoods?",
+        "response": "The median value for pixel neighborhoods is calculated by sorting the pixel values and selecting the middle value as the median.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker explained the process of calculating the median value for pixel neighborhoods."
+    },
+    {
+        "instruction": "What benefits does selecting median values offer for edge preservation?",
+        "response": "Selecting median values benefits edge preservation by maintaining smooth transitions between pixel values, which is crucial for preserving image edges.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker highlighted the advantages of using median values for edge preservation."
+    },
+    {
+        "instruction": "How does the use of median values affect image quality?",
+        "response": "The use of median values improves image quality by preventing abrupt changes in pixel values, particularly around edges, resulting in smoother images.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker discussed how median values contribute to enhancing image quality."
+    },
+    {
+        "instruction": "What advantages does using the median value offer over averaging in image enhancement?",
+        "response": "Using the median value offers advantages over averaging by preserving image edges and preventing abrupt changes in pixel values.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker discussed the benefits of using median values for image enhancement."
+    },
+    {
+        "instruction": "What is the significance of using median values in noise reduction techniques?",
+        "response": "Using median values in noise reduction techniques helps in smoothing out pixel variations while preserving important image features like edges.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker explored the significance of median values in noise reduction strategies."
+    },
+    {
+        "instruction": "How does using the median value contribute to preserving image details?",
+        "response": "Using the median value contributes to preserving image details by ensuring that pixel values change smoothly, which is especially important for edge preservation.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker explained the role of median values in preserving image details."
+    },
+    {
+        "instruction": "What benefits does selecting median values offer for image restoration?",
+        "response": "Selecting median values benefits image restoration by minimizing pixel noise and preserving image features, resulting in improved restoration outcomes.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker discussed the role of median values in image restoration."
+    },
+    {
+        "instruction": "What method was recommended as an alternative to using the average of surrounding pixel values?",
+        "response": "Using the median value of surrounding pixel values was recommended as an alternative to using the average.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker discussed an alternative method involving the use of median values for image processing."
+    },
+    {
+        "instruction": "How does using the median value differ from using the average in image processing?",
+        "response": "Using the median value in image processing differs from using the average by considering the middle value of pixel neighborhoods, which can be more effective for preserving image details and edges.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker explained the difference between median and average values in image processing."
+    },
+    {
+        "instruction": "What impact does the median value have on pixel values in the neighborhood?",
+        "response": "The median value helps ensure that pixel values in the neighborhood change smoothly, which is important for preserving image quality and details.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker discussed the impact of using median values on pixel neighborhood characteristics."
+    },
+    {
+        "instruction": "How is the median value calculated for pixel neighborhoods?",
+        "response": "The median value for pixel neighborhoods is calculated by sorting the pixel values and selecting the middle value as the median.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker explained the process of calculating the median value for pixel neighborhoods."
+    },
+    {
+        "instruction": "What benefits does selecting median values offer for image processing?",
+        "response": "Selecting median values offers benefits such as preserving image details and edges more effectively compared to using simple averages.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker discussed the advantages of using median values in image processing."
+    },
+    {
+        "instruction": "What is the significance of using median values in noise reduction?",
+        "response": "Using median values in noise reduction helps in smoothing out pixel variations while preserving important image features like edges.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker explained the significance of median values in noise reduction techniques."
+    },
+    {
+        "instruction": "Why is using the median value beneficial for maintaining image quality?",
+        "response": "Using the median value is beneficial for maintaining image quality by preventing abrupt changes in pixel values, particularly around edges.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker discussed the role of median values in preserving image quality."
+    },
+    {
+        "instruction": "How does using the median value contribute to edge preservation?",
+        "response": "Using the median value helps in preserving edges by maintaining smooth transitions between pixel values in the neighborhood.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker explained how median values contribute to edge preservation."
+    },
+    {
+        "instruction": "What advantages does selecting median values offer over averaging for image enhancement?",
+        "response": "Selecting median values offers advantages such as preserving image edges and details more effectively compared to using simple averages.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker discussed the benefits of using median values for image enhancement."
+    },
+    {
+        "instruction": "How does the use of median values affect image restoration techniques?",
+        "response": "The use of median values in image restoration techniques helps in minimizing pixel noise and preserving image features, resulting in improved restoration outcomes.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker discussed the role of median values in image restoration."
+    },
+    {
+        "instruction": "What technique was suggested instead of using the average of pixel values in the neighborhood?",
+        "response": "Using the median value of pixel values in the neighborhood was suggested as an alternative to using the average.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker discussed using median values as an alternative to averaging pixel values in image processing."
+    },
+    {
+        "instruction": "How does selecting median values differ from using the average in image processing?",
+        "response": "Selecting median values in image processing differs from using the average by considering the middle value of pixel neighborhoods, which can preserve image details and edges more effectively.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker explained the difference between median and average values in image processing."
+    },
+    {
+        "instruction": "Why is using the median value advantageous for image processing?",
+        "response": "Using the median value is advantageous for image processing because it can preserve image details and edges better than simple averaging.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker discussed the benefits of using median values in image processing."
+    },
+    {
+        "instruction": "What is the significance of using median values in noise reduction techniques?",
+        "response": "Using median values in noise reduction techniques helps in smoothing out pixel variations while preserving important image features like edges.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker explained the significance of median values in noise reduction strategies."
+    },
+    {
+        "instruction": "How does using median values contribute to preserving image quality?",
+        "response": "Using median values contributes to preserving image quality by preventing abrupt changes in pixel values, particularly around edges.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker discussed how median values contribute to maintaining image quality."
+    },
+    {
+        "instruction": "What are the benefits of using median values over averaging in image enhancement?",
+        "response": "Using median values in image enhancement offers benefits such as preserving image edges and details more effectively compared to simple averaging.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker discussed the advantages of using median values for image enhancement."
+    },
+    {
+        "instruction": "How does the use of median values impact image restoration?",
+        "response": "Using median values in image restoration helps in minimizing pixel noise and preserving image features, leading to improved restoration outcomes.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker explained the role of median values in image restoration techniques."
+    },
+    {
+        "instruction": "What is the role of median values in maintaining smooth transitions between pixel values?",
+        "response": "The role of median values is to maintain smooth transitions between pixel values, which is crucial for preserving image details and edges.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker discussed how median values contribute to smooth transitions in image processing."
+    },
+    {
+        "instruction": "How does selecting median values affect image noise?",
+        "response": "Selecting median values helps in reducing image noise by smoothing out pixel variations while preserving important image features.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker explained how median values impact image noise reduction."
+    },
+    {
+        "instruction": "Why is the use of median values preferable in certain image processing tasks?",
+        "response": "The use of median values is preferable in certain image processing tasks because it can preserve image features more effectively than averaging, especially around edges.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 114,
+        "context": "The speaker discussed the advantages of using median values for specific image processing tasks."
+    },
+    {
+        "instruction": "What are the results of applying median filtering?",
+        "response": "Applying median filtering results in the selection of the median value from the neighborhood, which differs from average filtering by preserving image details and removing spikes and extreme values.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 115,
+        "context": "The speaker discussed the outcomes of applying median filtering in image processing."
+    },
+    {
+        "instruction": "What is notable about median filtering compared to averaging?",
+        "response": "Median filtering differs from averaging by selecting the median value, which helps in removing spikes and extreme values from the neighborhood.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 115,
+        "context": "The speaker highlighted the difference between median filtering and averaging in image processing."
+    },
+    {
+        "instruction": "How does median filtering impact image noise?",
+        "response": "Median filtering is effective in reducing image noise by removing extreme values and spikes from the pixel neighborhood.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 115,
+        "context": "The speaker explained how median filtering reduces image noise by focusing on median values."
+    },
+    {
+        "instruction": "What types of artifacts does median filtering address?",
+        "response": "Median filtering is effective in addressing artifacts like spikes and extreme values in the neighborhood, which are removed during the filtering process.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 115,
+        "context": "The speaker discussed how median filtering handles various artifacts in image processing."
+    },
+    {
+        "instruction": "What distinguishes median filtering from linear filtering techniques?",
+        "response": "Median filtering is non-linear, unlike linear filtering techniques, which contributes to its effectiveness in removing extreme values and preserving image details.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 115,
+        "context": "The speaker explained the non-linear nature of median filtering in image processing."
+    },
+    {
+        "instruction": "Why is median filtering considered effective for image enhancement?",
+        "response": "Median filtering is effective for image enhancement because it removes spikes and extreme values, resulting in smoother images with preserved details.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 115,
+        "context": "The speaker discussed the effectiveness of median filtering in enhancing image quality."
+    },
+    {
+        "instruction": "What is the difference between the original noisy image and the image filtered with a Gaussian filter?",
+        "response": "The image filtered with a Gaussian filter appears less noisy but slightly blurry compared to the original noisy image.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 116,
+        "context": "The speaker compared the effects of a Gaussian filter on an original noisy image."
+    },
+    {
+        "instruction": "How would you describe the impact of a Gaussian filter on the image?",
+        "response": "The Gaussian filter reduces noise in the image but can also result in slight blurring, improving the overall appearance.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 116,
+        "context": "The speaker discussed the effects of applying a Gaussian filter to an image."
+    },
+    {
+        "instruction": "What are the advantages and disadvantages of using a Gaussian filter on noisy images?",
+        "response": "Using a Gaussian filter reduces noise in images but can also introduce some blurring, affecting image sharpness.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 116,
+        "context": "The speaker described the trade-offs associated with using a Gaussian filter for noise reduction."
+    },
+    {
+        "instruction": "How does the Gaussian filter affect image clarity?",
+        "response": "The Gaussian filter improves image clarity by reducing noise, although it may slightly blur the image.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 116,
+        "context": "The speaker discussed the impact of a Gaussian filter on image clarity and noise reduction."
+    },
+    {
+        "instruction": "What observations were made about the image after applying the Gaussian filter?",
+        "response": "The image appeared less noisy and slightly blurry after applying the Gaussian filter, indicating reduced noise levels.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 116,
+        "context": "The speaker commented on the visual changes observed in the image after applying a Gaussian filter."
+    },
+    {
+        "instruction": "What are the advantages of using a median filter?",
+        "response": "The advantages of using a median filter include noise reduction by averaging nearby pixels and its simplicity compared to more complex methods like deep neural networks.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 117,
+        "context": "The speaker discussed the benefits of employing a median filter for image processing."
+    },
+    {
+        "instruction": "How does a median filter contribute to noise reduction?",
+        "response": "A median filter reduces noise by averaging nearby pixels, providing a straightforward method for noise removal.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 117,
+        "context": "The speaker explained the noise reduction capabilities of a median filter."
+    },
+    {
+        "instruction": "What challenges arise when trying to achieve high-resolution images while reducing noise?",
+        "response": "Achieving high-resolution images while effectively reducing noise can be challenging, especially without using complex methods like deep neural networks.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 117,
+        "context": "The speaker discussed the difficulties in achieving high-resolution images with noise reduction using conventional methods."
+    },
+    {
+        "instruction": "Why is a median filter considered an easy method for noise reduction?",
+        "response": "A median filter is regarded as an easy method for noise reduction due to its straightforward approach of averaging nearby pixel values.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 117,
+        "context": "The speaker explained why median filtering is considered simple and effective for noise reduction."
+    },
+    {
+        "instruction": "How does a median filter compare to deep neural networks for noise reduction?",
+        "response": "A median filter is simpler and less resource-intensive compared to using deep neural networks for noise reduction in images.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 117,
+        "context": "The speaker discussed the differences between median filtering and deep neural networks for noise reduction."
+    }
 
 ]
