@@ -4478,7 +4478,7 @@
         "week": 3,
         "page": 25,
         "context": "The transcript highlights the advantage of using weights for nearby pixels as the improved ability to capture variations and nuances in the data."
-    }
+    },
     {
         "instruction": "What does the speaker emphasize about defining different weights for each point?",
         "response": "The speaker emphasizes the concept of defining distinct weights for individual points, suggesting that this approach may lead to varying outcomes.",
@@ -11639,6 +11639,1478 @@
         "page": 66,
         "context": "The transcript advises having higher values in the center and lower values towards the edges in the proposed solution to address the artifact issue."
     },
-
+    {
+        "instruction": "What happens when equal weights are assigned to all pixels?",
+        "response": "Assigning equal weights to all pixels results in the production of a block of artifacts resembling a sphere.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 66,
+        "context": "The transcript mentions that when equal weights are given to all pixels, a block of artifacts similar to a sphere is produced."
+    },
+    {
+        "instruction": "What are the outcomes of using 11 by 11 squares with beautiful weights?",
+        "response": "Using 11 by 11 squares with beautiful weights leads to the creation of harder boundaries for the artifacts.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 66,
+        "context": "According to the transcript, employing 11 by 11 squares with beautiful weights results in the formation of tougher boundaries for the artifacts."
+    },
+    {
+        "instruction": "What is suggested as a solution to address the artifact issue?",
+        "response": "The proposed solution is to aim for a result resembling a spot, with higher values in the center and lower values towards the edge.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 66,
+        "context": "The transcript recommends striving for an outcome similar to a spot, with elevated values in the center and diminished values at the edges, to resolve the artifact problem."
+    },
+    {
+        "instruction": "What advice is given regarding the proposed solution?",
+        "response": "The advice provided is to ensure higher values in the center and lower values towards the edges when implementing the proposed solution.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 66,
+        "context": "It is advised to maintain higher values in the center and lower values at the edges when adopting the proposed solution."
+    },
+    {
+        "instruction": "What is the outcome of assigning equal weights to all pixels?",
+        "response": "Assigning equal weights to all pixels results in the creation of a spherical block of artifacts.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 66,
+        "context": "The transcript indicates that assigning equal weights to all pixels produces a spherical block of artifacts."
+    },
+    {
+        "instruction": "What happens when 11 by 11 squares with beautiful weights are used?",
+        "response": "When 11 by 11 squares with beautiful weights are used, the result includes tougher boundaries for the artifacts.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 66,
+        "context": "Using 11 by 11 squares with beautiful weights leads to the creation of tougher boundaries for the artifacts, as mentioned in the transcript."
+    },
+    {
+        "instruction": "What is suggested as a solution to address the artifact issue?",
+        "response": "The proposed solution involves aiming for a spot-like outcome with higher values in the center and lower values at the edges.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 66,
+        "context": "To resolve the artifact issue, the transcript recommends striving for a spot-like outcome with higher values in the center and lower values at the edges."
+    },
+    {
+        "instruction": "What is recommended when implementing the proposed solution?",
+        "response": "It is recommended to maintain higher values in the center and lower values at the edges when implementing the proposed solution.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 66,
+        "context": "When adopting the proposed solution, it is advised to ensure higher values in the center and lower values at the edges."
+    },
+    {
+        "instruction": "What outcome is observed when equal weights are assigned to all pixels?",
+        "response": "Assigning equal weights to all pixels leads to the generation of a spherical block of artifacts.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 66,
+        "context": "The outcome of assigning equal weights to all pixels is the production of a spherical block of artifacts."
+    },
+    {
+        "instruction": "What effect is seen when 11 by 11 squares with beautiful weights are employed?",
+        "response": "Using 11 by 11 squares with beautiful weights results in the creation of sharper boundaries for the artifacts.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 66,
+        "context": "Employing 11 by 11 squares with beautiful weights leads to the formation of sharper boundaries for the artifacts."
+    },
+    {
+        "instruction": "What solution is proposed to tackle the artifact issue?",
+        "response": "The proposed solution involves aiming for a spot-like appearance, with higher values concentrated in the center and lower values towards the edges.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 66,
+        "context": "To address the artifact issue, the transcript suggests striving for a spot-like appearance, with higher values centered and lower values at the edges."
+    },
+    {
+        "instruction": "What recommendation is provided for implementing the proposed solution?",
+        "response": "It is recommended to ensure higher values in the center and lower values at the edges when implementing the proposed solution.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 66,
+        "context": "When implementing the proposed solution, it is advised to maintain higher values in the center and lower values at the edges."
+    },
+    {
+        "instruction": "What outcome occurs when equal weights are given to all pixels?",
+        "response": "Assigning equal weights to all pixels results in the creation of a spherical block of artifacts.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 66,
+        "context": "When equal weights are assigned to all pixels, the outcome is the formation of a spherical block of artifacts."
+    },
+    {
+        "instruction": "What effect is observed when using 11 by 11 squares with beautiful weights?",
+        "response": "Using 11 by 11 squares with beautiful weights generates sharper boundaries for the artifacts.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 66,
+        "context": "The use of 11 by 11 squares with beautiful weights leads to the creation of sharper boundaries for the artifacts."
+    },
+    {
+        "instruction": "What occurs when equal weights are assigned to all pixels?",
+        "response": "Assigning equal weights to all pixels results in the creation of a spherical block of artifacts.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 66,
+        "context": "When equal weights are assigned to all pixels, the outcome is the formation of a spherical block of artifacts."
+    },
+    {
+        "instruction": "What happens when 11 by 11 squares with beautiful weights are used?",
+        "response": "Using 11 by 11 squares with beautiful weights leads to the creation of harder boundaries for the artifacts.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 66,
+        "context": "When 11 by 11 squares with beautiful weights are utilized, harder boundaries for the artifacts are produced."
+    },
+    {
+        "instruction": "What solution is proposed to address the artifact issue?",
+        "response": "The proposed solution involves aiming for a spot-like pattern, with higher values concentrated in the center and lower values towards the edges.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 66,
+        "context": "To resolve the artifact issue, the transcript suggests aiming for a spot-like pattern, with higher values in the center and lower values at the edges."
+    },
+    {
+        "instruction": "What is recommended to achieve the proposed solution?",
+        "response": "To achieve the proposed solution, it is recommended to have higher values in the center and lower values at the edges.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 66,
+        "context": "To implement the proposed solution effectively, it is recommended to ensure higher values in the center and lower values at the edges."
+    },
+    {
+        "instruction": "What is the outcome of assigning equal weights to all pixels?",
+        "response": "Assigning equal weights to all pixels results in the generation of a spherical block of artifacts.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 66,
+        "context": "Assigning equal weights to all pixels leads to the creation of a spherical block of artifacts."
+    },
+    {
+        "instruction": "What effect is observed when using 11 by 11 squares with beautiful weights?",
+        "response": "The use of 11 by 11 squares with beautiful weights results in the production of harder boundaries for the artifacts.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 66,
+        "context": "Employing 11 by 11 squares with beautiful weights generates harder boundaries for the artifacts."
+    },
+    {
+        "instruction": "What solution is suggested to mitigate the artifact issue?",
+        "response": "The suggested solution involves striving for a spot-like pattern, with higher values concentrated in the center and lower values towards the edges.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 66,
+        "context": "To address the artifact issue, the transcript recommends aiming for a spot-like pattern, with higher values in the center and lower values at the edges."
+    },
+    {
+        "instruction": "How should the proposed solution be implemented?",
+        "response": "The proposed solution should be implemented by ensuring higher values in the center and lower values at the edges.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 66,
+        "context": "To effectively implement the proposed solution, higher values should be maintained in the center and lower values at the edges."
+    },
+    {
+        "instruction": "What is the outcome when equal weights are given to all pixels?",
+        "response": "Assigning equal weights to all pixels leads to the creation of a spherical block of artifacts.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 66,
+        "context": "The outcome of assigning equal weights to all pixels is the generation of a spherical block of artifacts."
+    },
+    {
+        "instruction": "What occurs when employing 11 by 11 squares with beautiful weights?",
+        "response": "Employing 11 by 11 squares with beautiful weights results in the creation of harder boundaries for the artifacts.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 66,
+        "context": "Using 11 by 11 squares with beautiful weights leads to the production of harder boundaries for the artifacts."
+    },
+    {
+        "instruction": "What is the starting point described in the transcript?",
+        "response": "The starting point described in the transcript is the center of the image.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 67,
+        "context": "According to the transcript, the starting point is the center of the image."
+    },
+    {
+        "instruction": "What is emphasized about the center of the image?",
+        "response": "The transcript emphasizes the significance of starting from the center of the image.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript highlights the importance of starting from the center of the image."
+    },
+    {
+        "instruction": "What is the focus of the discussion regarding blurring technique?",
+        "response": "The discussion focuses on the effects of blurring technique, resembling those of real images through the transverse screen.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 67,
+        "context": "The discussion revolves around the effects of blurring technique, which resemble those of real images through the transverse screen."
+    },
+    {
+        "instruction": "What technique is discussed in relation to blurring?",
+        "response": "The transcript discusses a blurring technique resembling real images through the transverse screen.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 67,
+        "context": "In relation to blurring, the transcript discusses a technique resembling real images through the transverse screen."
+    },
+    {
+        "instruction": "What is the starting point according to the transcript?",
+        "response": "According to the transcript, the starting point is the center of the image.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript states that the starting point is the center of the image."
+    },
+    {
+        "instruction": "What aspect of the image is highlighted?",
+        "response": "The significance of the center of the image is highlighted in the transcript.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript emphasizes the significance of the center of the image."
+    },
+    {
+        "instruction": "What is discussed about the blurring technique in the transcript?",
+        "response": "The transcript discusses the effects of a blurring technique resembling real images through the transverse screen.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript discusses the effects of a blurring technique resembling real images through the transverse screen."
+    },
+    {
+        "instruction": "What is mentioned regarding the starting point?",
+        "response": "The starting point mentioned in the transcript is the center of the image.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 67,
+        "context": "According to the transcript, the starting point is the center of the image."
+    },
+    {
+        "instruction": "What does the transcript emphasize about the center of the image?",
+        "response": "The transcript emphasizes the importance of starting from the center of the image.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript highlights the importance of starting from the center of the image."
+    },
+    {
+        "instruction": "What is the primary focus of the discussion regarding blurring technique?",
+        "response": "The primary focus of the discussion regarding blurring technique is on its effects resembling those of real images through the transverse screen.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 67,
+        "context": "The primary focus of the discussion regarding blurring technique is on its effects resembling those of real images through the transverse screen."
+    },
+    {
+        "instruction": "What is the starting point described in the transcript?",
+        "response": "The starting point described in the transcript is the center of the image.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 67,
+        "context": "According to the transcript, the starting point is the center of the image."
+    },
+    {
+        "instruction": "What is emphasized about the center of the image?",
+        "response": "The transcript emphasizes the significance of starting from the center of the image.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript highlights the importance of starting from the center of the image."
+    },
+    {
+        "instruction": "What is the focus of the discussion regarding blurring technique?",
+        "response": "The discussion focuses on the effects of blurring technique resembling those of real images through the transverse screen.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 67,
+        "context": "The discussion revolves around the effects of blurring technique, resembling those of real images through the transverse screen."
+    },
+    {
+        "instruction": "What technique is discussed in relation to blurring?",
+        "response": "The transcript discusses a blurring technique resembling real images through the transverse screen.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 67,
+        "context": "In relation to blurring, the transcript discusses a technique resembling real images through the transverse screen."
+    },
+    {
+        "instruction": "What is the starting point according to the transcript?",
+        "response": "According to the transcript, the starting point is the center of the image.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript states that the starting point is the center of the image."
+    },
+    {
+        "instruction": "What aspect of the image is highlighted?",
+        "response": "The significance of the center of the image is highlighted in the transcript.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript emphasizes the significance of the center of the image."
+    },
+    {
+        "instruction": "What is discussed about the blurring technique in the transcript?",
+        "response": "The transcript discusses the effects of a blurring technique resembling real images through the transverse screen.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript discusses the effects of a blurring technique resembling real images through the transverse screen."
+    },
+    {
+        "instruction": "What is mentioned regarding the starting point?",
+        "response": "The starting point mentioned in the transcript is the center of the image.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 67,
+        "context": "According to the transcript, the starting point is the center of the image."
+    },
+    {
+        "instruction": "What does the transcript emphasize about the center of the image?",
+        "response": "The transcript emphasizes the importance of starting from the center of the image.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript highlights the importance of starting from the center of the image."
+    },
+    {
+        "instruction": "What is the primary focus of the discussion regarding blurring technique?",
+        "response": "The primary focus of the discussion regarding blurring technique is on its effects resembling those of real images through the transverse screen.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 67,
+        "context": "The primary focus of the discussion regarding blurring technique is on its effects resembling those of real images through the transverse screen."
+    },
+    {
+        "instruction": "What is discussed about the starting point?",
+        "response": "The transcript discusses starting from the center of the image.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript discusses starting from the center of the image."
+    },
+    {
+        "instruction": "What is mentioned regarding the starting point in the transcript?",
+        "response": "The transcript mentions starting from the center of the image.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 67,
+        "context": "In the transcript, starting from the center of the image is mentioned."
+    },
+    {
+        "instruction": "What is the recommendation provided in the transcript?",
+        "response": "The transcript recommends having higher values in the center and lower values at the edge.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript recommends having higher values in the center and lower values at the edge."
+    },
+    {
+        "instruction": "What aspect of the image is discussed in the transcript?",
+        "response": "The transcript discusses the starting point of the image.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript discusses the starting point of the image."
+    },
+    {
+        "instruction": "What is the focus of the discussion regarding blurring technique?",
+        "response": "The discussion focuses on the effects of blurring technique resembling real images through the transverse screen.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 67,
+        "context": "The discussion focuses on the effects of blurring technique resembling real images through the transverse screen."
+    },
+    {
+        "instruction": "What is recommended regarding values in the transcript?",
+        "response": "The transcript recommends having higher values in the center and lower values at the edge.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript recommends having higher values in the center and lower values at the edge."
+    },
+    {
+        "instruction": "What does the transcript suggest about the starting point?",
+        "response": "The transcript suggests starting from the center of the image.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript suggests starting from the center of the image."
+    },
+    {
+        "instruction": "What does the transcript suggest about values?",
+        "response": "The transcript suggests having higher values in the center and lower values at the edge.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript suggests having higher values in the center and lower values at the edge."
+    },
+    {
+        "instruction": "What recommendation is provided in the transcript?",
+        "response": "The transcript recommends adjusting values with higher values in the center and lower values at the edge.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript recommends adjusting values with higher values in the center and lower values at the edge."
+    },
+    {
+        "instruction": "What is emphasized about the starting point in the transcript?",
+        "response": "The transcript emphasizes starting from the center of the image.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript emphasizes starting from the center of the image."
+    },
+    {
+        "instruction": "What is discussed in the transcript regarding the starting point?",
+        "response": "The transcript discusses starting with the center of the image.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript discusses starting with the center of the image."
+    },
+    {
+        "instruction": "What is mentioned about the starting point in the transcript?",
+        "response": "The transcript mentions starting with the center of the image.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 67,
+        "context": "In the transcript, starting with the center of the image is mentioned."
+    },
+    {
+        "instruction": "What is the recommendation provided regarding the starting point?",
+        "response": "The transcript recommends starting with the center of the image.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript recommends starting with the center of the image."
+    },
+    {
+        "instruction": "What aspect of the image is discussed in the transcript?",
+        "response": "The transcript discusses starting with the center of the image.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript discusses starting with the center of the image."
+    },
+    {
+        "instruction": "What is the focus of the discussion regarding blurring technique?",
+        "response": "The discussion focuses on the effects of blurring technique resembling real images through the transverse screen.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 67,
+        "context": "The discussion focuses on the effects of blurring technique resembling real images through the transverse screen."
+    },
+    {
+        "instruction": "What is recommended regarding the starting point in the transcript?",
+        "response": "The transcript recommends starting with the center of the image.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript recommends starting with the center of the image."
+    },
+    {
+        "instruction": "What does the transcript suggest about the starting point?",
+        "response": "The transcript suggests starting with the center of the image.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript suggests starting with the center of the image."
+    },
+    {
+        "instruction": "What does the transcript suggest about blurring technique?",
+        "response": "The transcript suggests that the blurring technique resembles real images through the transverse screen.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript suggests that the blurring technique resembles real images through the transverse screen."
+    },
+    {
+        "instruction": "What recommendation is provided regarding values in the transcript?",
+        "response": "The transcript recommends starting with higher values in the center and lower values at the edge.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript recommends starting with higher values in the center and lower values at the edge."
+    },
+    {
+        "instruction": "What is emphasized about the starting point in the transcript?",
+        "response": "The transcript emphasizes starting with the center of the image.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript emphasizes starting with the center of the image."
+    },
+    {
+        "instruction": "What is highlighted regarding the starting point in the transcript?",
+        "response": "The transcript highlights starting with the center of the image.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript highlights starting with the center of the image."
+    },
+    {
+        "instruction": "What is mentioned about the beginning in the transcript?",
+        "response": "The transcript repeatedly mentions the beginning as starting with the center of the image.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript repeatedly mentions the beginning as starting with the center of the image."
+    },
+    {
+        "instruction": "What does the transcript suggest about partial filters?",
+        "response": "The transcript suggests discussing another type of partial filters.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript suggests discussing another type of partial filters."
+    },
+    {
+        "instruction": "What effect of the blurring technique is discussed in the transcript?",
+        "response": "The transcript discusses the blurring technique resembling real images through the transverse screen.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript discusses the blurring technique resembling real images through the transverse screen."
+    },
+    {
+        "instruction": "What aspect of the blurring technique is compared to blur in the transcript?",
+        "response": "The transcript compares the value effects of the blurring technique to blur.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript compares the value effects of the blurring technique to blur."
+    },
+    {
+        "instruction": "What recommendation is provided regarding values in the transcript?",
+        "response": "The transcript recommends having higher values in the center and lower values at the edge.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript recommends having higher values in the center and lower values at the edge."
+    },
+    {
+        "instruction": "What is discussed in relation to the image example in the transcript?",
+        "response": "The transcript discusses similarities between the example image and the user's picture.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript discusses similarities between the example image and the user's picture."
+    },
+    {
+        "instruction": "What is mentioned about the choice of starting point in the transcript?",
+        "response": "The transcript mentions choosing the center of the image as the starting point.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript mentions choosing the center of the image as the starting point."
+    },
+    {
+        "instruction": "What is recommended regarding the starting point in the transcript?",
+        "response": "The transcript recommends starting with the center of the image.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript recommends starting with the center of the image."
+    },
+    {
+        "instruction": "What type of filters does the transcript suggest looking at?",
+        "response": "The transcript suggests looking at another type of partial filters.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript suggests looking at another type of partial filters."
+    },
+    {
+        "instruction": "What is emphasized regarding the image example in the transcript?",
+        "response": "The transcript emphasizes the similarity between the example image and the user's picture.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript emphasizes the similarity between the example image and the user's picture."
+    },
+    {
+        "instruction": "What does the transcript suggest about starting with the center?",
+        "response": "The transcript suggests starting with the center of the image.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript suggests starting with the center of the image."
+    },
+    {
+        "instruction": "What is mentioned about the beginning point in the transcript?",
+        "response": "The transcript mentions starting with the center of the image as the beginning point.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript mentions starting with the center of the image as the beginning point."
+    },
+    {
+        "instruction": "What recommendation is provided regarding values in the transcript?",
+        "response": "The transcript recommends having higher values at the center and lower values at the edge of the image.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript recommends having higher values at the center and lower values at the edge of the image."
+    },
+    {
+        "instruction": "What is discussed about partial filters in the transcript?",
+        "response": "The transcript discusses another type of partial filters.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript discusses another type of partial filters."
+    },
+    {
+        "instruction": "What aspect of the blurring technique is compared to real images in the transcript?",
+        "response": "The transcript compares the blurring technique's effects to those of real images.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript compares the blurring technique's effects to those of real images."
+    },
+    {
+        "instruction": "What is discussed regarding the value effects of the blurring technique in the transcript?",
+        "response": "The transcript discusses the value effects resembling those of blur.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript discusses the value effects resembling those of blur."
+    },
+    {
+        "instruction": "What does the transcript suggest about the choice of starting point?",
+        "response": "The transcript suggests choosing the center of the image as the starting point.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript suggests choosing the center of the image as the starting point."
+    },
+    {
+        "instruction": "What is mentioned about the starting point in the transcript?",
+        "response": "The transcript mentions the choice of the center of the image as the starting point.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript mentions the choice of the center of the image as the starting point."
+    },
+    {
+        "instruction": "What does the transcript recommend regarding the value distribution?",
+        "response": "The transcript recommends having higher values at the center and lower values at the edge of the image.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 67,
+        "context": "The transcript recommends having higher values at the center and lower values at the edge of the image."
+    },
+    {
+        "instruction": "What is discussed regarding the gaussian composite in the transcript?",
+        "response": "The transcript discusses the use of gaussian composite as proof of the stress stage in the visual algorithm.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript discusses the use of gaussian composite as proof of the stress stage in the visual algorithm."
+    },
+    {
+        "instruction": "What is mentioned about the human in the transcript?",
+        "response": "The transcript mentions a sphere that can form similar to the question piece for humans.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript mentions a sphere that can form similar to the question piece for humans."
+    },
+    {
+        "instruction": "What is highlighted about the number of pixels in the transcript?",
+        "response": "The transcript highlights the importance of the nearest number of pixels for the gaussian period to occur.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript highlights the importance of the nearest number of pixels for the gaussian period to occur."
+    },
+    {
+        "instruction": "What is discussed regarding the importance of the center in the transcript?",
+        "response": "The transcript discusses the importance of the center over the edge.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript discusses the importance of the center over the edge."
+    },
+    {
+        "instruction": "What approximation is mentioned in the transcript?",
+        "response": "The transcript mentions an approximation of gaussian functions.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript mentions an approximation of gaussian functions."
+    },
+    {
+        "instruction": "What is discussed about the weight system in the transcript?",
+        "response": "The transcript discusses a weight system either focused up to the edge or distributed by stream.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript discusses a weight system either focused up to the edge or distributed by stream."
+    },
+    {
+        "instruction": "What concept is mentioned in relation to the notion function in the transcript?",
+        "response": "The transcript mentions the notion function.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript mentions the notion function."
+    },
+    {
+        "instruction": "How is the transcript concluded?",
+        "response": "The transcript concludes with a mention of the notion function.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript concludes with a mention of the notion function."
+    },
+    {
+        "instruction": "What is emphasized about the center and the edge in the transcript?",
+        "response": "The transcript emphasizes the importance of the center over the edge.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript emphasizes the importance of the center over the edge."
+    },
+    {
+        "instruction": "What is the main focus of the transcript regarding the gaussian composite?",
+        "response": "The transcript focuses on the use of gaussian composite as proof of the stress stage in the visual algorithm.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript focuses on the use of gaussian composite as proof of the stress stage in the visual algorithm."
+    },
+    {
+        "instruction": "What is discussed in the transcript regarding the gaussian composite?",
+        "response": "The transcript discusses the use of gaussian composite as proof of the stress stage in the visual algorithm.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript discusses the use of gaussian composite as proof of the stress stage in the visual algorithm."
+    },
+    {
+        "instruction": "What analogy is made for humans in the transcript?",
+        "response": "The transcript mentions a sphere that can form similarly to the question piece for humans.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript mentions a sphere that can form similarly to the question piece for humans."
+    },
+    {
+        "instruction": "What is highlighted regarding the nearest number of pixels in the transcript?",
+        "response": "The transcript highlights that the nearest number of pixels also has a post difference for the gaussian period to occur.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript highlights that the nearest number of pixels also has a post difference for the gaussian period to occur."
+    },
+    {
+        "instruction": "What is emphasized about the importance of the center in the transcript?",
+        "response": "The transcript emphasizes that the center is more important than the edge.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript emphasizes that the center is more important than the edge."
+    },
+    {
+        "instruction": "What function is discussed in relation to gaussian functions in the transcript?",
+        "response": "The transcript discusses the function as either distributed by stream or as a sphere that captures in the center as a whole weight system forced up to the edge.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript discusses the function as either distributed by stream or as a sphere that captures in the center as a whole weight system forced up to the edge."
+    },
+    {
+        "instruction": "What concept is mentioned towards the end of the transcript?",
+        "response": "The transcript mentions the notion function.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript mentions the notion function."
+    },
+    {
+        "instruction": "How is the transcript concluded?",
+        "response": "The transcript concludes with a mention of the notion function.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript concludes with a mention of the notion function."
+    },
+    {
+        "instruction": "What is the main focus of the transcript regarding gaussian functions?",
+        "response": "The main focus of the transcript is on the use of gaussian composite as proof of the stress stage in the visual algorithm.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The main focus of the transcript is on the use of gaussian composite as proof of the stress stage in the visual algorithm."
+    },
+    {
+        "instruction": "What is the function of the gaussian composite discussed in the transcript?",
+        "response": "The transcript discusses the function of the gaussian composite as proof of the stress stage in the visual algorithm.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript discusses the function of the gaussian composite as proof of the stress stage in the visual algorithm."
+    },
+    {
+        "instruction": "What type of weights system is described in the transcript?",
+        "response": "The transcript describes a weight system either distributed by stream or as a sphere that captures in the center as a whole weight system forced up to the edge.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript describes a weight system either distributed by stream or as a sphere that captures in the center as a whole weight system forced up to the edge."
+    },
+    {
+        "instruction": "What is the purpose of using gaussian composite according to the transcript?",
+        "response": "According to the transcript, gaussian composite is used as proof of the stress stage in the visual algorithm.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 70,
+        "context": "According to the transcript, gaussian composite is used as proof of the stress stage in the visual algorithm."
+    },
+    {
+        "instruction": "What comparison is made regarding the gaussian period in the transcript?",
+        "response": "The transcript compares the gaussian period to occur similarly to the question piece for humans.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript compares the gaussian period to occur similarly to the question piece for humans."
+    },
+    {
+        "instruction": "How are the different scales described in the transcript?",
+        "response": "The transcript describes the different scales as used to see how the gaussian composite works in the visual algorithm.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript describes the different scales as used to see how the gaussian composite works in the visual algorithm."
+    },
+    {
+        "instruction": "What analogy is made regarding the gaussian period in the transcript?",
+        "response": "The transcript mentions a sphere that can form similarly to the question piece for humans.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript mentions a sphere that can form similarly to the question piece for humans."
+    },
+    {
+        "instruction": "What does the transcript emphasize about the importance of the center?",
+        "response": "The transcript emphasizes that the center is more important than the edge in gaussian functions.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript emphasizes that the center is more important than the edge in gaussian functions."
+    },
+    {
+        "instruction": "What concept related to gaussian functions is discussed in the transcript?",
+        "response": "The transcript discusses the concept of gaussian composite as proof of the stress stage in the visual algorithm.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript discusses the concept of gaussian composite as proof of the stress stage in the visual algorithm."
+    },
+    {
+        "instruction": "How are the gaussian functions described in the transcript?",
+        "response": "The transcript describes the gaussian functions as approximations resembling that of real images through the transverse screen.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript describes the gaussian functions as approximations resembling that of real images through the transverse screen."
+    },
+    {
+        "instruction": "What is the significance of the gaussian period discussed in the transcript?",
+        "response": "The transcript highlights that the nearest number of pixels also has a post difference for the gaussian period to occur.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript highlights that the nearest number of pixels also has a post difference for the gaussian period to occur."
+    },
+    {
+        "instruction": "What is the main point regarding the gaussian period discussed in the transcript?",
+        "response": "The main point discussed in the transcript is that the gaussian period has a significant effect on the image.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The main point discussed in the transcript is that the gaussian period has a significant effect on the image."
+    },
+    {
+        "instruction": "How is the gaussian period characterized in the transcript?",
+        "response": "The transcript characterizes the gaussian period as having a significant impact on the overall appearance of the image.",
+        "category": "open_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript characterizes the gaussian period as having a significant impact on the overall appearance of the image."
+    },
+    {
+        "instruction": "What is the purpose of using gaussian composite according to the transcript?",
+        "response": "According to the transcript, gaussian composite is used as proof of the stress stage in the visual algorithm.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 70,
+        "context": "According to the transcript, gaussian composite is used as proof of the stress stage in the visual algorithm."
+    },
+    {
+        "instruction": "What comparison is made regarding the gaussian period in the transcript?",
+        "response": "The transcript compares the gaussian period to occur similarly to the question piece for humans.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript compares the gaussian period to occur similarly to the question piece for humans."
+    },
+    {
+        "instruction": "How are the different scales described in the transcript?",
+        "response": "The transcript describes the different scales as used to see how the gaussian composite works in the visual algorithm.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript describes the different scales as used to see how the gaussian composite works in the visual algorithm."
+    },
+    {
+        "instruction": "What analogy is made regarding the gaussian period in the transcript?",
+        "response": "The transcript mentions a sphere that can form similarly to the question piece for humans.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript mentions a sphere that can form similarly to the question piece for humans."
+    },
+    {
+        "instruction": "What does the transcript emphasize about the importance of the center?",
+        "response": "The transcript emphasizes that the center is more important than the edge in gaussian functions.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript emphasizes that the center is more important than the edge in gaussian functions."
+    },
+    {
+        "instruction": "What concept related to gaussian functions is discussed in the transcript?",
+        "response": "The transcript discusses the concept of gaussian composite as proof of the stress stage in the visual algorithm.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript discusses the concept of gaussian composite as proof of the stress stage in the visual algorithm."
+    },
+    {
+        "instruction": "How are the gaussian functions described in the transcript?",
+        "response": "The transcript describes the gaussian functions as approximations resembling that of real images through the transverse screen.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript describes the gaussian functions as approximations resembling that of real images through the transverse screen."
+    },
+    {
+        "instruction": "What is the significance of the gaussian period discussed in the transcript?",
+        "response": "The transcript highlights that the nearest number of pixels also has a post difference for the gaussian period to occur.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript highlights that the nearest number of pixels also has a post difference for the gaussian period to occur."
+    },
+    {
+        "instruction": "What is the main point regarding the gaussian period discussed in the transcript?",
+        "response": "The main point discussed in the transcript is that the gaussian period has a significant effect on the image.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The main point discussed in the transcript is that the gaussian period has a significant effect on the image."
+    },
+    {
+        "instruction": "How is the gaussian period characterized in the transcript?",
+        "response": "The transcript characterizes the gaussian period as having a significant impact on the overall appearance of the image.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript characterizes the gaussian period as having a significant impact on the overall appearance of the image."
+    },
+    {
+        "instruction": "What example is provided in the transcript regarding the gaussian composite?",
+        "response": "The transcript provides an example of using gaussian composite as proof of the stress stage in the visual algorithm.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript provides an example of using gaussian composite as proof of the stress stage in the visual algorithm."
+    },
+    {
+        "instruction": "How are the different components of the gaussian composite described in the transcript?",
+        "response": "The transcript describes the gaussian composite as composed of different scales to understand its functioning.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript describes the gaussian composite as composed of different scales to understand its functioning."
+    },
+    {
+        "instruction": "What comparison is made regarding the gaussian period in the transcript?",
+        "response": "The transcript compares the gaussian period to occur similarly to the question piece for humans.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript compares the gaussian period to occur similarly to the question piece for humans."
+    },
+    {
+        "instruction": "What concept is discussed in relation to the gaussian period in the transcript?",
+        "response": "The transcript discusses the concept of gaussian period and its importance in image processing.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript discusses the concept of gaussian period and its importance in image processing."
+    },
+    {
+        "instruction": "What is mentioned about the center in relation to gaussian functions?",
+        "response": "The transcript mentions that the center is more important than the edge in gaussian functions.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript mentions that the center is more important than the edge in gaussian functions."
+    },
+    {
+        "instruction": "What analogy is made regarding the gaussian period in the transcript?",
+        "response": "The transcript mentions a sphere that can form similarly to the question piece for humans.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript mentions a sphere that can form similarly to the question piece for humans."
+    },
+    {
+        "instruction": "How does the transcript describe the effect of gaussian period on the image?",
+        "response": "The transcript describes the gaussian period as having a significant impact on the overall appearance of the image.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript describes the gaussian period as having a significant impact on the overall appearance of the image."
+    },
+    {
+        "instruction": "What is highlighted regarding the gaussian functions in the transcript?",
+        "response": "The transcript highlights that gaussian functions resemble real images through the transverse screen.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript highlights that gaussian functions resemble real images through the transverse screen."
+    },
+    {
+        "instruction": "What is the significance of the gaussian composite discussed in the transcript?",
+        "response": "The transcript discusses the significance of using gaussian composite as proof of the stress stage in the visual algorithm.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript discusses the significance of using gaussian composite as proof of the stress stage in the visual algorithm."
+    },
+    {
+        "instruction": "What is the main focus of the transcript regarding the gaussian composite?",
+        "response": "The main focus of the transcript is to understand how the gaussian composite works in the visual algorithm.",
+        "category": "closed_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The main focus of the transcript is to understand how the gaussian composite works in the visual algorithm."
+    },
+    {
+        "instruction": "What concept is discussed regarding the gaussian composite in the transcript?",
+        "response": "The transcript discusses the gaussian composite as a proof of the stress stage in the visual algorithm.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript discusses the gaussian composite as a proof of the stress stage in the visual algorithm."
+    },
+    {
+        "instruction": "How are the different scales described in the context of the gaussian composite?",
+        "response": "The transcript describes how the different scales work within the gaussian composite.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript describes how the different scales work within the gaussian composite."
+    },
+    {
+        "instruction": "What analogy is made regarding the sphere in the transcript?",
+        "response": "The transcript makes an analogy of the sphere to the question piece for humans.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript makes an analogy of the sphere to the question piece for humans."
+    },
+    {
+        "instruction": "How does the transcript describe the importance of the center and the edge?",
+        "response": "The transcript describes the center as more important than the edge in the context of the gaussian composite.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript describes the center as more important than the edge in the context of the gaussian composite."
+    },
+    {
+        "instruction": "What is mentioned about the gaussian period in the transcript?",
+        "response": "The transcript mentions that the gaussian period occurs when the nearest number of pixels have the post difference.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript mentions that the gaussian period occurs when the nearest number of pixels have the post difference."
+    },
+    {
+        "instruction": "How is the function of gaussian functions described in the transcript?",
+        "response": "The transcript describes the function of gaussian functions as either distributed by stream or captured in a sphere.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript describes the function of gaussian functions as either distributed by stream or captured in a sphere."
+    },
+    {
+        "instruction": "What is the focus of the transcript regarding gaussian functions?",
+        "response": "The focus of the transcript is to discuss the approximation of gaussian functions.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The focus of the transcript is to discuss the approximation of gaussian functions."
+    },
+    {
+        "instruction": "What is the significance of the gaussian composite mentioned in the transcript?",
+        "response": "The transcript mentions the significance of using gaussian composite in understanding the visual algorithm.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript mentions the significance of using gaussian composite in understanding the visual algorithm."
+    },
+    {
+        "instruction": "How does the transcript conclude?",
+        "response": "The transcript concludes by mentioning the notion function.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript concludes by mentioning the notion function."
+    },
+    {
+        "instruction": "What aspect of the gaussian functions is discussed in the transcript?",
+        "response": "The transcript discusses the approximation of gaussian functions.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript discusses the approximation of gaussian functions."
+    },
+    {
+        "instruction": "What is the purpose of using the gaussian composite in the visual algorithm?",
+        "response": "The purpose of using the gaussian composite in the visual algorithm is to understand how different scales work.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The purpose of using the gaussian composite in the visual algorithm is to understand how different scales work."
+    },
+    {
+        "instruction": "How does the transcript describe the gaussian period?",
+        "response": "The transcript describes the gaussian period as occurring when the nearest number of pixels have the post difference.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript describes the gaussian period as occurring when the nearest number of pixels have the post difference."
+    },
+    {
+        "instruction": "What analogy is drawn between the sphere and human perception?",
+        "response": "The transcript draws an analogy between the sphere and human perception by likening the sphere to the question piece.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript draws an analogy between the sphere and human perception by likening the sphere to the question piece."
+    },
+    {
+        "instruction": "How is the importance of the center and the edge described in the transcript?",
+        "response": "The transcript describes the center as more important than the edge in the context of the gaussian composite.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript describes the center as more important than the edge in the context of the gaussian composite."
+    },
+    {
+        "instruction": "What is mentioned about the function of gaussian functions?",
+        "response": "The transcript mentions that gaussian functions are either distributed by stream or captured in a sphere.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript mentions that gaussian functions are either distributed by stream or captured in a sphere."
+    },
+    {
+        "instruction": "What concept is discussed regarding the notion function in the transcript?",
+        "response": "The transcript discusses the notion function in the context of gaussian functions.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript discusses the notion function in the context of gaussian functions."
+    },
+    {
+        "instruction": "How does the transcript describe the effect of blurring technique?",
+        "response": "The transcript describes the blurring technique as resembling the effect of blur on real images through the transverse screen.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript describes the blurring technique as resembling the effect of blur on real images through the transverse screen."
+    },
+    {
+        "instruction": "What is the focus of the transcript regarding the gaussian composite?",
+        "response": "The focus of the transcript is to demonstrate the gaussian composite's role in the visual algorithm.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The focus of the transcript is to demonstrate the gaussian composite's role in the visual algorithm."
+    },
+    {
+        "instruction": "How does the transcript conclude the discussion?",
+        "response": "The transcript concludes by mentioning the notion function in the context of gaussian functions.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript concludes by mentioning the notion function in the context of gaussian functions."
+    },
+    {
+        "instruction": "What aspect of gaussian functions is mentioned in the transcript's conclusion?",
+        "response": "The transcript mentions the notion function in relation to gaussian functions in its conclusion.",
+        "category": "general_qa",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript mentions the notion function in relation to gaussian functions in its conclusion."
+    },
+    {
+        "instruction": "How is the gaussian composite described in the transcript?",
+        "response": "The gaussian composite is described as a proof of the stress stage in the visual algorithm.",
+        "category": "brainstorming",
+        "week": 3,
+        "page": 70,
+        "context": "The gaussian composite is described as a proof of the stress stage in the visual algorithm."
+    },
+    {
+        "instruction": "What analogy is drawn between humans and the gaussian composite?",
+        "response": "An analogy is drawn between humans and the gaussian composite, likening them to a sphere forming similar to a question piece.",
+        "category": "brainstorming",
+        "week": 3,
+        "page": 70,
+        "context": "An analogy is drawn between humans and the gaussian composite, likening them to a sphere forming similar to a question piece."
+    },
+    {
+        "instruction": "How are the different scales described in the transcript?",
+        "response": "The different scales are described as being explored through the gaussian composite in the visual algorithm.",
+        "category": "brainstorming",
+        "week": 3,
+        "page": 70,
+        "context": "The different scales are described as being explored through the gaussian composite in the visual algorithm."
+    },
+    {
+        "instruction": "What is emphasized regarding the importance of the center and the edge?",
+        "response": "The transcript emphasizes that the center is more important than the edge.",
+        "category": "brainstorming",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript emphasizes that the center is more important than the edge."
+    },
+    {
+        "instruction": "How is the notion function introduced in the transcript?",
+        "response": "The notion function is introduced in the context of gaussian functions and their approximation.",
+        "category": "brainstorming",
+        "week": 3,
+        "page": 70,
+        "context": "The notion function is introduced in the context of gaussian functions and their approximation."
+    },
+    {
+        "instruction": "What role does the gaussian composite play in the visual algorithm according to the transcript?",
+        "response": "According to the transcript, the gaussian composite serves as proof of the stress stage in the visual algorithm.",
+        "category": "brainstorming",
+        "week": 3,
+        "page": 70,
+        "context": "According to the transcript, the gaussian composite serves as proof of the stress stage in the visual algorithm."
+    },
+    {
+        "instruction": "How is the distribution of gaussian functions described in the transcript?",
+        "response": "The distribution of gaussian functions is described as either being distributed by stream or captured in a sphere.",
+        "category": "brainstorming",
+        "week": 3,
+        "page": 70,
+        "context": "The distribution of gaussian functions is described as either being distributed by stream or captured in a sphere."
+    },
+    {
+        "instruction": "What is mentioned about the gaussian period in the transcript?",
+        "response": "The transcript mentions that the gaussian period occurs when the nearest number of pixels have the post difference.",
+        "category": "brainstorming",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript mentions that the gaussian period occurs when the nearest number of pixels have the post difference."
+    },
+    {
+        "instruction": "How does the transcript conclude the discussion?",
+        "response": "The transcript concludes by mentioning the notion function in the context of gaussian functions.",
+        "category": "brainstorming",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript concludes by mentioning the notion function in the context of gaussian functions."
+    },
+    {
+        "instruction": "What is highlighted regarding the approximation of gaussian functions?",
+        "response": "The transcript highlights that gaussian functions are approximated through distribution or capturing in a sphere.",
+        "category": "brainstorming",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript highlights that gaussian functions are approximated through distribution or capturing in a sphere."
+    },
+    {
+        "instruction": "What is the role of the gaussian composite in the visual algorithm, as described in the transcript?",
+        "response": "The gaussian composite is used as proof of the stress stage in the visual algorithm to examine how different scales operate.",
+        "category": "brainstorming",
+        "week": 3,
+        "page": 70,
+        "context": "The gaussian composite is used as proof of the stress stage in the visual algorithm to examine how different scales operate."
+    },
+    {
+        "instruction": "How does the transcript describe the gaussian function's approximation?",
+        "response": "The transcript describes the approximation of gaussian functions through either distribution or capturing them in a sphere.",
+        "category": "brainstorming",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript describes the approximation of gaussian functions through either distribution or capturing them in a sphere."
+    },
+    {
+        "instruction": "What analogy is made regarding the gaussian composite and its relationship to human perception?",
+        "response": "An analogy is made likening the gaussian composite to how humans perceive and interpret visual information.",
+        "category": "brainstorming",
+        "week": 3,
+        "page": 70,
+        "context": "An analogy is made likening the gaussian composite to how humans perceive and interpret visual information."
+    },
+    {
+        "instruction": "What is highlighted about the relationship between the center and the edge in the transcript?",
+        "response": "The transcript highlights that the center is more significant than the edge in the context of gaussian functions.",
+        "category": "brainstorming",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript highlights that the center is more significant than the edge in the context of gaussian functions."
+    },
+    {
+        "instruction": "What does the transcript emphasize about the distribution of gaussian functions?",
+        "response": "The transcript emphasizes that gaussian functions can be distributed by stream or captured in a sphere.",
+        "category": "brainstorming",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript emphasizes that gaussian functions can be distributed by stream or captured in a sphere."
+    },
+    {
+        "instruction": "What is mentioned regarding the gaussian period and its relationship to pixel differences?",
+        "response": "The transcript mentions that the gaussian period occurs based on the differences between nearest pixels.",
+        "category": "brainstorming",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript mentions that the gaussian period occurs based on the differences between nearest pixels."
+    },
+    {
+        "instruction": "How does the transcript describe the gaussian function's impact on image blurring?",
+        "response": "The transcript describes the gaussian function's impact on image blurring, resembling the effects of real images through a transverse screen.",
+        "category": "brainstorming",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript describes the gaussian function's impact on image blurring, resembling the effects of real images through a transverse screen."
+    },
+    {
+        "instruction": "What is the role of the notion function as discussed in the transcript?",
+        "response": "The transcript discusses the notion function in the context of gaussian functions and their approximation.",
+        "category": "brainstorming",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript discusses the notion function in the context of gaussian functions and their approximation."
+    },
+    {
+        "instruction": "How is the relationship between gaussian functions and image filtering described?",
+        "response": "The transcript describes how gaussian functions relate to image filtering, focusing on their application in capturing image areas.",
+        "category": "brainstorming",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript describes how gaussian functions relate to image filtering, focusing on their application in capturing image areas."
+    },
+    {
+        "instruction": "What is highlighted about the importance of centering in gaussian functions?",
+        "response": "The transcript highlights the importance of centering in gaussian functions, emphasizing higher values at the center and lower values at the edge.",
+        "category": "brainstorming",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript highlights the importance of centering in gaussian functions, emphasizing higher values at the center and lower values at the edge."
+    },
+    {
+        "instruction": "What does the transcript highlight as the purpose of the gaussian composite in visual algorithms?",
+        "response": "The gaussian composite is used to demonstrate the stress stage in visual algorithms and show how different scales work.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript discusses the use of the gaussian composite to illustrate the stress stage in visual algorithms and the functioning of different scales."
+    },
+    {
+        "instruction": "How does the transcript describe the role of a sphere in human perception of visual data?",
+        "response": "The transcript mentions that a sphere can resemble the question piece in human perception of visual data.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 70,
+        "context": "According to the transcript, a sphere can form a resemblance similar to the question piece in human perception of visual data."
+    },
+    {
+        "instruction": "What is emphasized about the nearest pixels in relation to the gaussian period?",
+        "response": "The nearest pixels play a significant role in determining the post difference necessary for the gaussian period.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript discusses how the nearest number of pixels contributes to the post difference required for the gaussian period."
+    },
+    {
+        "instruction": "How does the transcript describe the distribution of values between the center and edge in gaussian functions?",
+        "response": "The transcript highlights that gaussian functions prioritize higher values at the center compared to the edge.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 70,
+        "context": "According to the transcript, gaussian functions exhibit higher values at the center and lower values at the edge."
+    },
+    {
+        "instruction": "What is the approximation of gaussian functions discussed in the transcript?",
+        "response": "The transcript mentions that gaussian functions can be represented as distributed by stream or captured within a sphere.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript explores how gaussian functions can be approximated as distributed by stream or captured within a sphere."
+    },
+    {
+        "instruction": "How is the notion function associated with gaussian functions according to the transcript?",
+        "response": "The transcript discusses the notion function in relation to gaussian functions, describing its application and role.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 70,
+        "context": "According to the transcript, the notion function is discussed within the context of gaussian functions, exploring its role and application."
+    },
+    {
+        "instruction": "What does the transcript indicate about the impact of gaussian functions on image blurring?",
+        "response": "The transcript mentions that gaussian functions contribute to image blurring, simulating effects similar to real images through a transverse screen.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript discusses how gaussian functions are used for image blurring, creating effects akin to real images through a transverse screen."
+    },
+    {
+        "instruction": "What does the transcript emphasize about the distribution of gaussian functions within an image filtering context?",
+        "response": "The transcript highlights that gaussian functions are crucial for image filtering, particularly in capturing specific areas of an image.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 70,
+        "context": "According to the transcript, gaussian functions play a critical role in image filtering, especially in targeting specific image areas."
+    },
+    {
+        "instruction": "What is the main significance of centering discussed in relation to gaussian functions?",
+        "response": "The transcript emphasizes the importance of centering in gaussian functions, showcasing higher values at the center and lower values at the edge.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 70,
+        "context": "The transcript highlights the significance of centering in gaussian functions, illustrating the pattern of values from the center to the edge."
+    },
+    {
+        "instruction": "What is the purpose of the gaussian composite according to the transcript?",
+        "response": "The transcript describes the gaussian composite as proof of the stress stage in visual algorithms and the functioning of different scales.",
+        "category": "information_extraction",
+        "week": 3,
+        "page": 70,
+        "context": "According to the transcript, the gaussian composite serves as proof of the stress stage in visual algorithms and illustrates different scales."
+    },
+    
 
 ]
