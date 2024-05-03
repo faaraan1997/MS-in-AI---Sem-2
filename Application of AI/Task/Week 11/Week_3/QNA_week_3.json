@@ -232,8 +232,8 @@
         "context": "The transcript extracts information about the method of removing noisy from images."
     },
     {
-        "instruction": "According to the transcript, what is the next insturction discussed?",
-        "response": "The next insturction discussed is how to remove noisy from images.",
+        "instruction": "According to the transcript, what is the next instruction discussed?",
+        "response": "The next instruction discussed is how to remove noisy from images.",
         "category": "closed_qa",
         "week": 3,
         "page": 13,
@@ -280,12 +280,12 @@
         "context": "The transcript primarily focuses on discussing methods for removing noisy from images."
     },
     {
-        "instruction": "What insturction is raised regarding noisy removal?",
-        "response": "The insturction raised is how to remove noisy from images.",
+        "instruction": "What instruction is raised regarding noisy removal?",
+        "response": "The instruction raised is how to remove noisy from images.",
         "category": "closed_qa",
         "week": 3,
         "page": 13,
-        "context": "The transcript raises a insturction about the process of removing noisy from images."
+        "context": "The transcript raises a instruction about the process of removing noisy from images."
     },
     {
         "instruction": "What method is suggested for addressing noisy in images?",
@@ -352,12 +352,12 @@
         "context": "The transcript primarily focuses on discussing methods for removing noisy from images."
     },
     {
-        "instruction": "What is one insturction raised regarding noisy removal?",
-        "response": "One insturction raised is how to remove noisy from images.",
+        "instruction": "What is one instruction raised regarding noisy removal?",
+        "response": "One instruction raised is how to remove noisy from images.",
         "category": "closed_qa",
         "week": 3,
         "page": 13,
-        "context": "The transcript raises a insturction about the process of removing noisy from images."
+        "context": "The transcript raises a instruction about the process of removing noisy from images."
     },
     {
         "instruction": "What method is suggested for addressing noisy in images?",
@@ -416,12 +416,12 @@
         "context": "The transcript extracts information about using a filter with a suppressor as a potential solution for noisy in images."
     },
     {
-        "instruction": "What is the main insturction discussed in the transcript?",
-        "response": "The main insturction discussed is how to remove noisy from images.",
+        "instruction": "What is the main instruction discussed in the transcript?",
+        "response": "The main instruction discussed is how to remove noisy from images.",
         "category": "closed_qa",
         "week": 3,
         "page": 13,
-        "context": "The transcript raises a insturction about removing noisy from images."
+        "context": "The transcript raises a instruction about removing noisy from images."
     },
     {
         "instruction": "What is suggested as a potential solution for removing noisy from images?",
@@ -464,12 +464,12 @@
         "context": "The transcript mainly focuses on discussing methods for removing noisy from images."
     },
     {
-        "instruction": "What is one insturction raised regarding noisy removal?",
-        "response": "One insturction raised is how to remove noisy from images.",
+        "instruction": "What is one instruction raised regarding noisy removal?",
+        "response": "One instruction raised is how to remove noisy from images.",
         "category": "closed_qa",
         "week": 3,
         "page": 13,
-        "context": "The transcript raises a insturction about the process of removing noisy from images."
+        "context": "The transcript raises a instruction about the process of removing noisy from images."
     },
     {
         "instruction": "What method is suggested for addressing noisy in images?",
@@ -2664,8 +2664,8 @@
         "context": "The transcript provides information about neighborhood measurements."
     },
     {
-        "instruction": "What insturction is posed in the transcript?",
-        "response": "In the transcript, a insturction is posed about the number of neighborhoods for a specific point.",
+        "instruction": "What instruction is posed in the transcript?",
+        "response": "In the transcript, a instruction is posed about the number of neighborhoods for a specific point.",
         "category": "open_qa",
         "week": 3,
         "page": 19,
@@ -2720,12 +2720,12 @@
         "context": "The transcript provides examples to illustrate the concept of neighborhood measurements."
     },
     {
-        "instruction": "What insturction is raised regarding the number of neighborhoods?",
-        "response": "The transcript raises a insturction about the number of neighborhoods for a specific point.",
+        "instruction": "What instruction is raised regarding the number of neighborhoods?",
+        "response": "The transcript raises a instruction about the number of neighborhoods for a specific point.",
         "category": "information_extraction",
         "week": 3,
         "page": 19,
-        "context": "A insturction is posed about the number of neighborhoods for a particular point in the transcript."
+        "context": "A instruction is posed about the number of neighborhoods for a particular point in the transcript."
     },
     {
         "instruction": "What measurement is discussed in the transcript?",
@@ -2912,12 +2912,12 @@
         "context": "The transcript indicates that recovering the original image can be difficult due to pixels not being uniquely determined."
     },
     {
-        "instruction": "What is the main insturction posed in the transcript?",
-        "response": "The main insturction is whether the operation can be reversed to recover the original image, even with knowledge of the noise function.",
+        "instruction": "What is the main instruction posed in the transcript?",
+        "response": "The main instruction is whether the operation can be reversed to recover the original image, even with knowledge of the noise function.",
         "category": "general_qa",
         "week": 3,
         "page": 23,
-        "context": "The transcript poses the insturction of whether the operation can be reversed to recover the original image."
+        "context": "The transcript poses the instruction of whether the operation can be reversed to recover the original image."
     },
     {
         "instruction": "What analogy is used to explain the difficulty of recovering the original image?",
@@ -4000,7 +4000,7 @@
         "context": "In the reconsidered moving average example, nearby pixels are weighted differently based on a set of weights, unlike before where they were treated equally."
     },
     {
-        "insturction": "What is the main topic discussed in the transcript?",
+        "instruction": "What is the main topic discussed in the transcript?",
         "response": "The main topic discussed in the transcript is the concept of using weights in image processing.",
         "category": "open_qa",
         "week": 3,
@@ -4008,7 +4008,7 @@
         "context": "The transcript focuses on discussing the concept of using weights in image processing."
     },
     {
-        "insturction": "What concept is discussed in the transcript regarding the moving average example?",
+        "instruction": "What concept is discussed in the transcript regarding the moving average example?",
         "response": "The concept of using weights instead of treating all nearby pixels equally is discussed in the transcript.",
         "category": "general_qa",
         "week": 3,
@@ -4024,7 +4024,7 @@
         "context": "Using weights in image processing can have various applications."
     },
     {
-        "insturction": "What is the main topic discussed in the transcript?",
+        "instruction": "What is the main topic discussed in the transcript?",
         "response": "The main topic discussed in the transcript is the concept of using weights in image processing.",
         "category": "open_qa",
         "week": 3,
@@ -4032,7 +4032,7 @@
         "context": "The transcript focuses on discussing the concept of using weights in image processing."
     },
     {
-        "insturction": "How are nearby pixels treated differently in the discussed approach?",
+        "instruction": "How are nearby pixels treated differently in the discussed approach?",
         "response": "Nearby pixels are treated differently by assigning them weights instead of treating them equally.",
         "category": "closed_qa",
         "week": 3,
@@ -4048,7 +4048,7 @@
         "context": "The main idea of the transcript revolves around using weights to differentiate between nearby pixels in image processing."
     },
     {
-        "insturction": "What is the alternative approach suggested for the moving average example?",
+        "instruction": "What is the alternative approach suggested for the moving average example?",
         "response": "The alternative approach suggested is to use a set of weights instead of treating nearby pixels equally.",
         "category": "general_qa",
         "week": 3,
@@ -4064,7 +4064,7 @@
         "context": "Using weights in image processing can offer various advantages."
     },
     {
-        "insturction": "How are nearby pixels treated differently in the discussed approach?",
+        "instruction": "How are nearby pixels treated differently in the discussed approach?",
         "response": "Nearby pixels are treated differently by assigning them weights instead of treating them equally.",
         "category": "closed_qa",
         "week": 3,
@@ -4080,7 +4080,7 @@
         "context": "The main idea of the transcript revolves around using weights to differentiate between nearby pixels in image processing."
     },
     {
-        "insturction": "What is the main topic discussed in the transcript?",
+        "instruction": "What is the main topic discussed in the transcript?",
         "response": "The main topic discussed in the transcript is the concept of using weights in image processing.",
         "category": "open_qa",
         "week": 3,
@@ -4088,7 +4088,7 @@
         "context": "The transcript focuses on discussing the concept of using weights in image processing."
     },
     {
-        "insturction": "What concept is discussed in the transcript regarding the moving average example?",
+        "instruction": "What concept is discussed in the transcript regarding the moving average example?",
         "response": "The concept of using weights instead of treating all nearby pixels equally is discussed in the transcript.",
         "category": "general_qa",
         "week": 3,
@@ -4104,7 +4104,7 @@
         "context": "Using weights in image processing can have various applications."
     },
     {
-        "insturction": "What example is revisited in the transcript?",
+        "instruction": "What example is revisited in the transcript?",
         "response": "The transcript revisits the moving average example.",
         "category": "closed_qa",
         "week": 3,
@@ -4120,7 +4120,7 @@
         "context": "The main idea of the transcript revolves around using weights to differentiate between nearby pixels in image processing."
     },
     {
-        "insturction": "What is the alternative approach suggested for the moving average example?",
+        "instruction": "What is the alternative approach suggested for the moving average example?",
         "response": "The alternative approach suggested is to use a set of weights instead of treating nearby pixels equally.",
         "category": "general_qa",
         "week": 3,
@@ -4136,7 +4136,7 @@
         "context": "Using weights in image processing can offer various advantages."
     },
     {
-        "insturction": "How are nearby pixels treated differently in the discussed approach?",
+        "instruction": "How are nearby pixels treated differently in the discussed approach?",
         "response": "Nearby pixels are treated differently by assigning them weights instead of treating them equally.",
         "category": "closed_qa",
         "week": 3,
@@ -4152,7 +4152,7 @@
         "context": "The main idea of the transcript revolves around using weights to differentiate between nearby pixels in image processing."
     },
     {
-        "insturction": "What is the main topic discussed in the transcript?",
+        "instruction": "What is the main topic discussed in the transcript?",
         "response": "The main topic discussed in the transcript is the concept of using weights in image processing.",
         "category": "open_qa",
         "week": 3,
@@ -4160,7 +4160,7 @@
         "context": "The transcript focuses on discussing the concept of using weights in image processing."
     },
     {
-        "insturction": "What concept is discussed in the transcript regarding the moving average example?",
+        "instruction": "What concept is discussed in the transcript regarding the moving average example?",
         "response": "The concept of using weights instead of treating all nearby pixels equally is discussed in the transcript.",
         "category": "general_qa",
         "week": 3,
@@ -4928,7 +4928,7 @@
         "context": "The speaker illustrates the concept of assigning more weight to certain pixels by focusing on the center pixel and adjusting weights accordingly."
     },
     {
-        "instruction": "What insturction does the speaker ask to prompt audience engagement?",
+        "instruction": "What instruction does the speaker ask to prompt audience engagement?",
         "response": "The speaker asks if the audience has any questions or concerns, inviting active participation.",
         "category": "general_qa",
         "week": 3,
@@ -5928,7 +5928,7 @@
         "context": "The speaker queries the audience about their familiarity with uniform and non-uniform characteristics, seeking to gauge their level of understanding."
     },
     {
-        "instruction": "What insturction does the speaker pose about the number '15'?",
+        "instruction": "What instruction does the speaker pose about the number '15'?",
         "response": "The speaker asks how many audience members are aware of the number '15.'",
         "category": "open_qa",
         "week": 3,
@@ -6040,7 +6040,7 @@
         "context": "The speaker draws a comparison between the expression of the blue line and that of the center of A, highlighting similarities between the two."
     },
     {
-        "instruction": "What insturction does the speaker pose about the number '15'?",
+        "instruction": "What instruction does the speaker pose about the number '15'?",
         "response": "The speaker asks how many individuals are aware of the number '15.'",
         "category": "open_qa",
         "week": 3,
@@ -6256,7 +6256,7 @@
         "context": "The speaker explicitly encourages audience participation by inviting questions."
     },
     {
-        "instruction": "What insturction does the speaker pose regarding the audience's knowledge?",
+        "instruction": "What instruction does the speaker pose regarding the audience's knowledge?",
         "response": "The speaker asks how many individuals remember which characteristics are uniform and which ones are non-uniform.",
         "category": "general_qa",
         "week": 3,
@@ -6384,7 +6384,7 @@
         "context": "The speaker refers to the number '15' concerning the audience's understanding."
     },
     {
-        "instruction": "What insturction does the speaker pose regarding the audience's knowledge?",
+        "instruction": "What instruction does the speaker pose regarding the audience's knowledge?",
         "response": "The speaker asks how many individuals are aware of the number '15.'",
         "category": "information_extraction",
         "week": 3,
@@ -8344,12 +8344,12 @@
         "context": "The discussion in the transcript revolves around the application and comparison of uniform and non-uniform filtering techniques in the field of image processing."
     },
     {
-        "instruction": "What insturction does the speaker ask the professor?",
+        "instruction": "What instruction does the speaker ask the professor?",
         "response": "The speaker asks the professor about the difference between non-uniform and uniform filters in image processing.",
         "category": "general_qa",
         "week": 3,
         "page": 48,
-        "context": "The speaker directs a insturction to the professor regarding the distinction between non-uniform and uniform filters."
+        "context": "The speaker directs a instruction to the professor regarding the distinction between non-uniform and uniform filters."
     },
     {
         "instruction": "What functions are mentioned in the code?",
@@ -8424,12 +8424,12 @@
         "context": "The transcript focuses on explaining the distinction between non-uniform and uniform filtering techniques in the context of image processing."
     },
     {
-        "instruction": "What insturction does the speaker ask the professor?",
+        "instruction": "What instruction does the speaker ask the professor?",
         "response": "The speaker asks the professor to explain the difference between non-uniform and uniform filters.",
         "category": "information_extraction",
         "week": 3,
         "page": 48,
-        "context": "The speaker directs a insturction to the professor seeking clarification on the disparity between non-uniform and uniform filters."
+        "context": "The speaker directs a instruction to the professor seeking clarification on the disparity between non-uniform and uniform filters."
     },
     {
         "instruction": "What functions are mentioned in the code?",
@@ -8985,7 +8985,7 @@
     },
     {
         "context": "The conclusion is that filtering and impulse will output a flip of kernel weights.",
-        "insturction": "What does the conclusion state about the output of filtering and impulse?",
+        "instruction": "What does the conclusion state about the output of filtering and impulse?",
         "response": "The conclusion states that filtering and impulse will result in a flip of kernel weights.",
         "category": "information_extraction",
         "week": 3,
@@ -8993,7 +8993,7 @@
     },
     {
         "context": "But why did the value did not divide by the input? Because the input is the same as before.",
-        "insturction": "Why wasn't the value divided by the input?",
+        "instruction": "Why wasn't the value divided by the input?",
         "response": "The value was not divided by the input because the input remained the same as before.",
         "category": "information_extraction",
         "week": 3,
@@ -9001,7 +9001,7 @@
     },
     {
         "context": "But why did the value did not divide by nine? So in this case, it's not necessary just to divide by nine in this case.",
-        "insturction": "Why was the value not divided by nine in this case?",
+        "instruction": "Why was the value not divided by nine in this case?",
         "response": "The value was not divided by nine because it was deemed unnecessary in this particular case.",
         "category": "information_extraction",
         "week": 3,
@@ -9009,7 +9009,7 @@
     },
     {
         "context": "And this is another operation that is called the impulse signal.",
-        "insturction": "What is the name of another operation mentioned?",
+        "instruction": "What is the name of another operation mentioned?",
         "response": "Another operation mentioned is called the impulse signal.",
         "category": "information_extraction",
         "week": 3,
@@ -9017,7 +9017,7 @@
     },
     {
         "context": "Previously we divide by nine so that we want to give all of them like the same kind of value.",
-        "insturction": "Why was the value previously divided by nine?",
+        "instruction": "Why was the value previously divided by nine?",
         "response": "The value was previously divided by nine to ensure uniformity of value distribution.",
         "category": "information_extraction",
         "week": 3,
@@ -9025,7 +9025,7 @@
     },
     {
         "context": "In this case, it's the ABCDEFGHI.",
-        "insturction": "What does 'it' refer to in this case?",
+        "instruction": "What does 'it' refer to in this case?",
         "response": "'It' refers to the sequence of letters ABCDEFGHI.",
         "category": "information_extraction",
         "week": 3,
@@ -9033,7 +9033,7 @@
     },
     {
         "context": "We want to show what are the effects by filtering kernel. It's different purpose.",
-        "insturction": "What is the purpose of showing the effects of filtering kernel?",
+        "instruction": "What is the purpose of showing the effects of filtering kernel?",
         "response": "The purpose is to demonstrate the effects produced by the filtering kernel, which serves a different purpose.",
         "category": "information_extraction",
         "week": 3,
@@ -9041,7 +9041,7 @@
     },
     {
         "context": "Even if you divide by nine, let's say whatever happened, A divided by nine, B divided by nine, C divided by nine.",
-        "insturction": "What happens when you divide A, B, and C by nine?",
+        "instruction": "What happens when you divide A, B, and C by nine?",
         "response": "When divided by nine, each of A, B, and C results in a quotient.",
         "category": "information_extraction",
         "week": 3,
@@ -9049,16 +9049,16 @@
     },
     {
         "context": "You get the same conclusion here, right?",
-        "insturction": "Do you reach the same conclusion in this scenario?",
+        "instruction": "Do you reach the same conclusion in this scenario?",
         "response": "Yes, the same conclusion is reached in this scenario.",
         "category": "information_extraction",
         "week": 3,
         "page": 54
     },
     {
-        "context": "Does that response your insturction? YeS",
-        "insturction": "Was the insturction answered satisfactorily?",
-        "response": "Yes, the insturction was answered satisfactorily.",
+        "context": "Does that response your instruction? YeS",
+        "instruction": "Was the instruction answered satisfactorily?",
+        "response": "Yes, the instruction was answered satisfactorily.",
         "category": "information_extraction",
         "week": 3,
         "page": 54

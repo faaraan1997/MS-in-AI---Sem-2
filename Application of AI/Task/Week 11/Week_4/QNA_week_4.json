@@ -157,7 +157,7 @@
         "category": "general_qa",
         "week": 4,
         "page": 3,
-        "context": "So now the key question is why edges."
+        "context": "So now the key instruction is why edges."
     },
     {
         "instruction": "What chapter will be covered in this lecture?",
@@ -173,7 +173,7 @@
         "category": "open_qa",
         "week": 4,
         "page": 3,
-        "context": "So now the key question is why edges."
+        "context": "So now the key instruction is why edges."
     },
     {
         "instruction": "Write a poetic description of the significance of edges discussed in today's lecture.",
@@ -181,7 +181,7 @@
         "category": "creative_writing",
         "week": 4,
         "page": 3,
-        "context": "So now the key question is why edges."
+        "context": "So now the key instruction is why edges."
     },
     {
         "instruction": "Why are edges important in image processing?",
@@ -376,8 +376,8 @@
         "context": "The transcript discusses how edges contribute to pattern recognition, emphasizing their role in representing key visual features and outlines for accurate recognition."
     },
     {
-        "instruction": "What is the key question discussed in the transcript?",
-        "response": "The key question discussed in the transcript is why edges are important.",
+        "instruction": "What is the key instruction discussed in the transcript?",
+        "response": "The key instruction discussed in the transcript is why edges are important.",
         "category": "closed_qa",
         "week": 4,
         "page": 5,
@@ -589,7 +589,7 @@
         "category": "open_qa",
         "week": 4,
         "page": 5,
-        "context": "The key question is why edges are important. Edges contain key features and outlines, enabling understanding of visual information without color."
+        "context": "The key instruction is why edges are important. Edges contain key features and outlines, enabling understanding of visual information without color."
     },
     {
         "instruction": "Why are edges considered important?",
@@ -597,7 +597,7 @@
         "category": "closed_qa",
         "week": 4,
         "page": 5,
-        "context": "The key question is why edges are important. Edges contain key features and outlines, enabling understanding of visual information without color."
+        "context": "The key instruction is why edges are important. Edges contain key features and outlines, enabling understanding of visual information without color."
     },
     {
         "instruction": "What is the significance of edges in image processing?",
@@ -757,7 +757,7 @@
         "category": "summarisation",
         "week": 4,
         "page": 5,
-        "context": "The key question is why edges are important. Edges contain key features and outlines, enabling understanding of visual information without color."
+        "context": "The key instruction is why edges are important. Edges contain key features and outlines, enabling understanding of visual information without color."
     },
     {
         "instruction": "What is the importance of edge detection?",
@@ -1072,12 +1072,12 @@
         "context": "This discusses two easy methods for edge detection: thresholding and convolution."
     },
     {
-        "instruction": "What is the question posed regarding edge detection in the transcript?",
-        "response": "The question posed regarding edge detection in the transcript is how to determine if a pixel at location X, Y is an edge pixel.",
+        "instruction": "What is the instruction posed regarding edge detection in the transcript?",
+        "response": "The instruction posed regarding edge detection in the transcript is how to determine if a pixel at location X, Y is an edge pixel.",
         "category": "closed_qa",
         "week": 4,
         "page": 13,
-        "context": "This discusses a question about determining if a pixel at location X, Y is an edge pixel."
+        "context": "This discusses a instruction about determining if a pixel at location X, Y is an edge pixel."
     },
     {
         "instruction": "Summarize the discussion about identifying edge pixels in the transcript.",
@@ -1085,7 +1085,7 @@
         "category": "summarisation",
         "week": 4,
         "page": 13,
-        "context": "This discusses a question about determining if a pixel at location X, Y is an edge pixel."
+        "context": "This discusses a instruction about determining if a pixel at location X, Y is an edge pixel."
     },
     {
         "instruction": "Discuss the concept of image representation as a function in the context of edge detection.",
@@ -1093,7 +1093,7 @@
         "category": "information_extraction",
         "week": 4,
         "page": 13,
-        "context": "This discusses a question about determining if a pixel at location X, Y is an edge pixel."
+        "context": "This discusses a instruction about determining if a pixel at location X, Y is an edge pixel."
     },
     {
         "instruction": "Generate ideas on how to determine if a pixel is an edge pixel based on changes in intensity.",
@@ -1101,7 +1101,7 @@
         "category": "brainstorming",
         "week": 4,
         "page": 13,
-        "context": "This discusses a question about determining if a pixel at location X, Y is an edge pixel."
+        "context": "This discusses a instruction about determining if a pixel at location X, Y is an edge pixel."
     },
     {
         "instruction": "What challenges are associated with identifying edge pixels in image representation?",
@@ -1109,7 +1109,7 @@
         "category": "general_qa",
         "week": 4,
         "page": 13,
-        "context": "This discusses a question about determining if a pixel at location X, Y is an edge pixel."
+        "context": "This discusses a instruction about determining if a pixel at location X, Y is an edge pixel."
     },
     {
         "instruction": "Write a creative piece exploring the intricacies of identifying edge pixels in images.",
@@ -1117,7 +1117,7 @@
         "category": "creative_writing",
         "week": 4,
         "page": 13,
-        "context": "This discusses a question about determining if a pixel at location X, Y is an edge pixel."
+        "context": "This discusses a instruction about determining if a pixel at location X, Y is an edge pixel."
     },
     {
         "instruction": "What are the two types of representations mentioned in the transcript?",
@@ -4808,8 +4808,8 @@
         "context": "This mentions the function Fx and noise observed in its plotted representation."
     },
     {
-        "question": "What is highlighted about the function Fx in the lecture?",
-        "answer": "The lecture highlights the presence of significant noise in the plotted representation of the function Fx, indicating challenges in analyzing the image data.",
+        "instruction": "What is highlighted about the function Fx in the lecture?",
+        "response": "The lecture highlights the presence of significant noise in the plotted representation of the function Fx, indicating challenges in analyzing the image data.",
         "category": "closed_qa",
         "week": 4,
         "page": 58,
@@ -4824,8 +4824,8 @@
         "context": "This addresses the function Fx and noise observed in its plotted representation."
     },
     {
-        "question": "What topic does the lecture cover regarding the function Fx?",
-        "answer": "The lecture discusses the presence of noise in the plotted representation of the function Fx and its implications for analyzing image data.",
+        "instruction": "What topic does the lecture cover regarding the function Fx?",
+        "response": "The lecture discusses the presence of noise in the plotted representation of the function Fx and its implications for analyzing image data.",
         "category": "classification",
         "week": 4,
         "page": 58,
@@ -4840,8 +4840,8 @@
         "context": "This discusses significant noise observed in the plotted function Fx."
     },
     {
-        "question": "How does the lecture address noise in the context of the function Fx?",
-        "answer": "The lecture addresses the presence of significant noise in the plotted function Fx, emphasizing its impact on analyzing image data.",
+        "instruction": "How does the lecture address noise in the context of the function Fx?",
+        "response": "The lecture addresses the presence of significant noise in the plotted function Fx, emphasizing its impact on analyzing image data.",
         "category": "general_qa",
         "week": 4,
         "page": 58,
@@ -7809,7 +7809,7 @@
     },
     {
         "instruction": "What criteria are used to determine if a pixel is a local minima along the gradient direction in the example provided in the transcript?",
-        "response": "According to the transcript, to determine if a pixel is a local minima along the gradient direction, interpolation is performed between neighboring pixels P and R. By comparing the values of the pixel in question with the interpolated values, the method establishes whether the pixel represents a true edge.",
+        "response": "According to the transcript, to determine if a pixel is a local minima along the gradient direction, interpolation is performed between neighboring pixels P and R. By comparing the values of the pixel in instruction with the interpolated values, the method establishes whether the pixel represents a true edge.",
         "category": "open_qa",
         "week": 4,
         "page": 96,
